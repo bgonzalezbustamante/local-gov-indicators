@@ -1,1 +1,1 @@
-- Remove raw_data before going public.
+- Clean and remove raw_data before going public.
