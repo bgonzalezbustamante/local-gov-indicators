@@ -3,7 +3,7 @@ All notable changes to "Digital Development of Chilean Municipalities" will be d
 
 ## [Unreleased]
 
-## [0.1.0] - TBC
+## [1.0.0] - TBC
 ### Added
 - OSF project (DOI: TBC).
 - Badges in SVG on GiHub repository.
@@ -20,4 +20,4 @@ All notable changes to "Digital Development of Chilean Municipalities" will be d
 ## [0.1.0] - 2020-10-28
 ### Added
 - GitHub repository.
-- README on GitHub repository.
+- README in MD format on GitHub repository.
