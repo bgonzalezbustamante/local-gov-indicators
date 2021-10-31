@@ -20,3 +20,4 @@ All notable changes to "Digital Development of Chilean Municipalities" will be d
 ## [0.1.0] - 2020-10-28
 ### Added
 - GitHub repository.
+- README on GitHub repository.
