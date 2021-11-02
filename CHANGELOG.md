@@ -13,6 +13,13 @@ All notable changes to "Digital Development of Chilean Municipalities" will be d
 
 ## [Released]
 
+## [0.3.0] - 2020-11-02
+### Added
+- Raw EGi 2016 measurement.
+### Deprecated
+- Raw EGi 2016 measurement.
+- Raw EGi 2019 measurement.
+
 ## [0.2.0] - 2020-10-31
 ### Added
 - Changelog in MD format on GitHub repository.
