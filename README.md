@@ -1,2 +1,2 @@
 # e-gov-index
-Digital Development of Chilean Municipalities
+**Digital Development of Chilean Municipalities**
