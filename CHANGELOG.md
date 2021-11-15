@@ -6,12 +6,21 @@ All notable changes to "Digital Development of Chilean Municipalities" will be d
 ## [1.0.0] - TBC
 ### Added
 - OSF project (DOI: TBC).
-- Badges in SVG on GiHub repository.
 - Release of VOR data set.
 ### Changed
 - Scripts and folders names standardisation.
 
+## [0.5.0] - TBC
+### Added
+- Raw EGi 2021 measurement.
+
 ## [Released]
+
+## [0.4.0] - 2020-11-15
+### Added
+- Badges in SVG on GiHub repository.
+### Changed
+- License in MD format on GitHub repository.
 
 ## [0.3.0] - 2020-11-02
 ### Added
