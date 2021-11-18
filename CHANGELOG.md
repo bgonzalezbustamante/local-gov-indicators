@@ -10,11 +10,15 @@ All notable changes to "Digital Development of Chilean Municipalities" will be d
 ### Changed
 - Scripts and folders names standardisation.
 
-## [0.6.0] - TBC
+## [0.6.1] - TBC
 ### Added
 - Raw EGi 2021 measurement.
 
 ## [Released]
+
+## [0.5.1] - 2020-11-18
+### Changed
+- Minor corrections.
 
 ## [0.5.0] - 2020-11-17
 ### Added
