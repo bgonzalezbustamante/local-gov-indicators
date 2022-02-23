@@ -9,19 +9,35 @@ WIP
 
 ## Metadata and Preservation
 
-This TBC is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier (DOI: TBC) is provided by TBC.
+This data is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
 
 WIP
 
-## Store and Backup
+X directories and XX files.
 
-The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)). Both USB keys issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
+In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
 
-WIP
+## Storage
+
+The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Diego Aguilar, [ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
 
 ## Getting Started
 
 ### Software
+
+We use R version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
+
+Required R libraries are: WIP.
+
+We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project "**e-gov-index.Rproj**".
+
+### Import Data
+
+#### R Code
+
+WIP
+
+#### Python Code
 
 WIP
 
@@ -35,11 +51,19 @@ WIP
 
 ## License
 
-This TBC is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
+This data is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
+
+## Contribute
+
+Contributions are entirely welcome. You just need to [open an issue](https://github.com/bgonzalezbustamante/e-gov-index/issues/new) with your comment or idea.
+
+For more substantial contributions, please fork this repository and make changes. Pull requests are also welcome.
+
+Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
 
 ## Citation
 
-WIP
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.5.1 -- XXXXXX) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
 
 ## Authors
 
@@ -54,9 +78,9 @@ diego.aguilar@training-datalab.com \
 
 ## CRediT - Contributor Roles Taxonomy
 
-Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, methodology, project administration, resources, software, supervision, validation, visualization, writing original draft, and writing review and editing.
+Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, methodology, project administration, resources, software, supervision, validation, visualization, writing – original draft, and writing – review and editing.
 
-Diego Aguilar ([ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)): Conceptualisation, data curation, investigation, resources, validation, writing original draft, and writing review and editing.
+Diego Aguilar ([ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)): Conceptualisation, data curation, investigation, resources, validation, writing – original draft, and writing – review and editing.
 
 Berenice Orvenes: Investigation and resources.
 
@@ -68,4 +92,4 @@ Elinor Luco: Investigation.
 
 ### Latest Revision
 
-[TBC](CHANGELOG.md).
+[February 23, 2022](CHANGELOG.md).
