@@ -1,7 +1,7 @@
 # e-gov-index
-**Digital Development of Chilean Municipalities**
+**Data Set on Local E-Government Index in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.5.1-blue.svg)](CHANGELOG.md) [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.7.2-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Overview
 
@@ -63,7 +63,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.5.1 -- XXXXXX) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.7.2 -- Frosty Wildflower) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
 
 ## Authors
 
