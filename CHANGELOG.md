@@ -1,18 +1,29 @@
 # Changelog
-All notable changes to "Digital Development of Chilean Municipalities" will be documented in this file.
+All notable changes to "Data Set on Local E-Government Index in Chile" will be documented in this file.
 
 ## [Unreleased]
 
 ## [1.0.0] - TBC
 ### Added
-- OSF project (DOI: TBC).
+- Zenodo DOI.
+- EGi data cleaning code.
 - Release of VOR data set.
-### Changed
-- Scripts and folders names standardisation.
+- Exploratory data analysis code.
+- Import data code.
+- BibTeX file.
 
 ## [Released]
 
-## [0.6.1] - 2021-11-15
+## [0.7.2] - 2022-02-23
+### Added
+- Code of conduct in MD format.
+- Citation CFF file.
+### Changed
+- Scripts and folders names standardisation.
+- Revision of upgrade versioning.
+- Minor corrections.
+
+## [0.6.2] - 2021-11-15
 ### Added
 - Raw EGi 2021 measurement.
 
