@@ -6,11 +6,15 @@ All notable changes to "Data Set on Local E-Government Index in Chile" will be d
 ## [1.0.0] - TBC
 ### Added
 - Zenodo DOI.
-- EGi data cleaning code.
+- EGi data cleaning and merging code.
 - Release of VOR data set.
 - Exploratory data analysis code.
 - Import data code.
 - BibTeX file.
+### Removed
+- Raw EGi 2021 measurement.
+- Raw EGi 2019 measurement.
+- Raw EGi 2016 measurement.
 
 ## [Released]
 
@@ -22,6 +26,8 @@ All notable changes to "Data Set on Local E-Government Index in Chile" will be d
 - Scripts and folders names standardisation.
 - Revision of upgrade versioning.
 - Minor corrections.
+### Deprecated
+- Raw EGi 2021 measurement.
 
 ## [0.6.2] - 2021-11-15
 ### Added
