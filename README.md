@@ -63,7 +63,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.7.2 -- Frosty Wildflower) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.8.2 -- Autumn Base) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
 
 ## Authors
 
