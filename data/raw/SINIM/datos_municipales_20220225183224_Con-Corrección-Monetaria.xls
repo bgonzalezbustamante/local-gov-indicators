@@ -1,0 +1,3218 @@
+
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>MCEDWIN</Author>
+  <LastAuthor>MCEDWIN</LastAuthor>
+  <Created>2013-07-20T02:44:40Z</Created>
+  <LastSaved>2013-07-20T02:44:58Z</LastSaved>
+  <Company>Windows</Company>
+  <Version>7</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10740</WindowHeight>
+  <WindowWidth>17595</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+  <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+				<Style ss:ID="xsfd228690e004fcd59e8c8ab8b5599c49"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#666666" ss:Pattern="Solid"/></Style>
+<Style ss:ID="xsa176e62aa212f75a7a44cd693855bbdc"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/></Style>
+<Style ss:ID="xsf5677cf341a28c09d433336d0a19d670"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#000099" ss:Pattern="Solid"/></Style>
+				
+
+</Styles>
+<Worksheet ss:Name="Hoja1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="348" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+<Column ss:Index='1' ss:Width='270' />
+<Column ss:Index='2' ss:Width='270' />
+<Column ss:Index='3' ss:Width='270' />
+<Column ss:Index='4' ss:Width='270' />
+<Column ss:Index='5' ss:Width='270' />
+<Column ss:Index='6' ss:Width='270' />
+<Column ss:Index='7' ss:Width='270' />
+<Row>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">Nota: Al aplicar corrección monetaria, se despliegan valores en miles de pesos reales correspondientes al último mes de Diciembre del año vigente publicado. (considera base 2009=100).  fa 2020 = 1 fa 2019 = 1.03 fa 2018 = 1.061 fa 2017 = 1.088 fa 2016 = 1.112</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="xsa176e62aa212f75a7a44cd693855bbdc"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="xsa176e62aa212f75a7a44cd693855bbdc"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">BPVMSALINI (M$) Presupuesto Vigente Saldo Inicial de Caja Sector Municipal</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">BPVMSALINI (M$) Presupuesto Vigente Saldo Inicial de Caja Sector Municipal</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">BPVMSALINI (M$) Presupuesto Vigente Saldo Inicial de Caja Sector Municipal</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">BPVMSALINI (M$) Presupuesto Vigente Saldo Inicial de Caja Sector Municipal</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">BPVMSALINI (M$) Presupuesto Vigente Saldo Inicial de Caja Sector Municipal</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">CODIGO</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">MUNICIPIO</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2019</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2018</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2017</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2016</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01101</Data></Cell>
+<Cell ><Data ss:Type="String">IQUIQUE</Data></Cell>
+<Cell ><Data ss:Type="Number">17812515</Data></Cell>
+<Cell ><Data ss:Type="Number">16820105</Data></Cell>
+<Cell ><Data ss:Type="Number">9040780</Data></Cell>
+<Cell ><Data ss:Type="Number">6547768</Data></Cell>
+<Cell ><Data ss:Type="Number">14100514</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01107</Data></Cell>
+<Cell ><Data ss:Type="String">ALTO HOSPICIO</Data></Cell>
+<Cell ><Data ss:Type="Number">520035</Data></Cell>
+<Cell ><Data ss:Type="Number">613829</Data></Cell>
+<Cell ><Data ss:Type="Number">589737</Data></Cell>
+<Cell ><Data ss:Type="Number">372756</Data></Cell>
+<Cell ><Data ss:Type="Number">-232321</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01401</Data></Cell>
+<Cell ><Data ss:Type="String">POZO ALMONTE</Data></Cell>
+<Cell ><Data ss:Type="Number">276894</Data></Cell>
+<Cell ><Data ss:Type="Number">285201</Data></Cell>
+<Cell ><Data ss:Type="Number">363616</Data></Cell>
+<Cell ><Data ss:Type="Number">293540</Data></Cell>
+<Cell ><Data ss:Type="Number">482955</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01402</Data></Cell>
+<Cell ><Data ss:Type="String">CAMIÑA</Data></Cell>
+<Cell ><Data ss:Type="Number">1995573</Data></Cell>
+<Cell ><Data ss:Type="Number">1713877</Data></Cell>
+<Cell ><Data ss:Type="Number">1569011</Data></Cell>
+<Cell ><Data ss:Type="Number">1681598</Data></Cell>
+<Cell ><Data ss:Type="Number">1710093</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01403</Data></Cell>
+<Cell ><Data ss:Type="String">COLCHANE</Data></Cell>
+<Cell ><Data ss:Type="Number">37000</Data></Cell>
+<Cell ><Data ss:Type="Number">10300</Data></Cell>
+<Cell ><Data ss:Type="Number">340932</Data></Cell>
+<Cell ><Data ss:Type="Number">-3366</Data></Cell>
+<Cell ><Data ss:Type="Number">66416</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01404</Data></Cell>
+<Cell ><Data ss:Type="String">HUARA</Data></Cell>
+<Cell ><Data ss:Type="Number">125333</Data></Cell>
+<Cell ><Data ss:Type="Number">433109</Data></Cell>
+<Cell ><Data ss:Type="Number">913027</Data></Cell>
+<Cell ><Data ss:Type="Number">400264</Data></Cell>
+<Cell ><Data ss:Type="Number">786878</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">01405</Data></Cell>
+<Cell ><Data ss:Type="String">PICA</Data></Cell>
+<Cell ><Data ss:Type="Number">1147678</Data></Cell>
+<Cell ><Data ss:Type="Number">971910</Data></Cell>
+<Cell ><Data ss:Type="Number">1593660</Data></Cell>
+<Cell ><Data ss:Type="Number">1781270</Data></Cell>
+<Cell ><Data ss:Type="Number">1945853</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02101</Data></Cell>
+<Cell ><Data ss:Type="String">ANTOFAGASTA</Data></Cell>
+<Cell ><Data ss:Type="Number">22035590</Data></Cell>
+<Cell ><Data ss:Type="Number">18284738</Data></Cell>
+<Cell ><Data ss:Type="Number">22082890</Data></Cell>
+<Cell ><Data ss:Type="Number">22847089</Data></Cell>
+<Cell ><Data ss:Type="Number">20870432</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02102</Data></Cell>
+<Cell ><Data ss:Type="String">MEJILLONES</Data></Cell>
+<Cell ><Data ss:Type="Number">206791</Data></Cell>
+<Cell ><Data ss:Type="Number">365003</Data></Cell>
+<Cell ><Data ss:Type="Number">2040198</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">1831567</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02103</Data></Cell>
+<Cell ><Data ss:Type="String">SIERRA GORDA</Data></Cell>
+<Cell ><Data ss:Type="Number">1957726</Data></Cell>
+<Cell ><Data ss:Type="Number">1667241</Data></Cell>
+<Cell ><Data ss:Type="Number">1025807</Data></Cell>
+<Cell ><Data ss:Type="Number">1524952</Data></Cell>
+<Cell ><Data ss:Type="Number">2385109</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02104</Data></Cell>
+<Cell ><Data ss:Type="String">TALTAL</Data></Cell>
+<Cell ><Data ss:Type="Number">958630</Data></Cell>
+<Cell ><Data ss:Type="Number">1438279</Data></Cell>
+<Cell ><Data ss:Type="Number">715965</Data></Cell>
+<Cell ><Data ss:Type="Number">1612398</Data></Cell>
+<Cell ><Data ss:Type="Number">2407480</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02201</Data></Cell>
+<Cell ><Data ss:Type="String">CALAMA</Data></Cell>
+<Cell ><Data ss:Type="Number">11666814</Data></Cell>
+<Cell ><Data ss:Type="Number">8804290</Data></Cell>
+<Cell ><Data ss:Type="Number">7018869</Data></Cell>
+<Cell ><Data ss:Type="Number">2673444</Data></Cell>
+<Cell ><Data ss:Type="Number">4988191</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02202</Data></Cell>
+<Cell ><Data ss:Type="String">OLLAGÜE</Data></Cell>
+<Cell ><Data ss:Type="Number">1575425</Data></Cell>
+<Cell ><Data ss:Type="Number">924252</Data></Cell>
+<Cell ><Data ss:Type="Number">603142</Data></Cell>
+<Cell ><Data ss:Type="Number">586620</Data></Cell>
+<Cell ><Data ss:Type="Number">823156</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02203</Data></Cell>
+<Cell ><Data ss:Type="String">SAN PEDRO DE ATACAMA</Data></Cell>
+<Cell ><Data ss:Type="Number">5799370</Data></Cell>
+<Cell ><Data ss:Type="Number">4164447</Data></Cell>
+<Cell ><Data ss:Type="Number">2167341</Data></Cell>
+<Cell ><Data ss:Type="Number">254680</Data></Cell>
+<Cell ><Data ss:Type="Number">204587</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02301</Data></Cell>
+<Cell ><Data ss:Type="String">TOCOPILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">3522180</Data></Cell>
+<Cell ><Data ss:Type="Number">2900109</Data></Cell>
+<Cell ><Data ss:Type="Number">2142964</Data></Cell>
+<Cell ><Data ss:Type="Number">97920</Data></Cell>
+<Cell ><Data ss:Type="Number">166800</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02302</Data></Cell>
+<Cell ><Data ss:Type="String">MARÍA ELENA</Data></Cell>
+<Cell ><Data ss:Type="Number">2095388</Data></Cell>
+<Cell ><Data ss:Type="Number">758454</Data></Cell>
+<Cell ><Data ss:Type="Number">756005</Data></Cell>
+<Cell ><Data ss:Type="Number">489600</Data></Cell>
+<Cell ><Data ss:Type="Number">611600</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03101</Data></Cell>
+<Cell ><Data ss:Type="String">COPIAPÓ</Data></Cell>
+<Cell ><Data ss:Type="Number">350000</Data></Cell>
+<Cell ><Data ss:Type="Number">758884</Data></Cell>
+<Cell ><Data ss:Type="Number">203515</Data></Cell>
+<Cell ><Data ss:Type="Number">564818</Data></Cell>
+<Cell ><Data ss:Type="Number">736649</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03102</Data></Cell>
+<Cell ><Data ss:Type="String">CALDERA</Data></Cell>
+<Cell ><Data ss:Type="Number">2374209</Data></Cell>
+<Cell ><Data ss:Type="Number">2430778</Data></Cell>
+<Cell ><Data ss:Type="Number">1917590</Data></Cell>
+<Cell ><Data ss:Type="Number">2683842</Data></Cell>
+<Cell ><Data ss:Type="Number">2390433</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03103</Data></Cell>
+<Cell ><Data ss:Type="String">TIERRA AMARILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">84468</Data></Cell>
+<Cell ><Data ss:Type="Number">1499059</Data></Cell>
+<Cell ><Data ss:Type="Number">454392</Data></Cell>
+<Cell ><Data ss:Type="Number">250908</Data></Cell>
+<Cell ><Data ss:Type="Number">222400</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03201</Data></Cell>
+<Cell ><Data ss:Type="String">CHAÑARAL</Data></Cell>
+<Cell ><Data ss:Type="Number">1173506</Data></Cell>
+<Cell ><Data ss:Type="Number">1043532</Data></Cell>
+<Cell ><Data ss:Type="Number">530761</Data></Cell>
+<Cell ><Data ss:Type="Number">402162</Data></Cell>
+<Cell ><Data ss:Type="Number">507141</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03202</Data></Cell>
+<Cell ><Data ss:Type="String">DIEGO DE ALMAGRO</Data></Cell>
+<Cell ><Data ss:Type="Number">2933424</Data></Cell>
+<Cell ><Data ss:Type="Number">1833052</Data></Cell>
+<Cell ><Data ss:Type="Number">1811772</Data></Cell>
+<Cell ><Data ss:Type="Number">2888426</Data></Cell>
+<Cell ><Data ss:Type="Number">3441022</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03301</Data></Cell>
+<Cell ><Data ss:Type="String">VALLENAR</Data></Cell>
+<Cell ><Data ss:Type="Number">745636</Data></Cell>
+<Cell ><Data ss:Type="Number">1935226</Data></Cell>
+<Cell ><Data ss:Type="Number">2503624</Data></Cell>
+<Cell ><Data ss:Type="Number">710142</Data></Cell>
+<Cell ><Data ss:Type="Number">726400</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03302</Data></Cell>
+<Cell ><Data ss:Type="String">ALTO DEL CARMEN</Data></Cell>
+<Cell ><Data ss:Type="Number">2271704</Data></Cell>
+<Cell ><Data ss:Type="Number">1973815</Data></Cell>
+<Cell ><Data ss:Type="Number">1571781</Data></Cell>
+<Cell ><Data ss:Type="Number">1436221</Data></Cell>
+<Cell ><Data ss:Type="Number">1383911</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03303</Data></Cell>
+<Cell ><Data ss:Type="String">FREIRINA</Data></Cell>
+<Cell ><Data ss:Type="Number">765419</Data></Cell>
+<Cell ><Data ss:Type="Number">469317</Data></Cell>
+<Cell ><Data ss:Type="Number">247200</Data></Cell>
+<Cell ><Data ss:Type="Number">140149</Data></Cell>
+<Cell ><Data ss:Type="Number">436200</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">03304</Data></Cell>
+<Cell ><Data ss:Type="String">HUASCO</Data></Cell>
+<Cell ><Data ss:Type="Number">126599</Data></Cell>
+<Cell ><Data ss:Type="Number">347550</Data></Cell>
+<Cell ><Data ss:Type="Number">95729</Data></Cell>
+<Cell ><Data ss:Type="Number">331379</Data></Cell>
+<Cell ><Data ss:Type="Number">99706</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04101</Data></Cell>
+<Cell ><Data ss:Type="String">LA SERENA</Data></Cell>
+<Cell ><Data ss:Type="Number">2797230</Data></Cell>
+<Cell ><Data ss:Type="Number">1708551</Data></Cell>
+<Cell ><Data ss:Type="Number">1748760</Data></Cell>
+<Cell ><Data ss:Type="Number">1117433</Data></Cell>
+<Cell ><Data ss:Type="Number">1168712</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04102</Data></Cell>
+<Cell ><Data ss:Type="String">COQUIMBO</Data></Cell>
+<Cell ><Data ss:Type="Number">-203532</Data></Cell>
+<Cell ><Data ss:Type="Number">-1211561</Data></Cell>
+<Cell ><Data ss:Type="Number">-492096</Data></Cell>
+<Cell ><Data ss:Type="Number">209284</Data></Cell>
+<Cell ><Data ss:Type="Number">89420</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04103</Data></Cell>
+<Cell ><Data ss:Type="String">ANDACOLLO</Data></Cell>
+<Cell ><Data ss:Type="Number">1344037</Data></Cell>
+<Cell ><Data ss:Type="Number">1048011</Data></Cell>
+<Cell ><Data ss:Type="Number">633317</Data></Cell>
+<Cell ><Data ss:Type="Number">922285</Data></Cell>
+<Cell ><Data ss:Type="Number">867391</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04104</Data></Cell>
+<Cell ><Data ss:Type="String">LA HIGUERA</Data></Cell>
+<Cell ><Data ss:Type="Number">552563</Data></Cell>
+<Cell ><Data ss:Type="Number">462690</Data></Cell>
+<Cell ><Data ss:Type="Number">169539</Data></Cell>
+<Cell ><Data ss:Type="Number">49811</Data></Cell>
+<Cell ><Data ss:Type="Number">65011</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04105</Data></Cell>
+<Cell ><Data ss:Type="String">PAIGUANO</Data></Cell>
+<Cell ><Data ss:Type="Number">457750</Data></Cell>
+<Cell ><Data ss:Type="Number">380777</Data></Cell>
+<Cell ><Data ss:Type="Number">339126</Data></Cell>
+<Cell ><Data ss:Type="Number">442990</Data></Cell>
+<Cell ><Data ss:Type="Number">348459</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04106</Data></Cell>
+<Cell ><Data ss:Type="String">VICUÑA</Data></Cell>
+<Cell ><Data ss:Type="Number">1890493</Data></Cell>
+<Cell ><Data ss:Type="Number">1945085</Data></Cell>
+<Cell ><Data ss:Type="Number">989486</Data></Cell>
+<Cell ><Data ss:Type="Number">385629</Data></Cell>
+<Cell ><Data ss:Type="Number">724987</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04201</Data></Cell>
+<Cell ><Data ss:Type="String">ILLAPEL</Data></Cell>
+<Cell ><Data ss:Type="Number">1480785</Data></Cell>
+<Cell ><Data ss:Type="Number">1007621</Data></Cell>
+<Cell ><Data ss:Type="Number">-203300</Data></Cell>
+<Cell ><Data ss:Type="Number">-638100</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04202</Data></Cell>
+<Cell ><Data ss:Type="String">CANELA</Data></Cell>
+<Cell ><Data ss:Type="Number">625544</Data></Cell>
+<Cell ><Data ss:Type="Number">480963</Data></Cell>
+<Cell ><Data ss:Type="Number">248220</Data></Cell>
+<Cell ><Data ss:Type="Number">327438</Data></Cell>
+<Cell ><Data ss:Type="Number">640612</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04203</Data></Cell>
+<Cell ><Data ss:Type="String">LOS VILOS</Data></Cell>
+<Cell ><Data ss:Type="Number">2462220</Data></Cell>
+<Cell ><Data ss:Type="Number">2445985</Data></Cell>
+<Cell ><Data ss:Type="Number">1232104</Data></Cell>
+<Cell ><Data ss:Type="Number">647865</Data></Cell>
+<Cell ><Data ss:Type="Number">637415</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04204</Data></Cell>
+<Cell ><Data ss:Type="String">SALAMANCA</Data></Cell>
+<Cell ><Data ss:Type="Number">-1224245</Data></Cell>
+<Cell ><Data ss:Type="Number">-326509</Data></Cell>
+<Cell ><Data ss:Type="Number">-1222425</Data></Cell>
+<Cell ><Data ss:Type="Number">-956801</Data></Cell>
+<Cell ><Data ss:Type="Number">103498</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04301</Data></Cell>
+<Cell ><Data ss:Type="String">OVALLE</Data></Cell>
+<Cell ><Data ss:Type="Number">2106161</Data></Cell>
+<Cell ><Data ss:Type="Number">912111</Data></Cell>
+<Cell ><Data ss:Type="Number">2529785</Data></Cell>
+<Cell ><Data ss:Type="Number">3451523</Data></Cell>
+<Cell ><Data ss:Type="Number">5265605</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04302</Data></Cell>
+<Cell ><Data ss:Type="String">COMBARBALÁ</Data></Cell>
+<Cell ><Data ss:Type="Number">611973</Data></Cell>
+<Cell ><Data ss:Type="Number">420042</Data></Cell>
+<Cell ><Data ss:Type="Number">228834</Data></Cell>
+<Cell ><Data ss:Type="Number">47413</Data></Cell>
+<Cell ><Data ss:Type="Number">178343</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04303</Data></Cell>
+<Cell ><Data ss:Type="String">MONTE PATRIA</Data></Cell>
+<Cell ><Data ss:Type="Number">361788</Data></Cell>
+<Cell ><Data ss:Type="Number">891494</Data></Cell>
+<Cell ><Data ss:Type="Number">1164811</Data></Cell>
+<Cell ><Data ss:Type="Number">1012295</Data></Cell>
+<Cell ><Data ss:Type="Number">1528027</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04304</Data></Cell>
+<Cell ><Data ss:Type="String">PUNITAQUI</Data></Cell>
+<Cell ><Data ss:Type="Number">851561</Data></Cell>
+<Cell ><Data ss:Type="Number">753859</Data></Cell>
+<Cell ><Data ss:Type="Number">743513</Data></Cell>
+<Cell ><Data ss:Type="Number">513391</Data></Cell>
+<Cell ><Data ss:Type="Number">618887</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">04305</Data></Cell>
+<Cell ><Data ss:Type="String">RÍO HURTADO</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">821094</Data></Cell>
+<Cell ><Data ss:Type="Number">492332</Data></Cell>
+<Cell ><Data ss:Type="Number">489872</Data></Cell>
+<Cell ><Data ss:Type="Number">499717</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05101</Data></Cell>
+<Cell ><Data ss:Type="String">VALPARAÍSO</Data></Cell>
+<Cell ><Data ss:Type="Number">4438841</Data></Cell>
+<Cell ><Data ss:Type="Number">3873375</Data></Cell>
+<Cell ><Data ss:Type="Number">5214033</Data></Cell>
+<Cell ><Data ss:Type="Number">4240856</Data></Cell>
+<Cell ><Data ss:Type="Number">2101148</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05102</Data></Cell>
+<Cell ><Data ss:Type="String">CASABLANCA</Data></Cell>
+<Cell ><Data ss:Type="Number">3298608</Data></Cell>
+<Cell ><Data ss:Type="Number">3106666</Data></Cell>
+<Cell ><Data ss:Type="Number">3292178</Data></Cell>
+<Cell ><Data ss:Type="Number">2303296</Data></Cell>
+<Cell ><Data ss:Type="Number">1361789</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05103</Data></Cell>
+<Cell ><Data ss:Type="String">CONCÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">5634931</Data></Cell>
+<Cell ><Data ss:Type="Number">5020613</Data></Cell>
+<Cell ><Data ss:Type="Number">5013826</Data></Cell>
+<Cell ><Data ss:Type="Number">3122522</Data></Cell>
+<Cell ><Data ss:Type="Number">3802116</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05104</Data></Cell>
+<Cell ><Data ss:Type="String">JUAN FERNÁNDEZ</Data></Cell>
+<Cell ><Data ss:Type="Number">853065</Data></Cell>
+<Cell ><Data ss:Type="Number">926785</Data></Cell>
+<Cell ><Data ss:Type="Number">809702</Data></Cell>
+<Cell ><Data ss:Type="Number">460451</Data></Cell>
+<Cell ><Data ss:Type="Number">565594</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05105</Data></Cell>
+<Cell ><Data ss:Type="String">PUCHUNCAVÍ</Data></Cell>
+<Cell ><Data ss:Type="Number">3574667</Data></Cell>
+<Cell ><Data ss:Type="Number">2647231</Data></Cell>
+<Cell ><Data ss:Type="Number">1205622</Data></Cell>
+<Cell ><Data ss:Type="Number">582841</Data></Cell>
+<Cell ><Data ss:Type="Number">718130</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05107</Data></Cell>
+<Cell ><Data ss:Type="String">QUINTERO</Data></Cell>
+<Cell ><Data ss:Type="Number">2480200</Data></Cell>
+<Cell ><Data ss:Type="Number">1543967</Data></Cell>
+<Cell ><Data ss:Type="Number">10610</Data></Cell>
+<Cell ><Data ss:Type="Number">10880</Data></Cell>
+<Cell ><Data ss:Type="Number">11120</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05109</Data></Cell>
+<Cell ><Data ss:Type="String">VIÑA DEL MAR</Data></Cell>
+<Cell ><Data ss:Type="Number">9653790</Data></Cell>
+<Cell ><Data ss:Type="Number">3554097</Data></Cell>
+<Cell ><Data ss:Type="Number">5638228</Data></Cell>
+<Cell ><Data ss:Type="Number">6218154</Data></Cell>
+<Cell ><Data ss:Type="Number">9164292</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05201</Data></Cell>
+<Cell ><Data ss:Type="String">ISLA DE PASCUA</Data></Cell>
+<Cell ><Data ss:Type="Number">1753254</Data></Cell>
+<Cell ><Data ss:Type="Number">1830628</Data></Cell>
+<Cell ><Data ss:Type="Number">2444747</Data></Cell>
+<Cell ><Data ss:Type="Number">1626924</Data></Cell>
+<Cell ><Data ss:Type="Number">1101850</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05301</Data></Cell>
+<Cell ><Data ss:Type="String">LOS ANDES</Data></Cell>
+<Cell ><Data ss:Type="Number">227917</Data></Cell>
+<Cell ><Data ss:Type="Number">951196</Data></Cell>
+<Cell ><Data ss:Type="Number">889219</Data></Cell>
+<Cell ><Data ss:Type="Number">648830</Data></Cell>
+<Cell ><Data ss:Type="Number">286896</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05302</Data></Cell>
+<Cell ><Data ss:Type="String">CALLE LARGA</Data></Cell>
+<Cell ><Data ss:Type="Number">624292</Data></Cell>
+<Cell ><Data ss:Type="Number">448579</Data></Cell>
+<Cell ><Data ss:Type="Number">216985</Data></Cell>
+<Cell ><Data ss:Type="Number">425054</Data></Cell>
+<Cell ><Data ss:Type="Number">332089</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05303</Data></Cell>
+<Cell ><Data ss:Type="String">RINCONADA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05304</Data></Cell>
+<Cell ><Data ss:Type="String">SAN ESTEBAN</Data></Cell>
+<Cell ><Data ss:Type="Number">711234</Data></Cell>
+<Cell ><Data ss:Type="Number">936274</Data></Cell>
+<Cell ><Data ss:Type="Number">1128142</Data></Cell>
+<Cell ><Data ss:Type="Number">762332</Data></Cell>
+<Cell ><Data ss:Type="Number">774231</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05401</Data></Cell>
+<Cell ><Data ss:Type="String">LA LIGUA</Data></Cell>
+<Cell ><Data ss:Type="Number">2036694</Data></Cell>
+<Cell ><Data ss:Type="Number">575232</Data></Cell>
+<Cell ><Data ss:Type="Number">1094756</Data></Cell>
+<Cell ><Data ss:Type="Number">1426556</Data></Cell>
+<Cell ><Data ss:Type="Number">1648916</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05402</Data></Cell>
+<Cell ><Data ss:Type="String">CABILDO</Data></Cell>
+<Cell ><Data ss:Type="Number">751923</Data></Cell>
+<Cell ><Data ss:Type="Number">253377</Data></Cell>
+<Cell ><Data ss:Type="Number">686549</Data></Cell>
+<Cell ><Data ss:Type="Number">984890</Data></Cell>
+<Cell ><Data ss:Type="Number">1558071</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05403</Data></Cell>
+<Cell ><Data ss:Type="String">PAPUDO</Data></Cell>
+<Cell ><Data ss:Type="Number">160673</Data></Cell>
+<Cell ><Data ss:Type="Number">81398</Data></Cell>
+<Cell ><Data ss:Type="Number">169530</Data></Cell>
+<Cell ><Data ss:Type="Number">70472</Data></Cell>
+<Cell ><Data ss:Type="Number">183881</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05404</Data></Cell>
+<Cell ><Data ss:Type="String">PETORCA</Data></Cell>
+<Cell ><Data ss:Type="Number">1191358</Data></Cell>
+<Cell ><Data ss:Type="Number">1241186</Data></Cell>
+<Cell ><Data ss:Type="Number">456470</Data></Cell>
+<Cell ><Data ss:Type="Number">601347</Data></Cell>
+<Cell ><Data ss:Type="Number">411746</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05405</Data></Cell>
+<Cell ><Data ss:Type="String">ZAPALLAR</Data></Cell>
+<Cell ><Data ss:Type="Number">1520230</Data></Cell>
+<Cell ><Data ss:Type="Number">4311499</Data></Cell>
+<Cell ><Data ss:Type="Number">4173292</Data></Cell>
+<Cell ><Data ss:Type="Number">5189002</Data></Cell>
+<Cell ><Data ss:Type="Number">3996221</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05501</Data></Cell>
+<Cell ><Data ss:Type="String">QUILLOTA</Data></Cell>
+<Cell ><Data ss:Type="Number">179388</Data></Cell>
+<Cell ><Data ss:Type="Number">156706</Data></Cell>
+<Cell ><Data ss:Type="Number">169607</Data></Cell>
+<Cell ><Data ss:Type="Number">432198</Data></Cell>
+<Cell ><Data ss:Type="Number">402915</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05502</Data></Cell>
+<Cell ><Data ss:Type="String">CALERA</Data></Cell>
+<Cell ><Data ss:Type="Number">3754194</Data></Cell>
+<Cell ><Data ss:Type="Number">4115630</Data></Cell>
+<Cell ><Data ss:Type="Number">3110550</Data></Cell>
+<Cell ><Data ss:Type="Number">1915178</Data></Cell>
+<Cell ><Data ss:Type="Number">1347837</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05503</Data></Cell>
+<Cell ><Data ss:Type="String">HIJUELAS</Data></Cell>
+<Cell ><Data ss:Type="Number">943285</Data></Cell>
+<Cell ><Data ss:Type="Number">450583</Data></Cell>
+<Cell ><Data ss:Type="Number">433735</Data></Cell>
+<Cell ><Data ss:Type="Number">230112</Data></Cell>
+<Cell ><Data ss:Type="Number">440390</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05504</Data></Cell>
+<Cell ><Data ss:Type="String">LA CRUZ</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3090</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">97920</Data></Cell>
+<Cell ><Data ss:Type="Number">100080</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05506</Data></Cell>
+<Cell ><Data ss:Type="String">NOGALES</Data></Cell>
+<Cell ><Data ss:Type="Number">1121869</Data></Cell>
+<Cell ><Data ss:Type="Number">1070845</Data></Cell>
+<Cell ><Data ss:Type="Number">1078617</Data></Cell>
+<Cell ><Data ss:Type="Number">1097166</Data></Cell>
+<Cell ><Data ss:Type="Number">847395</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05601</Data></Cell>
+<Cell ><Data ss:Type="String">SAN ANTONIO</Data></Cell>
+<Cell ><Data ss:Type="Number">4302248</Data></Cell>
+<Cell ><Data ss:Type="Number">5694943</Data></Cell>
+<Cell ><Data ss:Type="Number">8270020</Data></Cell>
+<Cell ><Data ss:Type="Number">5770000</Data></Cell>
+<Cell ><Data ss:Type="Number">4264194</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05602</Data></Cell>
+<Cell ><Data ss:Type="String">ALGARROBO</Data></Cell>
+<Cell ><Data ss:Type="Number">864611</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">1062975</Data></Cell>
+<Cell ><Data ss:Type="Number">1438851</Data></Cell>
+<Cell ><Data ss:Type="Number">934799</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05603</Data></Cell>
+<Cell ><Data ss:Type="String">CARTAGENA</Data></Cell>
+<Cell ><Data ss:Type="Number">5002627</Data></Cell>
+<Cell ><Data ss:Type="Number">5044578</Data></Cell>
+<Cell ><Data ss:Type="Number">4088638</Data></Cell>
+<Cell ><Data ss:Type="Number">4445981</Data></Cell>
+<Cell ><Data ss:Type="Number">3690512</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05604</Data></Cell>
+<Cell ><Data ss:Type="String">EL QUISCO</Data></Cell>
+<Cell ><Data ss:Type="Number">16761932</Data></Cell>
+<Cell ><Data ss:Type="Number">15692989</Data></Cell>
+<Cell ><Data ss:Type="Number">13189593</Data></Cell>
+<Cell ><Data ss:Type="Number">9387449</Data></Cell>
+<Cell ><Data ss:Type="Number">5810131</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05605</Data></Cell>
+<Cell ><Data ss:Type="String">EL TABO</Data></Cell>
+<Cell ><Data ss:Type="Number">9401674</Data></Cell>
+<Cell ><Data ss:Type="Number">7349662</Data></Cell>
+<Cell ><Data ss:Type="Number">4916448</Data></Cell>
+<Cell ><Data ss:Type="Number">4212051</Data></Cell>
+<Cell ><Data ss:Type="Number">3916139</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05606</Data></Cell>
+<Cell ><Data ss:Type="String">SANTO DOMINGO</Data></Cell>
+<Cell ><Data ss:Type="Number">6330786</Data></Cell>
+<Cell ><Data ss:Type="Number">4865324</Data></Cell>
+<Cell ><Data ss:Type="Number">5180015</Data></Cell>
+<Cell ><Data ss:Type="Number">4134453</Data></Cell>
+<Cell ><Data ss:Type="Number">4100302</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05701</Data></Cell>
+<Cell ><Data ss:Type="String">SAN FELIPE</Data></Cell>
+<Cell ><Data ss:Type="Number">463577</Data></Cell>
+<Cell ><Data ss:Type="Number">451974</Data></Cell>
+<Cell ><Data ss:Type="Number">636101</Data></Cell>
+<Cell ><Data ss:Type="Number">847723</Data></Cell>
+<Cell ><Data ss:Type="Number">638259</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05702</Data></Cell>
+<Cell ><Data ss:Type="String">CATEMU</Data></Cell>
+<Cell ><Data ss:Type="Number">311495</Data></Cell>
+<Cell ><Data ss:Type="Number">125381</Data></Cell>
+<Cell ><Data ss:Type="Number">103000</Data></Cell>
+<Cell ><Data ss:Type="Number">144139</Data></Cell>
+<Cell ><Data ss:Type="Number">22240</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05703</Data></Cell>
+<Cell ><Data ss:Type="String">LLAILLAY</Data></Cell>
+<Cell ><Data ss:Type="Number">276865</Data></Cell>
+<Cell ><Data ss:Type="Number">544870</Data></Cell>
+<Cell ><Data ss:Type="Number">1262815</Data></Cell>
+<Cell ><Data ss:Type="Number">1393746</Data></Cell>
+<Cell ><Data ss:Type="Number">111200</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05704</Data></Cell>
+<Cell ><Data ss:Type="String">PANQUEHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">532251</Data></Cell>
+<Cell ><Data ss:Type="Number">266817</Data></Cell>
+<Cell ><Data ss:Type="Number">117701</Data></Cell>
+<Cell ><Data ss:Type="Number">305758</Data></Cell>
+<Cell ><Data ss:Type="Number">412247</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05705</Data></Cell>
+<Cell ><Data ss:Type="String">PUTAENDO</Data></Cell>
+<Cell ><Data ss:Type="Number">1237253</Data></Cell>
+<Cell ><Data ss:Type="Number">1161001</Data></Cell>
+<Cell ><Data ss:Type="Number">1397324</Data></Cell>
+<Cell ><Data ss:Type="Number">1396484</Data></Cell>
+<Cell ><Data ss:Type="Number">1660183</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05706</Data></Cell>
+<Cell ><Data ss:Type="String">SANTA MARÍA</Data></Cell>
+<Cell ><Data ss:Type="Number">10213</Data></Cell>
+<Cell ><Data ss:Type="Number">27808</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05801</Data></Cell>
+<Cell ><Data ss:Type="String">QUILPUÉ</Data></Cell>
+<Cell ><Data ss:Type="Number">4979916</Data></Cell>
+<Cell ><Data ss:Type="Number">7861032</Data></Cell>
+<Cell ><Data ss:Type="Number">6434079</Data></Cell>
+<Cell ><Data ss:Type="Number">7304041</Data></Cell>
+<Cell ><Data ss:Type="Number">7291255</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05802</Data></Cell>
+<Cell ><Data ss:Type="String">LIMACHE</Data></Cell>
+<Cell ><Data ss:Type="Number">1433408</Data></Cell>
+<Cell ><Data ss:Type="Number">1589683</Data></Cell>
+<Cell ><Data ss:Type="Number">2522327</Data></Cell>
+<Cell ><Data ss:Type="Number">1778495</Data></Cell>
+<Cell ><Data ss:Type="Number">758690</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05803</Data></Cell>
+<Cell ><Data ss:Type="String">OLMUÉ</Data></Cell>
+<Cell ><Data ss:Type="Number">379935</Data></Cell>
+<Cell ><Data ss:Type="Number">582910</Data></Cell>
+<Cell ><Data ss:Type="Number">396152</Data></Cell>
+<Cell ><Data ss:Type="Number">250632</Data></Cell>
+<Cell ><Data ss:Type="Number">417435</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">05804</Data></Cell>
+<Cell ><Data ss:Type="String">VILLA ALEMANA</Data></Cell>
+<Cell ><Data ss:Type="Number">9672901</Data></Cell>
+<Cell ><Data ss:Type="Number">6425667</Data></Cell>
+<Cell ><Data ss:Type="Number">4283901</Data></Cell>
+<Cell ><Data ss:Type="Number">4549306</Data></Cell>
+<Cell ><Data ss:Type="Number">5986696</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06101</Data></Cell>
+<Cell ><Data ss:Type="String">RANCAGUA</Data></Cell>
+<Cell ><Data ss:Type="Number">2719673</Data></Cell>
+<Cell ><Data ss:Type="Number">706742</Data></Cell>
+<Cell ><Data ss:Type="Number">411946</Data></Cell>
+<Cell ><Data ss:Type="Number">753514</Data></Cell>
+<Cell ><Data ss:Type="Number">2725032</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06102</Data></Cell>
+<Cell ><Data ss:Type="String">CODEGUA</Data></Cell>
+<Cell ><Data ss:Type="Number">158979</Data></Cell>
+<Cell ><Data ss:Type="Number">240449</Data></Cell>
+<Cell ><Data ss:Type="Number">239754</Data></Cell>
+<Cell ><Data ss:Type="Number">209233</Data></Cell>
+<Cell ><Data ss:Type="Number">287085</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06103</Data></Cell>
+<Cell ><Data ss:Type="String">COINCO</Data></Cell>
+<Cell ><Data ss:Type="Number">669000</Data></Cell>
+<Cell ><Data ss:Type="Number">195538</Data></Cell>
+<Cell ><Data ss:Type="Number">188515</Data></Cell>
+<Cell ><Data ss:Type="Number">192411</Data></Cell>
+<Cell ><Data ss:Type="Number">96107</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06104</Data></Cell>
+<Cell ><Data ss:Type="String">COLTAUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">1147936</Data></Cell>
+<Cell ><Data ss:Type="Number">1115791</Data></Cell>
+<Cell ><Data ss:Type="Number">858871</Data></Cell>
+<Cell ><Data ss:Type="Number">610434</Data></Cell>
+<Cell ><Data ss:Type="Number">422562</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06105</Data></Cell>
+<Cell ><Data ss:Type="String">DOÑIHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">68284</Data></Cell>
+<Cell ><Data ss:Type="Number">16491</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">25152</Data></Cell>
+<Cell ><Data ss:Type="Number">127136</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06106</Data></Cell>
+<Cell ><Data ss:Type="String">GRANEROS</Data></Cell>
+<Cell ><Data ss:Type="Number">156617</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">312765</Data></Cell>
+<Cell ><Data ss:Type="Number">895560</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06107</Data></Cell>
+<Cell ><Data ss:Type="String">LAS CABRAS</Data></Cell>
+<Cell ><Data ss:Type="Number">807359</Data></Cell>
+<Cell ><Data ss:Type="Number">691067</Data></Cell>
+<Cell ><Data ss:Type="Number">1306364</Data></Cell>
+<Cell ><Data ss:Type="Number">699047</Data></Cell>
+<Cell ><Data ss:Type="Number">716032</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06108</Data></Cell>
+<Cell ><Data ss:Type="String">MACHALÍ</Data></Cell>
+<Cell ><Data ss:Type="Number">973586</Data></Cell>
+<Cell ><Data ss:Type="Number">1165918</Data></Cell>
+<Cell ><Data ss:Type="Number">1227106</Data></Cell>
+<Cell ><Data ss:Type="Number">937112</Data></Cell>
+<Cell ><Data ss:Type="Number">1006439</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06109</Data></Cell>
+<Cell ><Data ss:Type="String">MALLOA</Data></Cell>
+<Cell ><Data ss:Type="Number">1798493</Data></Cell>
+<Cell ><Data ss:Type="Number">1267792</Data></Cell>
+<Cell ><Data ss:Type="Number">1563571</Data></Cell>
+<Cell ><Data ss:Type="Number">1961977</Data></Cell>
+<Cell ><Data ss:Type="Number">2089951</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06110</Data></Cell>
+<Cell ><Data ss:Type="String">MOSTAZAL</Data></Cell>
+<Cell ><Data ss:Type="Number">2597000</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">4010616</Data></Cell>
+<Cell ><Data ss:Type="Number">6974397</Data></Cell>
+<Cell ><Data ss:Type="Number">8368136</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06111</Data></Cell>
+<Cell ><Data ss:Type="String">OLIVAR</Data></Cell>
+<Cell ><Data ss:Type="Number">395410</Data></Cell>
+<Cell ><Data ss:Type="Number">245803</Data></Cell>
+<Cell ><Data ss:Type="Number">1103717</Data></Cell>
+<Cell ><Data ss:Type="Number">128604</Data></Cell>
+<Cell ><Data ss:Type="Number">28347</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06112</Data></Cell>
+<Cell ><Data ss:Type="String">PEUMO</Data></Cell>
+<Cell ><Data ss:Type="Number">433217</Data></Cell>
+<Cell ><Data ss:Type="Number">674948</Data></Cell>
+<Cell ><Data ss:Type="Number">420737</Data></Cell>
+<Cell ><Data ss:Type="Number">76906</Data></Cell>
+<Cell ><Data ss:Type="Number">471873</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06113</Data></Cell>
+<Cell ><Data ss:Type="String">PICHIDEGUA</Data></Cell>
+<Cell ><Data ss:Type="Number">421990</Data></Cell>
+<Cell ><Data ss:Type="Number">925547</Data></Cell>
+<Cell ><Data ss:Type="Number">18662</Data></Cell>
+<Cell ><Data ss:Type="Number">717857</Data></Cell>
+<Cell ><Data ss:Type="Number">820158</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06114</Data></Cell>
+<Cell ><Data ss:Type="String">QUINTA DE TILCOCO</Data></Cell>
+<Cell ><Data ss:Type="Number">756775</Data></Cell>
+<Cell ><Data ss:Type="Number">1175003</Data></Cell>
+<Cell ><Data ss:Type="Number">528876</Data></Cell>
+<Cell ><Data ss:Type="Number">11889</Data></Cell>
+<Cell ><Data ss:Type="Number">-531040</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06115</Data></Cell>
+<Cell ><Data ss:Type="String">RENGO</Data></Cell>
+<Cell ><Data ss:Type="Number">898708</Data></Cell>
+<Cell ><Data ss:Type="Number">620859</Data></Cell>
+<Cell ><Data ss:Type="Number">863674</Data></Cell>
+<Cell ><Data ss:Type="Number">1100383</Data></Cell>
+<Cell ><Data ss:Type="Number">848251</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06116</Data></Cell>
+<Cell ><Data ss:Type="String">REQUINOA</Data></Cell>
+<Cell ><Data ss:Type="Number">425284</Data></Cell>
+<Cell ><Data ss:Type="Number">186720</Data></Cell>
+<Cell ><Data ss:Type="Number">11890</Data></Cell>
+<Cell ><Data ss:Type="Number">64184</Data></Cell>
+<Cell ><Data ss:Type="Number">65020</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06117</Data></Cell>
+<Cell ><Data ss:Type="String">SAN VICENTE</Data></Cell>
+<Cell ><Data ss:Type="Number">949007</Data></Cell>
+<Cell ><Data ss:Type="Number">625427</Data></Cell>
+<Cell ><Data ss:Type="Number">249040</Data></Cell>
+<Cell ><Data ss:Type="Number">173088</Data></Cell>
+<Cell ><Data ss:Type="Number">159427</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06201</Data></Cell>
+<Cell ><Data ss:Type="String">PICHILEMU</Data></Cell>
+<Cell ><Data ss:Type="Number">6525351</Data></Cell>
+<Cell ><Data ss:Type="Number">5017810</Data></Cell>
+<Cell ><Data ss:Type="Number">4377845</Data></Cell>
+<Cell ><Data ss:Type="Number">3729945</Data></Cell>
+<Cell ><Data ss:Type="Number">3780940</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06202</Data></Cell>
+<Cell ><Data ss:Type="String">LA ESTRELLA</Data></Cell>
+<Cell ><Data ss:Type="Number">801971</Data></Cell>
+<Cell ><Data ss:Type="Number">627572</Data></Cell>
+<Cell ><Data ss:Type="Number">55172</Data></Cell>
+<Cell ><Data ss:Type="Number">41555</Data></Cell>
+<Cell ><Data ss:Type="Number">143134</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06203</Data></Cell>
+<Cell ><Data ss:Type="String">LITUECHE</Data></Cell>
+<Cell ><Data ss:Type="Number">641025</Data></Cell>
+<Cell ><Data ss:Type="Number">203462</Data></Cell>
+<Cell ><Data ss:Type="Number">284018</Data></Cell>
+<Cell ><Data ss:Type="Number">342594</Data></Cell>
+<Cell ><Data ss:Type="Number">378477</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06204</Data></Cell>
+<Cell ><Data ss:Type="String">MARCHIHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">-148312</Data></Cell>
+<Cell ><Data ss:Type="Number">-4876</Data></Cell>
+<Cell ><Data ss:Type="Number">-65890</Data></Cell>
+<Cell ><Data ss:Type="Number">-129987</Data></Cell>
+<Cell ><Data ss:Type="Number">-175570</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06205</Data></Cell>
+<Cell ><Data ss:Type="String">NAVIDAD</Data></Cell>
+<Cell ><Data ss:Type="Number">2626330</Data></Cell>
+<Cell ><Data ss:Type="Number">3024799</Data></Cell>
+<Cell ><Data ss:Type="Number">3087535</Data></Cell>
+<Cell ><Data ss:Type="Number">1888750</Data></Cell>
+<Cell ><Data ss:Type="Number">1547906</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06206</Data></Cell>
+<Cell ><Data ss:Type="String">PAREDONES</Data></Cell>
+<Cell ><Data ss:Type="Number">428354</Data></Cell>
+<Cell ><Data ss:Type="Number">356758</Data></Cell>
+<Cell ><Data ss:Type="Number">364319</Data></Cell>
+<Cell ><Data ss:Type="Number">401546</Data></Cell>
+<Cell ><Data ss:Type="Number">593794</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06301</Data></Cell>
+<Cell ><Data ss:Type="String">SAN FERNANDO</Data></Cell>
+<Cell ><Data ss:Type="Number">1005444</Data></Cell>
+<Cell ><Data ss:Type="Number">1127933</Data></Cell>
+<Cell ><Data ss:Type="Number">1466141</Data></Cell>
+<Cell ><Data ss:Type="Number">875615</Data></Cell>
+<Cell ><Data ss:Type="Number">717178</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06302</Data></Cell>
+<Cell ><Data ss:Type="String">CHÉPICA</Data></Cell>
+<Cell ><Data ss:Type="Number">457418</Data></Cell>
+<Cell ><Data ss:Type="Number">408260</Data></Cell>
+<Cell ><Data ss:Type="Number">331305</Data></Cell>
+<Cell ><Data ss:Type="Number">306111</Data></Cell>
+<Cell ><Data ss:Type="Number">314528</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06303</Data></Cell>
+<Cell ><Data ss:Type="String">CHIMBARONGO</Data></Cell>
+<Cell ><Data ss:Type="Number">1145842</Data></Cell>
+<Cell ><Data ss:Type="Number">454564</Data></Cell>
+<Cell ><Data ss:Type="Number">1349854</Data></Cell>
+<Cell ><Data ss:Type="Number">1506744</Data></Cell>
+<Cell ><Data ss:Type="Number">1769915</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06304</Data></Cell>
+<Cell ><Data ss:Type="String">LOLOL</Data></Cell>
+<Cell ><Data ss:Type="Number">89231</Data></Cell>
+<Cell ><Data ss:Type="Number">31102</Data></Cell>
+<Cell ><Data ss:Type="Number">-29552</Data></Cell>
+<Cell ><Data ss:Type="Number">-108189</Data></Cell>
+<Cell ><Data ss:Type="Number">-265033</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06305</Data></Cell>
+<Cell ><Data ss:Type="String">NANCAGUA</Data></Cell>
+<Cell ><Data ss:Type="Number">844996</Data></Cell>
+<Cell ><Data ss:Type="Number">1026881</Data></Cell>
+<Cell ><Data ss:Type="Number">835772</Data></Cell>
+<Cell ><Data ss:Type="Number">264575</Data></Cell>
+<Cell ><Data ss:Type="Number">463837</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06306</Data></Cell>
+<Cell ><Data ss:Type="String">PALMILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">695349</Data></Cell>
+<Cell ><Data ss:Type="Number">787684</Data></Cell>
+<Cell ><Data ss:Type="Number">755279</Data></Cell>
+<Cell ><Data ss:Type="Number">974908</Data></Cell>
+<Cell ><Data ss:Type="Number">1070837</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06307</Data></Cell>
+<Cell ><Data ss:Type="String">PERALILLO</Data></Cell>
+<Cell ><Data ss:Type="Number">960789</Data></Cell>
+<Cell ><Data ss:Type="Number">620575</Data></Cell>
+<Cell ><Data ss:Type="Number">392453</Data></Cell>
+<Cell ><Data ss:Type="Number">526651</Data></Cell>
+<Cell ><Data ss:Type="Number">389389</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06308</Data></Cell>
+<Cell ><Data ss:Type="String">PLACILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">240005</Data></Cell>
+<Cell ><Data ss:Type="Number">35602</Data></Cell>
+<Cell ><Data ss:Type="Number">169102</Data></Cell>
+<Cell ><Data ss:Type="Number">240647</Data></Cell>
+<Cell ><Data ss:Type="Number">422984</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06309</Data></Cell>
+<Cell ><Data ss:Type="String">PUMANQUE</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">252259</Data></Cell>
+<Cell ><Data ss:Type="Number">188109</Data></Cell>
+<Cell ><Data ss:Type="Number">-58923</Data></Cell>
+<Cell ><Data ss:Type="Number">119153</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">06310</Data></Cell>
+<Cell ><Data ss:Type="String">SANTA CRUZ</Data></Cell>
+<Cell ><Data ss:Type="Number">1690413</Data></Cell>
+<Cell ><Data ss:Type="Number">947333</Data></Cell>
+<Cell ><Data ss:Type="Number">696574</Data></Cell>
+<Cell ><Data ss:Type="Number">207434</Data></Cell>
+<Cell ><Data ss:Type="Number">209616</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07101</Data></Cell>
+<Cell ><Data ss:Type="String">TALCA</Data></Cell>
+<Cell ><Data ss:Type="Number">1111877</Data></Cell>
+<Cell ><Data ss:Type="Number">496765</Data></Cell>
+<Cell ><Data ss:Type="Number">95614</Data></Cell>
+<Cell ><Data ss:Type="Number">732584</Data></Cell>
+<Cell ><Data ss:Type="Number">2712396</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07102</Data></Cell>
+<Cell ><Data ss:Type="String">CONSTITUCIÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">2914309</Data></Cell>
+<Cell ><Data ss:Type="Number">2712961</Data></Cell>
+<Cell ><Data ss:Type="Number">1983628</Data></Cell>
+<Cell ><Data ss:Type="Number">760740</Data></Cell>
+<Cell ><Data ss:Type="Number">881085</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07103</Data></Cell>
+<Cell ><Data ss:Type="String">CUREPTO</Data></Cell>
+<Cell ><Data ss:Type="Number">136252</Data></Cell>
+<Cell ><Data ss:Type="Number">545236</Data></Cell>
+<Cell ><Data ss:Type="Number">485543</Data></Cell>
+<Cell ><Data ss:Type="Number">554311</Data></Cell>
+<Cell ><Data ss:Type="Number">393938</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07104</Data></Cell>
+<Cell ><Data ss:Type="String">EMPEDRADO</Data></Cell>
+<Cell ><Data ss:Type="Number">662651</Data></Cell>
+<Cell ><Data ss:Type="Number">520212</Data></Cell>
+<Cell ><Data ss:Type="Number">247127</Data></Cell>
+<Cell ><Data ss:Type="Number">211839</Data></Cell>
+<Cell ><Data ss:Type="Number">185068</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07105</Data></Cell>
+<Cell ><Data ss:Type="String">MAULE</Data></Cell>
+<Cell ><Data ss:Type="Number">1115978</Data></Cell>
+<Cell ><Data ss:Type="Number">944981</Data></Cell>
+<Cell ><Data ss:Type="Number">1204432</Data></Cell>
+<Cell ><Data ss:Type="Number">1369380</Data></Cell>
+<Cell ><Data ss:Type="Number">1336753</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07106</Data></Cell>
+<Cell ><Data ss:Type="String">PELARCO</Data></Cell>
+<Cell ><Data ss:Type="Number">664990</Data></Cell>
+<Cell ><Data ss:Type="Number">301012</Data></Cell>
+<Cell ><Data ss:Type="Number">187772</Data></Cell>
+<Cell ><Data ss:Type="Number">77967</Data></Cell>
+<Cell ><Data ss:Type="Number">143839</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07107</Data></Cell>
+<Cell ><Data ss:Type="String">PENCAHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">800200</Data></Cell>
+<Cell ><Data ss:Type="Number">1030</Data></Cell>
+<Cell ><Data ss:Type="Number">-209972</Data></Cell>
+<Cell ><Data ss:Type="Number">99443</Data></Cell>
+<Cell ><Data ss:Type="Number">71457</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07108</Data></Cell>
+<Cell ><Data ss:Type="String">RÍO CLARO</Data></Cell>
+<Cell ><Data ss:Type="Number">258867</Data></Cell>
+<Cell ><Data ss:Type="Number">5183</Data></Cell>
+<Cell ><Data ss:Type="Number">-181749</Data></Cell>
+<Cell ><Data ss:Type="Number">-148730</Data></Cell>
+<Cell ><Data ss:Type="Number">-122177</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07109</Data></Cell>
+<Cell ><Data ss:Type="String">SAN CLEMENTE</Data></Cell>
+<Cell ><Data ss:Type="Number">2933262</Data></Cell>
+<Cell ><Data ss:Type="Number">2033395</Data></Cell>
+<Cell ><Data ss:Type="Number">1632089</Data></Cell>
+<Cell ><Data ss:Type="Number">1277530</Data></Cell>
+<Cell ><Data ss:Type="Number">2064754</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07110</Data></Cell>
+<Cell ><Data ss:Type="String">SAN RAFAEL</Data></Cell>
+<Cell ><Data ss:Type="Number">661404</Data></Cell>
+<Cell ><Data ss:Type="Number">363259</Data></Cell>
+<Cell ><Data ss:Type="Number">327470</Data></Cell>
+<Cell ><Data ss:Type="Number">339533</Data></Cell>
+<Cell ><Data ss:Type="Number">477628</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07201</Data></Cell>
+<Cell ><Data ss:Type="String">CAUQUENES</Data></Cell>
+<Cell ><Data ss:Type="Number">-85043</Data></Cell>
+<Cell ><Data ss:Type="Number">164961</Data></Cell>
+<Cell ><Data ss:Type="Number">120654</Data></Cell>
+<Cell ><Data ss:Type="Number">-13951</Data></Cell>
+<Cell ><Data ss:Type="Number">228450</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07202</Data></Cell>
+<Cell ><Data ss:Type="String">CHANCO</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">6548</Data></Cell>
+<Cell ><Data ss:Type="Number">-40496</Data></Cell>
+<Cell ><Data ss:Type="Number">18985</Data></Cell>
+<Cell ><Data ss:Type="Number">32423</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07203</Data></Cell>
+<Cell ><Data ss:Type="String">PELLUHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">1346565</Data></Cell>
+<Cell ><Data ss:Type="Number">790683</Data></Cell>
+<Cell ><Data ss:Type="Number">523854</Data></Cell>
+<Cell ><Data ss:Type="Number">478562</Data></Cell>
+<Cell ><Data ss:Type="Number">794564</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07301</Data></Cell>
+<Cell ><Data ss:Type="String">CURICÓ</Data></Cell>
+<Cell ><Data ss:Type="Number">10914</Data></Cell>
+<Cell ><Data ss:Type="Number">51554</Data></Cell>
+<Cell ><Data ss:Type="Number">120999</Data></Cell>
+<Cell ><Data ss:Type="Number">476358</Data></Cell>
+<Cell ><Data ss:Type="Number">796161</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07302</Data></Cell>
+<Cell ><Data ss:Type="String">HUALAÑÉ</Data></Cell>
+<Cell ><Data ss:Type="Number">90000</Data></Cell>
+<Cell ><Data ss:Type="Number">61440</Data></Cell>
+<Cell ><Data ss:Type="Number">37135</Data></Cell>
+<Cell ><Data ss:Type="Number">38080</Data></Cell>
+<Cell ><Data ss:Type="Number">78045</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07303</Data></Cell>
+<Cell ><Data ss:Type="String">LICANTÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">1737301</Data></Cell>
+<Cell ><Data ss:Type="Number">1200699</Data></Cell>
+<Cell ><Data ss:Type="Number">484194</Data></Cell>
+<Cell ><Data ss:Type="Number">486881</Data></Cell>
+<Cell ><Data ss:Type="Number">214272</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07304</Data></Cell>
+<Cell ><Data ss:Type="String">MOLINA</Data></Cell>
+<Cell ><Data ss:Type="Number">736049</Data></Cell>
+<Cell ><Data ss:Type="Number">715823</Data></Cell>
+<Cell ><Data ss:Type="Number">478698</Data></Cell>
+<Cell ><Data ss:Type="Number">993</Data></Cell>
+<Cell ><Data ss:Type="Number">259310</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07305</Data></Cell>
+<Cell ><Data ss:Type="String">RAUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">585861</Data></Cell>
+<Cell ><Data ss:Type="Number">388960</Data></Cell>
+<Cell ><Data ss:Type="Number">670363</Data></Cell>
+<Cell ><Data ss:Type="Number">461609</Data></Cell>
+<Cell ><Data ss:Type="Number">657781</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07306</Data></Cell>
+<Cell ><Data ss:Type="String">ROMERAL</Data></Cell>
+<Cell ><Data ss:Type="Number">709336</Data></Cell>
+<Cell ><Data ss:Type="Number">653006</Data></Cell>
+<Cell ><Data ss:Type="Number">782982</Data></Cell>
+<Cell ><Data ss:Type="Number">618716</Data></Cell>
+<Cell ><Data ss:Type="Number">908733</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07307</Data></Cell>
+<Cell ><Data ss:Type="String">SAGRADA FAMILIA</Data></Cell>
+<Cell ><Data ss:Type="Number">493521</Data></Cell>
+<Cell ><Data ss:Type="Number">414979</Data></Cell>
+<Cell ><Data ss:Type="Number">300332</Data></Cell>
+<Cell ><Data ss:Type="Number">490131</Data></Cell>
+<Cell ><Data ss:Type="Number">445245</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07308</Data></Cell>
+<Cell ><Data ss:Type="String">TENO</Data></Cell>
+<Cell ><Data ss:Type="Number">1143879</Data></Cell>
+<Cell ><Data ss:Type="Number">671406</Data></Cell>
+<Cell ><Data ss:Type="Number">397629</Data></Cell>
+<Cell ><Data ss:Type="Number">297540</Data></Cell>
+<Cell ><Data ss:Type="Number">683666</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07309</Data></Cell>
+<Cell ><Data ss:Type="String">VICHUQUÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">70304</Data></Cell>
+<Cell ><Data ss:Type="Number">118065</Data></Cell>
+<Cell ><Data ss:Type="Number">190319</Data></Cell>
+<Cell ><Data ss:Type="Number">2176</Data></Cell>
+<Cell ><Data ss:Type="Number">2224</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07401</Data></Cell>
+<Cell ><Data ss:Type="String">LINARES</Data></Cell>
+<Cell ><Data ss:Type="Number">4421136</Data></Cell>
+<Cell ><Data ss:Type="Number">2796969</Data></Cell>
+<Cell ><Data ss:Type="Number">2161498</Data></Cell>
+<Cell ><Data ss:Type="Number">1742400</Data></Cell>
+<Cell ><Data ss:Type="Number">1753333</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07402</Data></Cell>
+<Cell ><Data ss:Type="String">COLBÚN</Data></Cell>
+<Cell ><Data ss:Type="Number">591449</Data></Cell>
+<Cell ><Data ss:Type="Number">367382</Data></Cell>
+<Cell ><Data ss:Type="Number">227060</Data></Cell>
+<Cell ><Data ss:Type="Number">248428</Data></Cell>
+<Cell ><Data ss:Type="Number">216499</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07403</Data></Cell>
+<Cell ><Data ss:Type="String">LONGAVÍ</Data></Cell>
+<Cell ><Data ss:Type="Number">1326997</Data></Cell>
+<Cell ><Data ss:Type="Number">1129674</Data></Cell>
+<Cell ><Data ss:Type="Number">753984</Data></Cell>
+<Cell ><Data ss:Type="Number">725740</Data></Cell>
+<Cell ><Data ss:Type="Number">1023850</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07404</Data></Cell>
+<Cell ><Data ss:Type="String">PARRAL</Data></Cell>
+<Cell ><Data ss:Type="Number">538298</Data></Cell>
+<Cell ><Data ss:Type="Number">814215</Data></Cell>
+<Cell ><Data ss:Type="Number">596145</Data></Cell>
+<Cell ><Data ss:Type="Number">423219</Data></Cell>
+<Cell ><Data ss:Type="Number">748399</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07405</Data></Cell>
+<Cell ><Data ss:Type="String">RETIRO</Data></Cell>
+<Cell ><Data ss:Type="Number">458046</Data></Cell>
+<Cell ><Data ss:Type="Number">325078</Data></Cell>
+<Cell ><Data ss:Type="Number">262798</Data></Cell>
+<Cell ><Data ss:Type="Number">224498</Data></Cell>
+<Cell ><Data ss:Type="Number">327903</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07406</Data></Cell>
+<Cell ><Data ss:Type="String">SAN JAVIER</Data></Cell>
+<Cell ><Data ss:Type="Number">2542719</Data></Cell>
+<Cell ><Data ss:Type="Number">3248627</Data></Cell>
+<Cell ><Data ss:Type="Number">2172463</Data></Cell>
+<Cell ><Data ss:Type="Number">2311247</Data></Cell>
+<Cell ><Data ss:Type="Number">2171132</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07407</Data></Cell>
+<Cell ><Data ss:Type="String">VILLA ALEGRE</Data></Cell>
+<Cell ><Data ss:Type="Number">1289250</Data></Cell>
+<Cell ><Data ss:Type="Number">883628</Data></Cell>
+<Cell ><Data ss:Type="Number">629313</Data></Cell>
+<Cell ><Data ss:Type="Number">495969</Data></Cell>
+<Cell ><Data ss:Type="Number">246057</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">07408</Data></Cell>
+<Cell ><Data ss:Type="String">YERBAS BUENAS</Data></Cell>
+<Cell ><Data ss:Type="Number">52709</Data></Cell>
+<Cell ><Data ss:Type="Number">89542</Data></Cell>
+<Cell ><Data ss:Type="Number">51834</Data></Cell>
+<Cell ><Data ss:Type="Number">31226</Data></Cell>
+<Cell ><Data ss:Type="Number">69261</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08101</Data></Cell>
+<Cell ><Data ss:Type="String">CONCEPCIÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">9682421</Data></Cell>
+<Cell ><Data ss:Type="Number">6561148</Data></Cell>
+<Cell ><Data ss:Type="Number">6464956</Data></Cell>
+<Cell ><Data ss:Type="Number">7193445</Data></Cell>
+<Cell ><Data ss:Type="Number">8315062</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08102</Data></Cell>
+<Cell ><Data ss:Type="String">CORONEL</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">979017</Data></Cell>
+<Cell ><Data ss:Type="Number">842534</Data></Cell>
+<Cell ><Data ss:Type="Number">354863</Data></Cell>
+<Cell ><Data ss:Type="Number">24617</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08103</Data></Cell>
+<Cell ><Data ss:Type="String">CHIGUAYANTE</Data></Cell>
+<Cell ><Data ss:Type="Number">3385873</Data></Cell>
+<Cell ><Data ss:Type="Number">2843432</Data></Cell>
+<Cell ><Data ss:Type="Number">3327967</Data></Cell>
+<Cell ><Data ss:Type="Number">2169064</Data></Cell>
+<Cell ><Data ss:Type="Number">2842820</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08104</Data></Cell>
+<Cell ><Data ss:Type="String">FLORIDA</Data></Cell>
+<Cell ><Data ss:Type="Number">1439185</Data></Cell>
+<Cell ><Data ss:Type="Number">1087557</Data></Cell>
+<Cell ><Data ss:Type="Number">984204</Data></Cell>
+<Cell ><Data ss:Type="Number">652210</Data></Cell>
+<Cell ><Data ss:Type="Number">725450</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08105</Data></Cell>
+<Cell ><Data ss:Type="String">HUALQUI</Data></Cell>
+<Cell ><Data ss:Type="Number">1168339</Data></Cell>
+<Cell ><Data ss:Type="Number">1163444</Data></Cell>
+<Cell ><Data ss:Type="Number">1152110</Data></Cell>
+<Cell ><Data ss:Type="Number">495747</Data></Cell>
+<Cell ><Data ss:Type="Number">508204</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08106</Data></Cell>
+<Cell ><Data ss:Type="String">LOTA</Data></Cell>
+<Cell ><Data ss:Type="Number">3314952</Data></Cell>
+<Cell ><Data ss:Type="Number">3422838</Data></Cell>
+<Cell ><Data ss:Type="Number">5962015</Data></Cell>
+<Cell ><Data ss:Type="Number">5841847</Data></Cell>
+<Cell ><Data ss:Type="Number">4155018</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08107</Data></Cell>
+<Cell ><Data ss:Type="String">PENCO</Data></Cell>
+<Cell ><Data ss:Type="Number">2451053</Data></Cell>
+<Cell ><Data ss:Type="Number">1859448</Data></Cell>
+<Cell ><Data ss:Type="Number">2291471</Data></Cell>
+<Cell ><Data ss:Type="Number">2144497</Data></Cell>
+<Cell ><Data ss:Type="Number">2663806</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08108</Data></Cell>
+<Cell ><Data ss:Type="String">SAN PEDRO DE LA PAZ</Data></Cell>
+<Cell ><Data ss:Type="Number">2976865</Data></Cell>
+<Cell ><Data ss:Type="Number">4067239</Data></Cell>
+<Cell ><Data ss:Type="Number">3807980</Data></Cell>
+<Cell ><Data ss:Type="Number">2840346</Data></Cell>
+<Cell ><Data ss:Type="Number">1597086</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08109</Data></Cell>
+<Cell ><Data ss:Type="String">SANTA JUANA</Data></Cell>
+<Cell ><Data ss:Type="Number">877009</Data></Cell>
+<Cell ><Data ss:Type="Number">782903</Data></Cell>
+<Cell ><Data ss:Type="Number">377935</Data></Cell>
+<Cell ><Data ss:Type="Number">366257</Data></Cell>
+<Cell ><Data ss:Type="Number">455889</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08110</Data></Cell>
+<Cell ><Data ss:Type="String">TALCAHUANO</Data></Cell>
+<Cell ><Data ss:Type="Number">3064988</Data></Cell>
+<Cell ><Data ss:Type="Number">3041395</Data></Cell>
+<Cell ><Data ss:Type="Number">5016940</Data></Cell>
+<Cell ><Data ss:Type="Number">4929773</Data></Cell>
+<Cell ><Data ss:Type="Number">4963200</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08111</Data></Cell>
+<Cell ><Data ss:Type="String">TOMÉ</Data></Cell>
+<Cell ><Data ss:Type="Number">6672398</Data></Cell>
+<Cell ><Data ss:Type="Number">4978326</Data></Cell>
+<Cell ><Data ss:Type="Number">3788968</Data></Cell>
+<Cell ><Data ss:Type="Number">4052936</Data></Cell>
+<Cell ><Data ss:Type="Number">4383974</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08112</Data></Cell>
+<Cell ><Data ss:Type="String">HUALPÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">1913845</Data></Cell>
+<Cell ><Data ss:Type="Number">2325529</Data></Cell>
+<Cell ><Data ss:Type="Number">1839245</Data></Cell>
+<Cell ><Data ss:Type="Number">663507</Data></Cell>
+<Cell ><Data ss:Type="Number">352963</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08201</Data></Cell>
+<Cell ><Data ss:Type="String">LEBU</Data></Cell>
+<Cell ><Data ss:Type="Number">1077726</Data></Cell>
+<Cell ><Data ss:Type="Number">820523</Data></Cell>
+<Cell ><Data ss:Type="Number">668923</Data></Cell>
+<Cell ><Data ss:Type="Number">491203</Data></Cell>
+<Cell ><Data ss:Type="Number">1374342</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08202</Data></Cell>
+<Cell ><Data ss:Type="String">ARAUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">2587577</Data></Cell>
+<Cell ><Data ss:Type="Number">994922</Data></Cell>
+<Cell ><Data ss:Type="Number">1416301</Data></Cell>
+<Cell ><Data ss:Type="Number">1600476</Data></Cell>
+<Cell ><Data ss:Type="Number">1403351</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08203</Data></Cell>
+<Cell ><Data ss:Type="String">CAÑETE</Data></Cell>
+<Cell ><Data ss:Type="Number">966713</Data></Cell>
+<Cell ><Data ss:Type="Number">578682</Data></Cell>
+<Cell ><Data ss:Type="Number">327955</Data></Cell>
+<Cell ><Data ss:Type="Number">441345</Data></Cell>
+<Cell ><Data ss:Type="Number">545498</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08204</Data></Cell>
+<Cell ><Data ss:Type="String">CONTULMO</Data></Cell>
+<Cell ><Data ss:Type="Number">784854</Data></Cell>
+<Cell ><Data ss:Type="Number">608175</Data></Cell>
+<Cell ><Data ss:Type="Number">86058</Data></Cell>
+<Cell ><Data ss:Type="Number">215006</Data></Cell>
+<Cell ><Data ss:Type="Number">243818</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08205</Data></Cell>
+<Cell ><Data ss:Type="String">CURANILAHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">1730732</Data></Cell>
+<Cell ><Data ss:Type="Number">519336</Data></Cell>
+<Cell ><Data ss:Type="Number">1105930</Data></Cell>
+<Cell ><Data ss:Type="Number">1454296</Data></Cell>
+<Cell ><Data ss:Type="Number">2377932</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08206</Data></Cell>
+<Cell ><Data ss:Type="String">LOS ÁLAMOS</Data></Cell>
+<Cell ><Data ss:Type="Number">50000</Data></Cell>
+<Cell ><Data ss:Type="Number">123798</Data></Cell>
+<Cell ><Data ss:Type="Number">411212</Data></Cell>
+<Cell ><Data ss:Type="Number">395501</Data></Cell>
+<Cell ><Data ss:Type="Number">459637</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08207</Data></Cell>
+<Cell ><Data ss:Type="String">TIRÚA</Data></Cell>
+<Cell ><Data ss:Type="Number">3896571</Data></Cell>
+<Cell ><Data ss:Type="Number">3752869</Data></Cell>
+<Cell ><Data ss:Type="Number">3672523</Data></Cell>
+<Cell ><Data ss:Type="Number">3895591</Data></Cell>
+<Cell ><Data ss:Type="Number">766257</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08301</Data></Cell>
+<Cell ><Data ss:Type="String">LOS ÁNGELES</Data></Cell>
+<Cell ><Data ss:Type="Number">10051910</Data></Cell>
+<Cell ><Data ss:Type="Number">11744339</Data></Cell>
+<Cell ><Data ss:Type="Number">12868345</Data></Cell>
+<Cell ><Data ss:Type="Number">16176351</Data></Cell>
+<Cell ><Data ss:Type="Number">14499521</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08302</Data></Cell>
+<Cell ><Data ss:Type="String">ANTUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">902002</Data></Cell>
+<Cell ><Data ss:Type="Number">744016</Data></Cell>
+<Cell ><Data ss:Type="Number">437342</Data></Cell>
+<Cell ><Data ss:Type="Number">286555</Data></Cell>
+<Cell ><Data ss:Type="Number">110003</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08303</Data></Cell>
+<Cell ><Data ss:Type="String">CABRERO</Data></Cell>
+<Cell ><Data ss:Type="Number">2001174</Data></Cell>
+<Cell ><Data ss:Type="Number">1249993</Data></Cell>
+<Cell ><Data ss:Type="Number">645436</Data></Cell>
+<Cell ><Data ss:Type="Number">1266311</Data></Cell>
+<Cell ><Data ss:Type="Number">1379063</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08304</Data></Cell>
+<Cell ><Data ss:Type="String">LAJA</Data></Cell>
+<Cell ><Data ss:Type="Number">1639674</Data></Cell>
+<Cell ><Data ss:Type="Number">1784903</Data></Cell>
+<Cell ><Data ss:Type="Number">1097774</Data></Cell>
+<Cell ><Data ss:Type="Number">1553314</Data></Cell>
+<Cell ><Data ss:Type="Number">1359741</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08305</Data></Cell>
+<Cell ><Data ss:Type="String">MULCHÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">2191224</Data></Cell>
+<Cell ><Data ss:Type="Number">1461260</Data></Cell>
+<Cell ><Data ss:Type="Number">816830</Data></Cell>
+<Cell ><Data ss:Type="Number">725011</Data></Cell>
+<Cell ><Data ss:Type="Number">681279</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08306</Data></Cell>
+<Cell ><Data ss:Type="String">NACIMIENTO</Data></Cell>
+<Cell ><Data ss:Type="Number">1294423</Data></Cell>
+<Cell ><Data ss:Type="Number">1535360</Data></Cell>
+<Cell ><Data ss:Type="Number">1281121</Data></Cell>
+<Cell ><Data ss:Type="Number">1110781</Data></Cell>
+<Cell ><Data ss:Type="Number">1930682</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08307</Data></Cell>
+<Cell ><Data ss:Type="String">NEGRETE</Data></Cell>
+<Cell ><Data ss:Type="Number">49514</Data></Cell>
+<Cell ><Data ss:Type="Number">83770</Data></Cell>
+<Cell ><Data ss:Type="Number">273858</Data></Cell>
+<Cell ><Data ss:Type="Number">68297</Data></Cell>
+<Cell ><Data ss:Type="Number">7174</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08308</Data></Cell>
+<Cell ><Data ss:Type="String">QUILACO</Data></Cell>
+<Cell ><Data ss:Type="Number">439651</Data></Cell>
+<Cell ><Data ss:Type="Number">178372</Data></Cell>
+<Cell ><Data ss:Type="Number">108433</Data></Cell>
+<Cell ><Data ss:Type="Number">343154</Data></Cell>
+<Cell ><Data ss:Type="Number">329389</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08309</Data></Cell>
+<Cell ><Data ss:Type="String">QUILLECO</Data></Cell>
+<Cell ><Data ss:Type="Number">1225438</Data></Cell>
+<Cell ><Data ss:Type="Number">1489583</Data></Cell>
+<Cell ><Data ss:Type="Number">1815453</Data></Cell>
+<Cell ><Data ss:Type="Number">671756</Data></Cell>
+<Cell ><Data ss:Type="Number">876947</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08310</Data></Cell>
+<Cell ><Data ss:Type="String">SAN ROSENDO</Data></Cell>
+<Cell ><Data ss:Type="Number">381420</Data></Cell>
+<Cell ><Data ss:Type="Number">258145</Data></Cell>
+<Cell ><Data ss:Type="Number">249911</Data></Cell>
+<Cell ><Data ss:Type="Number">165411</Data></Cell>
+<Cell ><Data ss:Type="Number">351251</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08311</Data></Cell>
+<Cell ><Data ss:Type="String">SANTA BÁRBARA</Data></Cell>
+<Cell ><Data ss:Type="Number">721786</Data></Cell>
+<Cell ><Data ss:Type="Number">909877</Data></Cell>
+<Cell ><Data ss:Type="Number">803453</Data></Cell>
+<Cell ><Data ss:Type="Number">568255</Data></Cell>
+<Cell ><Data ss:Type="Number">973356</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08312</Data></Cell>
+<Cell ><Data ss:Type="String">TUCAPEL</Data></Cell>
+<Cell ><Data ss:Type="Number">281701</Data></Cell>
+<Cell ><Data ss:Type="Number">144056</Data></Cell>
+<Cell ><Data ss:Type="Number">217419</Data></Cell>
+<Cell ><Data ss:Type="Number">83122</Data></Cell>
+<Cell ><Data ss:Type="Number">210656</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08313</Data></Cell>
+<Cell ><Data ss:Type="String">YUMBEL</Data></Cell>
+<Cell ><Data ss:Type="Number">1134547</Data></Cell>
+<Cell ><Data ss:Type="Number">1093467</Data></Cell>
+<Cell ><Data ss:Type="Number">1710098</Data></Cell>
+<Cell ><Data ss:Type="Number">2105382</Data></Cell>
+<Cell ><Data ss:Type="Number">1569974</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">08314</Data></Cell>
+<Cell ><Data ss:Type="String">ALTO BIOBÍO</Data></Cell>
+<Cell ><Data ss:Type="Number">165197</Data></Cell>
+<Cell ><Data ss:Type="Number">331685</Data></Cell>
+<Cell ><Data ss:Type="Number">211977</Data></Cell>
+<Cell ><Data ss:Type="Number">-14211</Data></Cell>
+<Cell ><Data ss:Type="Number">428462</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09101</Data></Cell>
+<Cell ><Data ss:Type="String">TEMUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">23377740</Data></Cell>
+<Cell ><Data ss:Type="Number">22690213</Data></Cell>
+<Cell ><Data ss:Type="Number">15710704</Data></Cell>
+<Cell ><Data ss:Type="Number">12974209</Data></Cell>
+<Cell ><Data ss:Type="Number">8838915</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09102</Data></Cell>
+<Cell ><Data ss:Type="String">CARAHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">567644</Data></Cell>
+<Cell ><Data ss:Type="Number">496345</Data></Cell>
+<Cell ><Data ss:Type="Number">361534</Data></Cell>
+<Cell ><Data ss:Type="Number">653568</Data></Cell>
+<Cell ><Data ss:Type="Number">667984</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09103</Data></Cell>
+<Cell ><Data ss:Type="String">CUNCO</Data></Cell>
+<Cell ><Data ss:Type="Number">1758960</Data></Cell>
+<Cell ><Data ss:Type="Number">1339164</Data></Cell>
+<Cell ><Data ss:Type="Number">1471333</Data></Cell>
+<Cell ><Data ss:Type="Number">1511286</Data></Cell>
+<Cell ><Data ss:Type="Number">1171937</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09104</Data></Cell>
+<Cell ><Data ss:Type="String">CURARREHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">1406364</Data></Cell>
+<Cell ><Data ss:Type="Number">1051847</Data></Cell>
+<Cell ><Data ss:Type="Number">864918</Data></Cell>
+<Cell ><Data ss:Type="Number">1025938</Data></Cell>
+<Cell ><Data ss:Type="Number">456683</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09105</Data></Cell>
+<Cell ><Data ss:Type="String">FREIRE</Data></Cell>
+<Cell ><Data ss:Type="Number">1242704</Data></Cell>
+<Cell ><Data ss:Type="Number">1118241</Data></Cell>
+<Cell ><Data ss:Type="Number">1301936</Data></Cell>
+<Cell ><Data ss:Type="Number">1360287</Data></Cell>
+<Cell ><Data ss:Type="Number">1264283</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09106</Data></Cell>
+<Cell ><Data ss:Type="String">GALVARINO</Data></Cell>
+<Cell ><Data ss:Type="Number">897017</Data></Cell>
+<Cell ><Data ss:Type="Number">633432</Data></Cell>
+<Cell ><Data ss:Type="Number">93069</Data></Cell>
+<Cell ><Data ss:Type="Number">524933</Data></Cell>
+<Cell ><Data ss:Type="Number">1394426</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09107</Data></Cell>
+<Cell ><Data ss:Type="String">GORBEA</Data></Cell>
+<Cell ><Data ss:Type="Number">998374</Data></Cell>
+<Cell ><Data ss:Type="Number">512607</Data></Cell>
+<Cell ><Data ss:Type="Number">385079</Data></Cell>
+<Cell ><Data ss:Type="Number">736191</Data></Cell>
+<Cell ><Data ss:Type="Number">382348</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09108</Data></Cell>
+<Cell ><Data ss:Type="String">LAUTARO</Data></Cell>
+<Cell ><Data ss:Type="Number">4489647</Data></Cell>
+<Cell ><Data ss:Type="Number">4233485</Data></Cell>
+<Cell ><Data ss:Type="Number">1135547</Data></Cell>
+<Cell ><Data ss:Type="Number">1117961</Data></Cell>
+<Cell ><Data ss:Type="Number">1249042</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09109</Data></Cell>
+<Cell ><Data ss:Type="String">LONCOCHE</Data></Cell>
+<Cell ><Data ss:Type="Number">2643818</Data></Cell>
+<Cell ><Data ss:Type="Number">2205761</Data></Cell>
+<Cell ><Data ss:Type="Number">1780641</Data></Cell>
+<Cell ><Data ss:Type="Number">1424066</Data></Cell>
+<Cell ><Data ss:Type="Number">1446561</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09110</Data></Cell>
+<Cell ><Data ss:Type="String">MELIPEUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">562822</Data></Cell>
+<Cell ><Data ss:Type="Number">395348</Data></Cell>
+<Cell ><Data ss:Type="Number">317945</Data></Cell>
+<Cell ><Data ss:Type="Number">442071</Data></Cell>
+<Cell ><Data ss:Type="Number">423442</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09111</Data></Cell>
+<Cell ><Data ss:Type="String">NUEVA IMPERIAL</Data></Cell>
+<Cell ><Data ss:Type="Number">948342</Data></Cell>
+<Cell ><Data ss:Type="Number">1054200</Data></Cell>
+<Cell ><Data ss:Type="Number">966571</Data></Cell>
+<Cell ><Data ss:Type="Number">828751</Data></Cell>
+<Cell ><Data ss:Type="Number">1436551</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09112</Data></Cell>
+<Cell ><Data ss:Type="String">PADRE LAS CASAS</Data></Cell>
+<Cell ><Data ss:Type="Number">3541888</Data></Cell>
+<Cell ><Data ss:Type="Number">1932339</Data></Cell>
+<Cell ><Data ss:Type="Number">1570630</Data></Cell>
+<Cell ><Data ss:Type="Number">2569288</Data></Cell>
+<Cell ><Data ss:Type="Number">4373447</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09113</Data></Cell>
+<Cell ><Data ss:Type="String">PERQUENCO</Data></Cell>
+<Cell ><Data ss:Type="Number">422760</Data></Cell>
+<Cell ><Data ss:Type="Number">338082</Data></Cell>
+<Cell ><Data ss:Type="Number">208647</Data></Cell>
+<Cell ><Data ss:Type="Number">164834</Data></Cell>
+<Cell ><Data ss:Type="Number">202696</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09114</Data></Cell>
+<Cell ><Data ss:Type="String">PITRUFQUÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">1087847</Data></Cell>
+<Cell ><Data ss:Type="Number">685201</Data></Cell>
+<Cell ><Data ss:Type="Number">822580</Data></Cell>
+<Cell ><Data ss:Type="Number">973331</Data></Cell>
+<Cell ><Data ss:Type="Number">548247</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09115</Data></Cell>
+<Cell ><Data ss:Type="String">PUCÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">1650745</Data></Cell>
+<Cell ><Data ss:Type="Number">1684733</Data></Cell>
+<Cell ><Data ss:Type="Number">1830246</Data></Cell>
+<Cell ><Data ss:Type="Number">1399857</Data></Cell>
+<Cell ><Data ss:Type="Number">940530</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09116</Data></Cell>
+<Cell ><Data ss:Type="String">SAAVEDRA</Data></Cell>
+<Cell ><Data ss:Type="Number">403480</Data></Cell>
+<Cell ><Data ss:Type="Number">156209</Data></Cell>
+<Cell ><Data ss:Type="Number">233320</Data></Cell>
+<Cell ><Data ss:Type="Number">175906</Data></Cell>
+<Cell ><Data ss:Type="Number">922947</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09117</Data></Cell>
+<Cell ><Data ss:Type="String">TEODORO SCHMIDT</Data></Cell>
+<Cell ><Data ss:Type="Number">603471</Data></Cell>
+<Cell ><Data ss:Type="Number">909665</Data></Cell>
+<Cell ><Data ss:Type="Number">558283</Data></Cell>
+<Cell ><Data ss:Type="Number">136343</Data></Cell>
+<Cell ><Data ss:Type="Number">421836</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09118</Data></Cell>
+<Cell ><Data ss:Type="String">TOLTÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">1269800</Data></Cell>
+<Cell ><Data ss:Type="Number">898197</Data></Cell>
+<Cell ><Data ss:Type="Number">217562</Data></Cell>
+<Cell ><Data ss:Type="Number">307278</Data></Cell>
+<Cell ><Data ss:Type="Number">380832</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09119</Data></Cell>
+<Cell ><Data ss:Type="String">VILCÚN</Data></Cell>
+<Cell ><Data ss:Type="Number">2096351</Data></Cell>
+<Cell ><Data ss:Type="Number">2298201</Data></Cell>
+<Cell ><Data ss:Type="Number">1035830</Data></Cell>
+<Cell ><Data ss:Type="Number">946274</Data></Cell>
+<Cell ><Data ss:Type="Number">1137232</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09120</Data></Cell>
+<Cell ><Data ss:Type="String">VILLARRICA</Data></Cell>
+<Cell ><Data ss:Type="Number">1947618</Data></Cell>
+<Cell ><Data ss:Type="Number">1095540</Data></Cell>
+<Cell ><Data ss:Type="Number">590391</Data></Cell>
+<Cell ><Data ss:Type="Number">248677</Data></Cell>
+<Cell ><Data ss:Type="Number">439847</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09121</Data></Cell>
+<Cell ><Data ss:Type="String">CHOLCHOL</Data></Cell>
+<Cell ><Data ss:Type="Number">422991</Data></Cell>
+<Cell ><Data ss:Type="Number">357903</Data></Cell>
+<Cell ><Data ss:Type="Number">417118</Data></Cell>
+<Cell ><Data ss:Type="Number">271319</Data></Cell>
+<Cell ><Data ss:Type="Number">345878</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09201</Data></Cell>
+<Cell ><Data ss:Type="String">ANGOL</Data></Cell>
+<Cell ><Data ss:Type="Number">1343503</Data></Cell>
+<Cell ><Data ss:Type="Number">975210</Data></Cell>
+<Cell ><Data ss:Type="Number">358040</Data></Cell>
+<Cell ><Data ss:Type="Number">543565</Data></Cell>
+<Cell ><Data ss:Type="Number">1113714</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09202</Data></Cell>
+<Cell ><Data ss:Type="String">COLLIPULLI</Data></Cell>
+<Cell ><Data ss:Type="Number">2912371</Data></Cell>
+<Cell ><Data ss:Type="Number">2361731</Data></Cell>
+<Cell ><Data ss:Type="Number">877980</Data></Cell>
+<Cell ><Data ss:Type="Number">921738</Data></Cell>
+<Cell ><Data ss:Type="Number">923731</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09203</Data></Cell>
+<Cell ><Data ss:Type="String">CURACAUTÍN</Data></Cell>
+<Cell ><Data ss:Type="Number">1650589</Data></Cell>
+<Cell ><Data ss:Type="Number">1187311</Data></Cell>
+<Cell ><Data ss:Type="Number">449069</Data></Cell>
+<Cell ><Data ss:Type="Number">593949</Data></Cell>
+<Cell ><Data ss:Type="Number">1058052</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09204</Data></Cell>
+<Cell ><Data ss:Type="String">ERCILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">773849</Data></Cell>
+<Cell ><Data ss:Type="Number">732749</Data></Cell>
+<Cell ><Data ss:Type="Number">240013</Data></Cell>
+<Cell ><Data ss:Type="Number">147656</Data></Cell>
+<Cell ><Data ss:Type="Number">230582</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09205</Data></Cell>
+<Cell ><Data ss:Type="String">LONQUIMAY</Data></Cell>
+<Cell ><Data ss:Type="Number">1937680</Data></Cell>
+<Cell ><Data ss:Type="Number">2502855</Data></Cell>
+<Cell ><Data ss:Type="Number">1475882</Data></Cell>
+<Cell ><Data ss:Type="Number">253114</Data></Cell>
+<Cell ><Data ss:Type="Number">1015044</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09206</Data></Cell>
+<Cell ><Data ss:Type="String">LOS SAUCES</Data></Cell>
+<Cell ><Data ss:Type="Number">1064733</Data></Cell>
+<Cell ><Data ss:Type="Number">1283168</Data></Cell>
+<Cell ><Data ss:Type="Number">681628</Data></Cell>
+<Cell ><Data ss:Type="Number">274778</Data></Cell>
+<Cell ><Data ss:Type="Number">418885</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09207</Data></Cell>
+<Cell ><Data ss:Type="String">LUMACO</Data></Cell>
+<Cell ><Data ss:Type="Number">1200341</Data></Cell>
+<Cell ><Data ss:Type="Number">591547</Data></Cell>
+<Cell ><Data ss:Type="Number">287262</Data></Cell>
+<Cell ><Data ss:Type="Number">292167</Data></Cell>
+<Cell ><Data ss:Type="Number">180524</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09208</Data></Cell>
+<Cell ><Data ss:Type="String">PURÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">451279</Data></Cell>
+<Cell ><Data ss:Type="Number">434768</Data></Cell>
+<Cell ><Data ss:Type="Number">258518</Data></Cell>
+<Cell ><Data ss:Type="Number">142252</Data></Cell>
+<Cell ><Data ss:Type="Number">385474</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09209</Data></Cell>
+<Cell ><Data ss:Type="String">RENAICO</Data></Cell>
+<Cell ><Data ss:Type="Number">962792</Data></Cell>
+<Cell ><Data ss:Type="Number">1590868</Data></Cell>
+<Cell ><Data ss:Type="Number">1219503</Data></Cell>
+<Cell ><Data ss:Type="Number">919796</Data></Cell>
+<Cell ><Data ss:Type="Number">1125059</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09210</Data></Cell>
+<Cell ><Data ss:Type="String">TRAIGUÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">768102</Data></Cell>
+<Cell ><Data ss:Type="Number">618200</Data></Cell>
+<Cell ><Data ss:Type="Number">636806</Data></Cell>
+<Cell ><Data ss:Type="Number">382356</Data></Cell>
+<Cell ><Data ss:Type="Number">223594</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">09211</Data></Cell>
+<Cell ><Data ss:Type="String">VICTORIA</Data></Cell>
+<Cell ><Data ss:Type="Number">924005</Data></Cell>
+<Cell ><Data ss:Type="Number">894874</Data></Cell>
+<Cell ><Data ss:Type="Number">1201375</Data></Cell>
+<Cell ><Data ss:Type="Number">1198455</Data></Cell>
+<Cell ><Data ss:Type="Number">1617702</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10101</Data></Cell>
+<Cell ><Data ss:Type="String">PUERTO MONTT</Data></Cell>
+<Cell ><Data ss:Type="Number">6598501</Data></Cell>
+<Cell ><Data ss:Type="Number">9564418</Data></Cell>
+<Cell ><Data ss:Type="Number">6324729</Data></Cell>
+<Cell ><Data ss:Type="Number">4516215</Data></Cell>
+<Cell ><Data ss:Type="Number">6541432</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10102</Data></Cell>
+<Cell ><Data ss:Type="String">CALBUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">1625784</Data></Cell>
+<Cell ><Data ss:Type="Number">1193616</Data></Cell>
+<Cell ><Data ss:Type="Number">886897</Data></Cell>
+<Cell ><Data ss:Type="Number">1402307</Data></Cell>
+<Cell ><Data ss:Type="Number">608264</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10103</Data></Cell>
+<Cell ><Data ss:Type="String">COCHAMÓ</Data></Cell>
+<Cell ><Data ss:Type="Number">200000</Data></Cell>
+<Cell ><Data ss:Type="Number">412000</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">333600</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10104</Data></Cell>
+<Cell ><Data ss:Type="String">FRESIA</Data></Cell>
+<Cell ><Data ss:Type="Number">1551837</Data></Cell>
+<Cell ><Data ss:Type="Number">1519424</Data></Cell>
+<Cell ><Data ss:Type="Number">983010</Data></Cell>
+<Cell ><Data ss:Type="Number">469328</Data></Cell>
+<Cell ><Data ss:Type="Number">572977</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10105</Data></Cell>
+<Cell ><Data ss:Type="String">FRUTILLAR</Data></Cell>
+<Cell ><Data ss:Type="Number">348904</Data></Cell>
+<Cell ><Data ss:Type="Number">1115158</Data></Cell>
+<Cell ><Data ss:Type="Number">844254</Data></Cell>
+<Cell ><Data ss:Type="Number">712467</Data></Cell>
+<Cell ><Data ss:Type="Number">738428</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10106</Data></Cell>
+<Cell ><Data ss:Type="String">LOS MUERMOS</Data></Cell>
+<Cell ><Data ss:Type="Number">281949</Data></Cell>
+<Cell ><Data ss:Type="Number">459597</Data></Cell>
+<Cell ><Data ss:Type="Number">107960</Data></Cell>
+<Cell ><Data ss:Type="Number">320308</Data></Cell>
+<Cell ><Data ss:Type="Number">265351</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10107</Data></Cell>
+<Cell ><Data ss:Type="String">LLANQUIHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">75616</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10108</Data></Cell>
+<Cell ><Data ss:Type="String">MAULLÍN</Data></Cell>
+<Cell ><Data ss:Type="Number">778505</Data></Cell>
+<Cell ><Data ss:Type="Number">191627</Data></Cell>
+<Cell ><Data ss:Type="Number">728364</Data></Cell>
+<Cell ><Data ss:Type="Number">618323</Data></Cell>
+<Cell ><Data ss:Type="Number">189040</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10109</Data></Cell>
+<Cell ><Data ss:Type="String">PUERTO VARAS</Data></Cell>
+<Cell ><Data ss:Type="Number">2329221</Data></Cell>
+<Cell ><Data ss:Type="Number">2179245</Data></Cell>
+<Cell ><Data ss:Type="Number">1098980</Data></Cell>
+<Cell ><Data ss:Type="Number">473958</Data></Cell>
+<Cell ><Data ss:Type="Number">1553464</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10201</Data></Cell>
+<Cell ><Data ss:Type="String">CASTRO</Data></Cell>
+<Cell ><Data ss:Type="Number">3569390</Data></Cell>
+<Cell ><Data ss:Type="Number">2666990</Data></Cell>
+<Cell ><Data ss:Type="Number">1605723</Data></Cell>
+<Cell ><Data ss:Type="Number">2594935</Data></Cell>
+<Cell ><Data ss:Type="Number">3242893</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10202</Data></Cell>
+<Cell ><Data ss:Type="String">ANCUD</Data></Cell>
+<Cell ><Data ss:Type="Number">1545390</Data></Cell>
+<Cell ><Data ss:Type="Number">1199601</Data></Cell>
+<Cell ><Data ss:Type="Number">2709267</Data></Cell>
+<Cell ><Data ss:Type="Number">1894811</Data></Cell>
+<Cell ><Data ss:Type="Number">2163225</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10203</Data></Cell>
+<Cell ><Data ss:Type="String">CHONCHI</Data></Cell>
+<Cell ><Data ss:Type="Number">1561358</Data></Cell>
+<Cell ><Data ss:Type="Number">1658150</Data></Cell>
+<Cell ><Data ss:Type="Number">1620045</Data></Cell>
+<Cell ><Data ss:Type="Number">1552943</Data></Cell>
+<Cell ><Data ss:Type="Number">1357552</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10204</Data></Cell>
+<Cell ><Data ss:Type="String">CURACO DE VÉLEZ</Data></Cell>
+<Cell ><Data ss:Type="Number">542681</Data></Cell>
+<Cell ><Data ss:Type="Number">246235</Data></Cell>
+<Cell ><Data ss:Type="Number">347957</Data></Cell>
+<Cell ><Data ss:Type="Number">164288</Data></Cell>
+<Cell ><Data ss:Type="Number">331376</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10205</Data></Cell>
+<Cell ><Data ss:Type="String">DALCAHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">776882</Data></Cell>
+<Cell ><Data ss:Type="Number">1113853</Data></Cell>
+<Cell ><Data ss:Type="Number">672924</Data></Cell>
+<Cell ><Data ss:Type="Number">763965</Data></Cell>
+<Cell ><Data ss:Type="Number">800879</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10206</Data></Cell>
+<Cell ><Data ss:Type="String">PUQUELDÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">573812</Data></Cell>
+<Cell ><Data ss:Type="Number">668280</Data></Cell>
+<Cell ><Data ss:Type="Number">641458</Data></Cell>
+<Cell ><Data ss:Type="Number">833618</Data></Cell>
+<Cell ><Data ss:Type="Number">679237</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10207</Data></Cell>
+<Cell ><Data ss:Type="String">QUEILÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">74482</Data></Cell>
+<Cell ><Data ss:Type="Number">371815</Data></Cell>
+<Cell ><Data ss:Type="Number">222568</Data></Cell>
+<Cell ><Data ss:Type="Number">267350</Data></Cell>
+<Cell ><Data ss:Type="Number">296784</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10208</Data></Cell>
+<Cell ><Data ss:Type="String">QUELLÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">144577</Data></Cell>
+<Cell ><Data ss:Type="Number">652055</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">203002</Data></Cell>
+<Cell ><Data ss:Type="Number">499632</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10209</Data></Cell>
+<Cell ><Data ss:Type="String">QUEMCHI</Data></Cell>
+<Cell ><Data ss:Type="Number">189619</Data></Cell>
+<Cell ><Data ss:Type="Number">185034</Data></Cell>
+<Cell ><Data ss:Type="Number">51791</Data></Cell>
+<Cell ><Data ss:Type="Number">341098</Data></Cell>
+<Cell ><Data ss:Type="Number">232843</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10210</Data></Cell>
+<Cell ><Data ss:Type="String">QUINCHAO</Data></Cell>
+<Cell ><Data ss:Type="Number">522211</Data></Cell>
+<Cell ><Data ss:Type="Number">165227</Data></Cell>
+<Cell ><Data ss:Type="Number">228744</Data></Cell>
+<Cell ><Data ss:Type="Number">295918</Data></Cell>
+<Cell ><Data ss:Type="Number">336377</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10301</Data></Cell>
+<Cell ><Data ss:Type="String">OSORNO</Data></Cell>
+<Cell ><Data ss:Type="Number">3349879</Data></Cell>
+<Cell ><Data ss:Type="Number">3823611</Data></Cell>
+<Cell ><Data ss:Type="Number">4539612</Data></Cell>
+<Cell ><Data ss:Type="Number">6292366</Data></Cell>
+<Cell ><Data ss:Type="Number">7028247</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10302</Data></Cell>
+<Cell ><Data ss:Type="String">PUERTO OCTAY</Data></Cell>
+<Cell ><Data ss:Type="Number">530355</Data></Cell>
+<Cell ><Data ss:Type="Number">513071</Data></Cell>
+<Cell ><Data ss:Type="Number">256516</Data></Cell>
+<Cell ><Data ss:Type="Number">316130</Data></Cell>
+<Cell ><Data ss:Type="Number">339191</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10303</Data></Cell>
+<Cell ><Data ss:Type="String">PURRANQUE</Data></Cell>
+<Cell ><Data ss:Type="Number">946065</Data></Cell>
+<Cell ><Data ss:Type="Number">1114858</Data></Cell>
+<Cell ><Data ss:Type="Number">885815</Data></Cell>
+<Cell ><Data ss:Type="Number">331335</Data></Cell>
+<Cell ><Data ss:Type="Number">309689</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10304</Data></Cell>
+<Cell ><Data ss:Type="String">PUYEHUE</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">1101355</Data></Cell>
+<Cell ><Data ss:Type="Number">709014</Data></Cell>
+<Cell ><Data ss:Type="Number">550884</Data></Cell>
+<Cell ><Data ss:Type="Number">266135</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10305</Data></Cell>
+<Cell ><Data ss:Type="String">RÍO NEGRO</Data></Cell>
+<Cell ><Data ss:Type="Number">532326</Data></Cell>
+<Cell ><Data ss:Type="Number">460745</Data></Cell>
+<Cell ><Data ss:Type="Number">702521</Data></Cell>
+<Cell ><Data ss:Type="Number">334981</Data></Cell>
+<Cell ><Data ss:Type="Number">493459</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10306</Data></Cell>
+<Cell ><Data ss:Type="String">SAN JUAN DE LA COSTA</Data></Cell>
+<Cell ><Data ss:Type="Number">278992</Data></Cell>
+<Cell ><Data ss:Type="Number">135115</Data></Cell>
+<Cell ><Data ss:Type="Number">713739</Data></Cell>
+<Cell ><Data ss:Type="Number">1210566</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10307</Data></Cell>
+<Cell ><Data ss:Type="String">SAN PABLO</Data></Cell>
+<Cell ><Data ss:Type="Number">1000</Data></Cell>
+<Cell ><Data ss:Type="Number">6459</Data></Cell>
+<Cell ><Data ss:Type="Number">330340</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">98968</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10401</Data></Cell>
+<Cell ><Data ss:Type="String">CHAITÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">1101500</Data></Cell>
+<Cell ><Data ss:Type="Number">1135659</Data></Cell>
+<Cell ><Data ss:Type="Number">1009499</Data></Cell>
+<Cell ><Data ss:Type="Number">621782</Data></Cell>
+<Cell ><Data ss:Type="Number">288868</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10402</Data></Cell>
+<Cell ><Data ss:Type="String">FUTALEUFÚ</Data></Cell>
+<Cell ><Data ss:Type="Number">11294</Data></Cell>
+<Cell ><Data ss:Type="Number">287424</Data></Cell>
+<Cell ><Data ss:Type="Number">231566</Data></Cell>
+<Cell ><Data ss:Type="Number">352053</Data></Cell>
+<Cell ><Data ss:Type="Number">362759</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10403</Data></Cell>
+<Cell ><Data ss:Type="String">HUALAIHUÉ</Data></Cell>
+<Cell ><Data ss:Type="Number">1351224</Data></Cell>
+<Cell ><Data ss:Type="Number">454907</Data></Cell>
+<Cell ><Data ss:Type="Number">366217</Data></Cell>
+<Cell ><Data ss:Type="Number">236537</Data></Cell>
+<Cell ><Data ss:Type="Number">307785</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">10404</Data></Cell>
+<Cell ><Data ss:Type="String">PALENA</Data></Cell>
+<Cell ><Data ss:Type="Number">406567</Data></Cell>
+<Cell ><Data ss:Type="Number">298606</Data></Cell>
+<Cell ><Data ss:Type="Number">523813</Data></Cell>
+<Cell ><Data ss:Type="Number">517068</Data></Cell>
+<Cell ><Data ss:Type="Number">490482</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11101</Data></Cell>
+<Cell ><Data ss:Type="String">COYHAIQUE</Data></Cell>
+<Cell ><Data ss:Type="Number">1958002</Data></Cell>
+<Cell ><Data ss:Type="Number">1502389</Data></Cell>
+<Cell ><Data ss:Type="Number">2356998</Data></Cell>
+<Cell ><Data ss:Type="Number">2074803</Data></Cell>
+<Cell ><Data ss:Type="Number">2215500</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11102</Data></Cell>
+<Cell ><Data ss:Type="String">LAGO VERDE</Data></Cell>
+<Cell ><Data ss:Type="Number">70000</Data></Cell>
+<Cell ><Data ss:Type="Number">5150</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">7606</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11201</Data></Cell>
+<Cell ><Data ss:Type="String">AYSÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">492413</Data></Cell>
+<Cell ><Data ss:Type="Number">160184</Data></Cell>
+<Cell ><Data ss:Type="Number">-556662</Data></Cell>
+<Cell ><Data ss:Type="Number">-980167</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11202</Data></Cell>
+<Cell ><Data ss:Type="String">CISNES</Data></Cell>
+<Cell ><Data ss:Type="Number">917555</Data></Cell>
+<Cell ><Data ss:Type="Number">1728489</Data></Cell>
+<Cell ><Data ss:Type="Number">2559584</Data></Cell>
+<Cell ><Data ss:Type="Number">2375126</Data></Cell>
+<Cell ><Data ss:Type="Number">2055555</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11203</Data></Cell>
+<Cell ><Data ss:Type="String">GUAITECAS</Data></Cell>
+<Cell ><Data ss:Type="Number">121839</Data></Cell>
+<Cell ><Data ss:Type="Number">1030</Data></Cell>
+<Cell ><Data ss:Type="Number">1061</Data></Cell>
+<Cell ><Data ss:Type="Number">1632</Data></Cell>
+<Cell ><Data ss:Type="Number">1668</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11301</Data></Cell>
+<Cell ><Data ss:Type="String">COCHRANE</Data></Cell>
+<Cell ><Data ss:Type="Number">1584907</Data></Cell>
+<Cell ><Data ss:Type="Number">1523466</Data></Cell>
+<Cell ><Data ss:Type="Number">855328</Data></Cell>
+<Cell ><Data ss:Type="Number">616841</Data></Cell>
+<Cell ><Data ss:Type="Number">369304</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11302</Data></Cell>
+<Cell ><Data ss:Type="String">O´HIGGINS</Data></Cell>
+<Cell ><Data ss:Type="Number">1075791</Data></Cell>
+<Cell ><Data ss:Type="Number">1148966</Data></Cell>
+<Cell ><Data ss:Type="Number">886768</Data></Cell>
+<Cell ><Data ss:Type="Number">852660</Data></Cell>
+<Cell ><Data ss:Type="Number">722252</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11303</Data></Cell>
+<Cell ><Data ss:Type="String">TORTEL</Data></Cell>
+<Cell ><Data ss:Type="Number">57498</Data></Cell>
+<Cell ><Data ss:Type="Number">5150</Data></Cell>
+<Cell ><Data ss:Type="Number">21220</Data></Cell>
+<Cell ><Data ss:Type="Number">132443</Data></Cell>
+<Cell ><Data ss:Type="Number">22240</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11401</Data></Cell>
+<Cell ><Data ss:Type="String">CHILE CHICO</Data></Cell>
+<Cell ><Data ss:Type="Number">1486479</Data></Cell>
+<Cell ><Data ss:Type="Number">2130695</Data></Cell>
+<Cell ><Data ss:Type="Number">2666594</Data></Cell>
+<Cell ><Data ss:Type="Number">1744252</Data></Cell>
+<Cell ><Data ss:Type="Number">1110674</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">11402</Data></Cell>
+<Cell ><Data ss:Type="String">RÍO IBÁÑEZ</Data></Cell>
+<Cell ><Data ss:Type="Number">80000</Data></Cell>
+<Cell ><Data ss:Type="Number">103000</Data></Cell>
+<Cell ><Data ss:Type="Number">159150</Data></Cell>
+<Cell ><Data ss:Type="Number">663474</Data></Cell>
+<Cell ><Data ss:Type="Number">762212</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12101</Data></Cell>
+<Cell ><Data ss:Type="String">PUNTA ARENAS</Data></Cell>
+<Cell ><Data ss:Type="Number">6338450</Data></Cell>
+<Cell ><Data ss:Type="Number">4633803</Data></Cell>
+<Cell ><Data ss:Type="Number">5336005</Data></Cell>
+<Cell ><Data ss:Type="Number">3965085</Data></Cell>
+<Cell ><Data ss:Type="Number">3466952</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12102</Data></Cell>
+<Cell ><Data ss:Type="String">LAGUNA BLANCA</Data></Cell>
+<Cell ><Data ss:Type="Number">796709</Data></Cell>
+<Cell ><Data ss:Type="Number">442074</Data></Cell>
+<Cell ><Data ss:Type="Number">367753</Data></Cell>
+<Cell ><Data ss:Type="Number">360809</Data></Cell>
+<Cell ><Data ss:Type="Number">289491</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12103</Data></Cell>
+<Cell ><Data ss:Type="String">RÍO VERDE</Data></Cell>
+<Cell ><Data ss:Type="Number">1657490</Data></Cell>
+<Cell ><Data ss:Type="Number">1388042</Data></Cell>
+<Cell ><Data ss:Type="Number">991564</Data></Cell>
+<Cell ><Data ss:Type="Number">586192</Data></Cell>
+<Cell ><Data ss:Type="Number">381518</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12104</Data></Cell>
+<Cell ><Data ss:Type="String">SAN GREGORIO</Data></Cell>
+<Cell ><Data ss:Type="Number">634290</Data></Cell>
+<Cell ><Data ss:Type="Number">649679</Data></Cell>
+<Cell ><Data ss:Type="Number">674570</Data></Cell>
+<Cell ><Data ss:Type="Number">651304</Data></Cell>
+<Cell ><Data ss:Type="Number">790995</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12201</Data></Cell>
+<Cell ><Data ss:Type="String">CABO DE HORNOS</Data></Cell>
+<Cell ><Data ss:Type="Number">850894</Data></Cell>
+<Cell ><Data ss:Type="Number">1049094</Data></Cell>
+<Cell ><Data ss:Type="Number">729723</Data></Cell>
+<Cell ><Data ss:Type="Number">186777</Data></Cell>
+<Cell ><Data ss:Type="Number">420791</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12301</Data></Cell>
+<Cell ><Data ss:Type="String">PORVENIR</Data></Cell>
+<Cell ><Data ss:Type="Number">814734</Data></Cell>
+<Cell ><Data ss:Type="Number">568570</Data></Cell>
+<Cell ><Data ss:Type="Number">400070</Data></Cell>
+<Cell ><Data ss:Type="Number">508464</Data></Cell>
+<Cell ><Data ss:Type="Number">135478</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12302</Data></Cell>
+<Cell ><Data ss:Type="String">PRIMAVERA</Data></Cell>
+<Cell ><Data ss:Type="Number">591152</Data></Cell>
+<Cell ><Data ss:Type="Number">448195</Data></Cell>
+<Cell ><Data ss:Type="Number">610850</Data></Cell>
+<Cell ><Data ss:Type="Number">539373</Data></Cell>
+<Cell ><Data ss:Type="Number">435836</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12303</Data></Cell>
+<Cell ><Data ss:Type="String">TIMAUKEL</Data></Cell>
+<Cell ><Data ss:Type="Number">321500</Data></Cell>
+<Cell ><Data ss:Type="Number">240519</Data></Cell>
+<Cell ><Data ss:Type="Number">161624</Data></Cell>
+<Cell ><Data ss:Type="Number">317685</Data></Cell>
+<Cell ><Data ss:Type="Number">380522</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12401</Data></Cell>
+<Cell ><Data ss:Type="String">NATALES</Data></Cell>
+<Cell ><Data ss:Type="Number">530702</Data></Cell>
+<Cell ><Data ss:Type="Number">641925</Data></Cell>
+<Cell ><Data ss:Type="Number">265489</Data></Cell>
+<Cell ><Data ss:Type="Number">192705</Data></Cell>
+<Cell ><Data ss:Type="Number">66773</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">12402</Data></Cell>
+<Cell ><Data ss:Type="String">TORRES DEL PAINE</Data></Cell>
+<Cell ><Data ss:Type="Number">35847</Data></Cell>
+<Cell ><Data ss:Type="Number">30654</Data></Cell>
+<Cell ><Data ss:Type="Number">31830</Data></Cell>
+<Cell ><Data ss:Type="Number">90018</Data></Cell>
+<Cell ><Data ss:Type="Number">59677</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13101</Data></Cell>
+<Cell ><Data ss:Type="String">SANTIAGO</Data></Cell>
+<Cell ><Data ss:Type="Number">11647375</Data></Cell>
+<Cell ><Data ss:Type="Number">7141779</Data></Cell>
+<Cell ><Data ss:Type="Number">8205100</Data></Cell>
+<Cell ><Data ss:Type="Number">6139192</Data></Cell>
+<Cell ><Data ss:Type="Number">6691894</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13102</Data></Cell>
+<Cell ><Data ss:Type="String">CERRILLOS</Data></Cell>
+<Cell ><Data ss:Type="Number">2643868</Data></Cell>
+<Cell ><Data ss:Type="Number">2321942</Data></Cell>
+<Cell ><Data ss:Type="Number">1615242</Data></Cell>
+<Cell ><Data ss:Type="Number">829721</Data></Cell>
+<Cell ><Data ss:Type="Number">868446</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13103</Data></Cell>
+<Cell ><Data ss:Type="String">CERRO NAVIA</Data></Cell>
+<Cell ><Data ss:Type="Number">4103041</Data></Cell>
+<Cell ><Data ss:Type="Number">2608168</Data></Cell>
+<Cell ><Data ss:Type="Number">1695073</Data></Cell>
+<Cell ><Data ss:Type="Number">648989</Data></Cell>
+<Cell ><Data ss:Type="Number">786871</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13104</Data></Cell>
+<Cell ><Data ss:Type="String">CONCHALÍ</Data></Cell>
+<Cell ><Data ss:Type="Number">1172270</Data></Cell>
+<Cell ><Data ss:Type="Number">2280667</Data></Cell>
+<Cell ><Data ss:Type="Number">1475374</Data></Cell>
+<Cell ><Data ss:Type="Number">2035192</Data></Cell>
+<Cell ><Data ss:Type="Number">3316707</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13105</Data></Cell>
+<Cell ><Data ss:Type="String">EL BOSQUE</Data></Cell>
+<Cell ><Data ss:Type="Number">2689273</Data></Cell>
+<Cell ><Data ss:Type="Number">3036040</Data></Cell>
+<Cell ><Data ss:Type="Number">2646069</Data></Cell>
+<Cell ><Data ss:Type="Number">2782267</Data></Cell>
+<Cell ><Data ss:Type="Number">2425771</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13106</Data></Cell>
+<Cell ><Data ss:Type="String">ESTACIÓN CENTRAL</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">-5153347</Data></Cell>
+<Cell ><Data ss:Type="Number">1676892</Data></Cell>
+<Cell ><Data ss:Type="Number">444800</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13107</Data></Cell>
+<Cell ><Data ss:Type="String">HUECHURABA</Data></Cell>
+<Cell ><Data ss:Type="Number">2642635</Data></Cell>
+<Cell ><Data ss:Type="Number">3419938</Data></Cell>
+<Cell ><Data ss:Type="Number">4277336</Data></Cell>
+<Cell ><Data ss:Type="Number">4255635</Data></Cell>
+<Cell ><Data ss:Type="Number">6238100</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13108</Data></Cell>
+<Cell ><Data ss:Type="String">INDEPENDENCIA</Data></Cell>
+<Cell ><Data ss:Type="Number">609153</Data></Cell>
+<Cell ><Data ss:Type="Number">363413</Data></Cell>
+<Cell ><Data ss:Type="Number">602138</Data></Cell>
+<Cell ><Data ss:Type="Number">165831</Data></Cell>
+<Cell ><Data ss:Type="Number">154058</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13109</Data></Cell>
+<Cell ><Data ss:Type="String">LA CISTERNA</Data></Cell>
+<Cell ><Data ss:Type="Number">7440098</Data></Cell>
+<Cell ><Data ss:Type="Number">4912891</Data></Cell>
+<Cell ><Data ss:Type="Number">1963726</Data></Cell>
+<Cell ><Data ss:Type="Number">1394220</Data></Cell>
+<Cell ><Data ss:Type="Number">2258343</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13110</Data></Cell>
+<Cell ><Data ss:Type="String">LA FLORIDA</Data></Cell>
+<Cell ><Data ss:Type="Number">20254900</Data></Cell>
+<Cell ><Data ss:Type="Number">5787137</Data></Cell>
+<Cell ><Data ss:Type="Number">3106283</Data></Cell>
+<Cell ><Data ss:Type="Number">1692615</Data></Cell>
+<Cell ><Data ss:Type="Number">781229</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13111</Data></Cell>
+<Cell ><Data ss:Type="String">LA GRANJA</Data></Cell>
+<Cell ><Data ss:Type="Number">3901854</Data></Cell>
+<Cell ><Data ss:Type="Number">3205334</Data></Cell>
+<Cell ><Data ss:Type="Number">3081145</Data></Cell>
+<Cell ><Data ss:Type="Number">2261989</Data></Cell>
+<Cell ><Data ss:Type="Number">3429648</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13112</Data></Cell>
+<Cell ><Data ss:Type="String">LA PINTANA</Data></Cell>
+<Cell ><Data ss:Type="Number">5967465</Data></Cell>
+<Cell ><Data ss:Type="Number">7724784</Data></Cell>
+<Cell ><Data ss:Type="Number">10771453</Data></Cell>
+<Cell ><Data ss:Type="Number">9757002</Data></Cell>
+<Cell ><Data ss:Type="Number">13626778</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13113</Data></Cell>
+<Cell ><Data ss:Type="String">LA REINA</Data></Cell>
+<Cell ><Data ss:Type="Number">4927271</Data></Cell>
+<Cell ><Data ss:Type="Number">4421891</Data></Cell>
+<Cell ><Data ss:Type="Number">2352161</Data></Cell>
+<Cell ><Data ss:Type="Number">1659145</Data></Cell>
+<Cell ><Data ss:Type="Number">1181811</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13114</Data></Cell>
+<Cell ><Data ss:Type="String">LAS CONDES</Data></Cell>
+<Cell ><Data ss:Type="Number">49264014</Data></Cell>
+<Cell ><Data ss:Type="Number">48497302</Data></Cell>
+<Cell ><Data ss:Type="Number">50413090</Data></Cell>
+<Cell ><Data ss:Type="Number">61647838</Data></Cell>
+<Cell ><Data ss:Type="Number">63101866</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13115</Data></Cell>
+<Cell ><Data ss:Type="String">LO BARNECHEA</Data></Cell>
+<Cell ><Data ss:Type="Number">41659011</Data></Cell>
+<Cell ><Data ss:Type="Number">40725926</Data></Cell>
+<Cell ><Data ss:Type="Number">33494077</Data></Cell>
+<Cell ><Data ss:Type="Number">23898337</Data></Cell>
+<Cell ><Data ss:Type="Number">23787155</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13116</Data></Cell>
+<Cell ><Data ss:Type="String">LO ESPEJO</Data></Cell>
+<Cell ><Data ss:Type="Number">485995</Data></Cell>
+<Cell ><Data ss:Type="Number">585129</Data></Cell>
+<Cell ><Data ss:Type="Number">790146</Data></Cell>
+<Cell ><Data ss:Type="Number">270586</Data></Cell>
+<Cell ><Data ss:Type="Number">609620</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13117</Data></Cell>
+<Cell ><Data ss:Type="String">LO PRADO</Data></Cell>
+<Cell ><Data ss:Type="Number">1261170</Data></Cell>
+<Cell ><Data ss:Type="Number">718940</Data></Cell>
+<Cell ><Data ss:Type="Number">469935</Data></Cell>
+<Cell ><Data ss:Type="Number">616565</Data></Cell>
+<Cell ><Data ss:Type="Number">1236955</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13118</Data></Cell>
+<Cell ><Data ss:Type="String">MACUL</Data></Cell>
+<Cell ><Data ss:Type="Number">1590220</Data></Cell>
+<Cell ><Data ss:Type="Number">1841412</Data></Cell>
+<Cell ><Data ss:Type="Number">1323647</Data></Cell>
+<Cell ><Data ss:Type="Number">1039575</Data></Cell>
+<Cell ><Data ss:Type="Number">1723692</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13119</Data></Cell>
+<Cell ><Data ss:Type="String">MAIPÚ</Data></Cell>
+<Cell ><Data ss:Type="Number">3985750</Data></Cell>
+<Cell ><Data ss:Type="Number">10484195</Data></Cell>
+<Cell ><Data ss:Type="Number">12814814</Data></Cell>
+<Cell ><Data ss:Type="Number">13312733</Data></Cell>
+<Cell ><Data ss:Type="Number">22437680</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13120</Data></Cell>
+<Cell ><Data ss:Type="String">ÑUÑOA</Data></Cell>
+<Cell ><Data ss:Type="Number">7345206</Data></Cell>
+<Cell ><Data ss:Type="Number">2492834</Data></Cell>
+<Cell ><Data ss:Type="Number">1118736</Data></Cell>
+<Cell ><Data ss:Type="Number">1523825</Data></Cell>
+<Cell ><Data ss:Type="Number">964084</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13121</Data></Cell>
+<Cell ><Data ss:Type="String">PEDRO AGUIRRE CERDA</Data></Cell>
+<Cell ><Data ss:Type="Number">3822791</Data></Cell>
+<Cell ><Data ss:Type="Number">2765760</Data></Cell>
+<Cell ><Data ss:Type="Number">4369677</Data></Cell>
+<Cell ><Data ss:Type="Number">4800103</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13122</Data></Cell>
+<Cell ><Data ss:Type="String">PEÑALOLÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">697347</Data></Cell>
+<Cell ><Data ss:Type="Number">2340138</Data></Cell>
+<Cell ><Data ss:Type="Number">907861</Data></Cell>
+<Cell ><Data ss:Type="Number">1414421</Data></Cell>
+<Cell ><Data ss:Type="Number">1959327</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13123</Data></Cell>
+<Cell ><Data ss:Type="String">PROVIDENCIA</Data></Cell>
+<Cell ><Data ss:Type="Number">16178094</Data></Cell>
+<Cell ><Data ss:Type="Number">18766361</Data></Cell>
+<Cell ><Data ss:Type="Number">14831688</Data></Cell>
+<Cell ><Data ss:Type="Number">8122654</Data></Cell>
+<Cell ><Data ss:Type="Number">9879040</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13124</Data></Cell>
+<Cell ><Data ss:Type="String">PUDAHUEL</Data></Cell>
+<Cell ><Data ss:Type="Number">22637510</Data></Cell>
+<Cell ><Data ss:Type="Number">25205343</Data></Cell>
+<Cell ><Data ss:Type="Number">23549367</Data></Cell>
+<Cell ><Data ss:Type="Number">15270294</Data></Cell>
+<Cell ><Data ss:Type="Number">15159044</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13125</Data></Cell>
+<Cell ><Data ss:Type="String">QUILICURA</Data></Cell>
+<Cell ><Data ss:Type="Number">5351399</Data></Cell>
+<Cell ><Data ss:Type="Number">232713</Data></Cell>
+<Cell ><Data ss:Type="Number">-505813</Data></Cell>
+<Cell ><Data ss:Type="Number">163200</Data></Cell>
+<Cell ><Data ss:Type="Number">166800</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13126</Data></Cell>
+<Cell ><Data ss:Type="String">QUINTA NORMAL</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">300026</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1711338</Data></Cell>
+<Cell ><Data ss:Type="Number">1028204</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13127</Data></Cell>
+<Cell ><Data ss:Type="String">RECOLETA</Data></Cell>
+<Cell ><Data ss:Type="Number">373616</Data></Cell>
+<Cell ><Data ss:Type="Number">865734</Data></Cell>
+<Cell ><Data ss:Type="Number">481619</Data></Cell>
+<Cell ><Data ss:Type="Number">182462</Data></Cell>
+<Cell ><Data ss:Type="Number">379988</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13128</Data></Cell>
+<Cell ><Data ss:Type="String">RENCA</Data></Cell>
+<Cell ><Data ss:Type="Number">7841245</Data></Cell>
+<Cell ><Data ss:Type="Number">7735405</Data></Cell>
+<Cell ><Data ss:Type="Number">7215483</Data></Cell>
+<Cell ><Data ss:Type="Number">5085452</Data></Cell>
+<Cell ><Data ss:Type="Number">3737696</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13129</Data></Cell>
+<Cell ><Data ss:Type="String">SAN JOAQUÍN</Data></Cell>
+<Cell ><Data ss:Type="Number">2772467</Data></Cell>
+<Cell ><Data ss:Type="Number">2028094</Data></Cell>
+<Cell ><Data ss:Type="Number">221391</Data></Cell>
+<Cell ><Data ss:Type="Number">1071026</Data></Cell>
+<Cell ><Data ss:Type="Number">1258346</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13130</Data></Cell>
+<Cell ><Data ss:Type="String">SAN MIGUEL</Data></Cell>
+<Cell ><Data ss:Type="Number">1657241</Data></Cell>
+<Cell ><Data ss:Type="Number">3491737</Data></Cell>
+<Cell ><Data ss:Type="Number">3734018</Data></Cell>
+<Cell ><Data ss:Type="Number">4358047</Data></Cell>
+<Cell ><Data ss:Type="Number">3974972</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13131</Data></Cell>
+<Cell ><Data ss:Type="String">SAN RAMÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">658234</Data></Cell>
+<Cell ><Data ss:Type="Number">1317735</Data></Cell>
+<Cell ><Data ss:Type="Number">1050045</Data></Cell>
+<Cell ><Data ss:Type="Number">1120879</Data></Cell>
+<Cell ><Data ss:Type="Number">1722842</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13132</Data></Cell>
+<Cell ><Data ss:Type="String">VITACURA</Data></Cell>
+<Cell ><Data ss:Type="Number">11100033</Data></Cell>
+<Cell ><Data ss:Type="Number">10020311</Data></Cell>
+<Cell ><Data ss:Type="Number">6427762</Data></Cell>
+<Cell ><Data ss:Type="Number">6025401</Data></Cell>
+<Cell ><Data ss:Type="Number">9430900</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13201</Data></Cell>
+<Cell ><Data ss:Type="String">PUENTE ALTO</Data></Cell>
+<Cell ><Data ss:Type="Number">9830340</Data></Cell>
+<Cell ><Data ss:Type="Number">7715464</Data></Cell>
+<Cell ><Data ss:Type="Number">3779403</Data></Cell>
+<Cell ><Data ss:Type="Number">2503868</Data></Cell>
+<Cell ><Data ss:Type="Number">7234699</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13202</Data></Cell>
+<Cell ><Data ss:Type="String">PIRQUE</Data></Cell>
+<Cell ><Data ss:Type="Number">252313</Data></Cell>
+<Cell ><Data ss:Type="Number">481151</Data></Cell>
+<Cell ><Data ss:Type="Number">220774</Data></Cell>
+<Cell ><Data ss:Type="Number">14826</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13203</Data></Cell>
+<Cell ><Data ss:Type="String">SAN JOSÉ DE MAIPO</Data></Cell>
+<Cell ><Data ss:Type="Number">21369</Data></Cell>
+<Cell ><Data ss:Type="Number">200160</Data></Cell>
+<Cell ><Data ss:Type="Number">331777</Data></Cell>
+<Cell ><Data ss:Type="Number">341713</Data></Cell>
+<Cell ><Data ss:Type="Number">1660384</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13301</Data></Cell>
+<Cell ><Data ss:Type="String">COLINA</Data></Cell>
+<Cell ><Data ss:Type="Number">1407732</Data></Cell>
+<Cell ><Data ss:Type="Number">1609246</Data></Cell>
+<Cell ><Data ss:Type="Number">814056</Data></Cell>
+<Cell ><Data ss:Type="Number">866756</Data></Cell>
+<Cell ><Data ss:Type="Number">3175418</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13302</Data></Cell>
+<Cell ><Data ss:Type="String">LAMPA</Data></Cell>
+<Cell ><Data ss:Type="Number">1629858</Data></Cell>
+<Cell ><Data ss:Type="Number">849652</Data></Cell>
+<Cell ><Data ss:Type="Number">1028346</Data></Cell>
+<Cell ><Data ss:Type="Number">636581</Data></Cell>
+<Cell ><Data ss:Type="Number">2414994</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13303</Data></Cell>
+<Cell ><Data ss:Type="String">TILTIL</Data></Cell>
+<Cell ><Data ss:Type="Number">1271673</Data></Cell>
+<Cell ><Data ss:Type="Number">622329</Data></Cell>
+<Cell ><Data ss:Type="Number">496176</Data></Cell>
+<Cell ><Data ss:Type="Number">556574</Data></Cell>
+<Cell ><Data ss:Type="Number">767165</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13401</Data></Cell>
+<Cell ><Data ss:Type="String">SAN BERNARDO</Data></Cell>
+<Cell ><Data ss:Type="Number">4520512</Data></Cell>
+<Cell ><Data ss:Type="Number">5533055</Data></Cell>
+<Cell ><Data ss:Type="Number">5816472</Data></Cell>
+<Cell ><Data ss:Type="Number">5394822</Data></Cell>
+<Cell ><Data ss:Type="Number">7848737</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13402</Data></Cell>
+<Cell ><Data ss:Type="String">BUIN</Data></Cell>
+<Cell ><Data ss:Type="Number">1659833</Data></Cell>
+<Cell ><Data ss:Type="Number">637739</Data></Cell>
+<Cell ><Data ss:Type="Number">351688</Data></Cell>
+<Cell ><Data ss:Type="Number">158785</Data></Cell>
+<Cell ><Data ss:Type="Number">1162319</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13403</Data></Cell>
+<Cell ><Data ss:Type="String">CALERA DE TANGO</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">359625</Data></Cell>
+<Cell ><Data ss:Type="Number">417983</Data></Cell>
+<Cell ><Data ss:Type="Number">1543106</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13404</Data></Cell>
+<Cell ><Data ss:Type="String">PAINE</Data></Cell>
+<Cell ><Data ss:Type="Number">53368</Data></Cell>
+<Cell ><Data ss:Type="Number">39085</Data></Cell>
+<Cell ><Data ss:Type="Number">61187</Data></Cell>
+<Cell ><Data ss:Type="Number">714512</Data></Cell>
+<Cell ><Data ss:Type="Number">1041285</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13501</Data></Cell>
+<Cell ><Data ss:Type="String">MELIPILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">1180160</Data></Cell>
+<Cell ><Data ss:Type="Number">1549067</Data></Cell>
+<Cell ><Data ss:Type="Number">1020834</Data></Cell>
+<Cell ><Data ss:Type="Number">1091004</Data></Cell>
+<Cell ><Data ss:Type="Number">1533705</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13502</Data></Cell>
+<Cell ><Data ss:Type="String">ALHUÉ</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">492926</Data></Cell>
+<Cell ><Data ss:Type="Number">244030</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13503</Data></Cell>
+<Cell ><Data ss:Type="String">CURACAVÍ</Data></Cell>
+<Cell ><Data ss:Type="Number">2488813</Data></Cell>
+<Cell ><Data ss:Type="Number">1809245</Data></Cell>
+<Cell ><Data ss:Type="Number">1328255</Data></Cell>
+<Cell ><Data ss:Type="Number">1502756</Data></Cell>
+<Cell ><Data ss:Type="Number">940488</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13504</Data></Cell>
+<Cell ><Data ss:Type="String">MARÍA PINTO</Data></Cell>
+<Cell ><Data ss:Type="Number">789043</Data></Cell>
+<Cell ><Data ss:Type="Number">700793</Data></Cell>
+<Cell ><Data ss:Type="Number">726873</Data></Cell>
+<Cell ><Data ss:Type="Number">634495</Data></Cell>
+<Cell ><Data ss:Type="Number">496786</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13505</Data></Cell>
+<Cell ><Data ss:Type="String">SAN PEDRO</Data></Cell>
+<Cell ><Data ss:Type="Number">1255714</Data></Cell>
+<Cell ><Data ss:Type="Number">1262829</Data></Cell>
+<Cell ><Data ss:Type="Number">1145971</Data></Cell>
+<Cell ><Data ss:Type="Number">912152</Data></Cell>
+<Cell ><Data ss:Type="Number">299049</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13601</Data></Cell>
+<Cell ><Data ss:Type="String">TALAGANTE</Data></Cell>
+<Cell ><Data ss:Type="Number">113567</Data></Cell>
+<Cell ><Data ss:Type="Number">196633</Data></Cell>
+<Cell ><Data ss:Type="Number">307048</Data></Cell>
+<Cell ><Data ss:Type="Number">475725</Data></Cell>
+<Cell ><Data ss:Type="Number">870634</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13602</Data></Cell>
+<Cell ><Data ss:Type="String">EL MONTE</Data></Cell>
+<Cell ><Data ss:Type="Number">26797</Data></Cell>
+<Cell ><Data ss:Type="Number">266756</Data></Cell>
+<Cell ><Data ss:Type="Number">441815</Data></Cell>
+<Cell ><Data ss:Type="Number">230169</Data></Cell>
+<Cell ><Data ss:Type="Number">81814</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13603</Data></Cell>
+<Cell ><Data ss:Type="String">ISLA DE MAIPO</Data></Cell>
+<Cell ><Data ss:Type="Number">316167</Data></Cell>
+<Cell ><Data ss:Type="Number">69537</Data></Cell>
+<Cell ><Data ss:Type="Number">142055</Data></Cell>
+<Cell ><Data ss:Type="Number">418097</Data></Cell>
+<Cell ><Data ss:Type="Number">129327</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13604</Data></Cell>
+<Cell ><Data ss:Type="String">PADRE HURTADO</Data></Cell>
+<Cell ><Data ss:Type="Number">859911</Data></Cell>
+<Cell ><Data ss:Type="Number">534556</Data></Cell>
+<Cell ><Data ss:Type="Number">394314</Data></Cell>
+<Cell ><Data ss:Type="Number">587136</Data></Cell>
+<Cell ><Data ss:Type="Number">541474</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">13605</Data></Cell>
+<Cell ><Data ss:Type="String">PEÑAFLOR</Data></Cell>
+<Cell ><Data ss:Type="Number">309176</Data></Cell>
+<Cell ><Data ss:Type="Number">1669939</Data></Cell>
+<Cell ><Data ss:Type="Number">1489220</Data></Cell>
+<Cell ><Data ss:Type="Number">577262</Data></Cell>
+<Cell ><Data ss:Type="Number">607476</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14101</Data></Cell>
+<Cell ><Data ss:Type="String">VALDIVIA</Data></Cell>
+<Cell ><Data ss:Type="Number">10632382</Data></Cell>
+<Cell ><Data ss:Type="Number">7164459</Data></Cell>
+<Cell ><Data ss:Type="Number">1228078</Data></Cell>
+<Cell ><Data ss:Type="Number">270779</Data></Cell>
+<Cell ><Data ss:Type="Number">731167</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14102</Data></Cell>
+<Cell ><Data ss:Type="String">CORRAL</Data></Cell>
+<Cell ><Data ss:Type="Number">333346</Data></Cell>
+<Cell ><Data ss:Type="Number">118844</Data></Cell>
+<Cell ><Data ss:Type="Number">300830</Data></Cell>
+<Cell ><Data ss:Type="Number">84453</Data></Cell>
+<Cell ><Data ss:Type="Number">300946</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14103</Data></Cell>
+<Cell ><Data ss:Type="String">LANCO</Data></Cell>
+<Cell ><Data ss:Type="Number">778995</Data></Cell>
+<Cell ><Data ss:Type="Number">483567</Data></Cell>
+<Cell ><Data ss:Type="Number">440402</Data></Cell>
+<Cell ><Data ss:Type="Number">440995</Data></Cell>
+<Cell ><Data ss:Type="Number">320722</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14104</Data></Cell>
+<Cell ><Data ss:Type="String">LOS LAGOS</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">2653</Data></Cell>
+<Cell ><Data ss:Type="Number">6528</Data></Cell>
+<Cell ><Data ss:Type="Number">6672</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14105</Data></Cell>
+<Cell ><Data ss:Type="String">MÁFIL</Data></Cell>
+<Cell ><Data ss:Type="Number">347786</Data></Cell>
+<Cell ><Data ss:Type="Number">286467</Data></Cell>
+<Cell ><Data ss:Type="Number">199274</Data></Cell>
+<Cell ><Data ss:Type="Number">295073</Data></Cell>
+<Cell ><Data ss:Type="Number">269187</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14106</Data></Cell>
+<Cell ><Data ss:Type="String">MARIQUINA</Data></Cell>
+<Cell ><Data ss:Type="Number">1757986</Data></Cell>
+<Cell ><Data ss:Type="Number">1745623</Data></Cell>
+<Cell ><Data ss:Type="Number">1515625</Data></Cell>
+<Cell ><Data ss:Type="Number">3739057</Data></Cell>
+<Cell ><Data ss:Type="Number">1169749</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14107</Data></Cell>
+<Cell ><Data ss:Type="String">PAILLACO</Data></Cell>
+<Cell ><Data ss:Type="Number">573457</Data></Cell>
+<Cell ><Data ss:Type="Number">11661</Data></Cell>
+<Cell ><Data ss:Type="Number">540418</Data></Cell>
+<Cell ><Data ss:Type="Number">708533</Data></Cell>
+<Cell ><Data ss:Type="Number">638448</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14108</Data></Cell>
+<Cell ><Data ss:Type="String">PANGUIPULLI</Data></Cell>
+<Cell ><Data ss:Type="Number">2799234</Data></Cell>
+<Cell ><Data ss:Type="Number">2362858</Data></Cell>
+<Cell ><Data ss:Type="Number">576536</Data></Cell>
+<Cell ><Data ss:Type="Number">695384</Data></Cell>
+<Cell ><Data ss:Type="Number">382874</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14201</Data></Cell>
+<Cell ><Data ss:Type="String">LA UNIÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">892673</Data></Cell>
+<Cell ><Data ss:Type="Number">1094530</Data></Cell>
+<Cell ><Data ss:Type="Number">931825</Data></Cell>
+<Cell ><Data ss:Type="Number">1860458</Data></Cell>
+<Cell ><Data ss:Type="Number">1970774</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14202</Data></Cell>
+<Cell ><Data ss:Type="String">FUTRONO</Data></Cell>
+<Cell ><Data ss:Type="Number">185486</Data></Cell>
+<Cell ><Data ss:Type="Number">51500</Data></Cell>
+<Cell ><Data ss:Type="Number">37135</Data></Cell>
+<Cell ><Data ss:Type="Number">27200</Data></Cell>
+<Cell ><Data ss:Type="Number">27800</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14203</Data></Cell>
+<Cell ><Data ss:Type="String">LAGO RANCO</Data></Cell>
+<Cell ><Data ss:Type="Number">785335</Data></Cell>
+<Cell ><Data ss:Type="Number">666000</Data></Cell>
+<Cell ><Data ss:Type="Number">532630</Data></Cell>
+<Cell ><Data ss:Type="Number">157172</Data></Cell>
+<Cell ><Data ss:Type="Number">231000</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">14204</Data></Cell>
+<Cell ><Data ss:Type="String">RÍO BUENO</Data></Cell>
+<Cell ><Data ss:Type="Number">45142</Data></Cell>
+<Cell ><Data ss:Type="Number">196640</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">134280</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">15101</Data></Cell>
+<Cell ><Data ss:Type="String">ARICA</Data></Cell>
+<Cell ><Data ss:Type="Number">11936104</Data></Cell>
+<Cell ><Data ss:Type="Number">15831667</Data></Cell>
+<Cell ><Data ss:Type="Number">13871746</Data></Cell>
+<Cell ><Data ss:Type="Number">11598487</Data></Cell>
+<Cell ><Data ss:Type="Number">11404437</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">15102</Data></Cell>
+<Cell ><Data ss:Type="String">CAMARONES</Data></Cell>
+<Cell ><Data ss:Type="Number">1608659</Data></Cell>
+<Cell ><Data ss:Type="Number">953354</Data></Cell>
+<Cell ><Data ss:Type="Number">885005</Data></Cell>
+<Cell ><Data ss:Type="Number">994955</Data></Cell>
+<Cell ><Data ss:Type="Number">572470</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">15201</Data></Cell>
+<Cell ><Data ss:Type="String">PUTRE</Data></Cell>
+<Cell ><Data ss:Type="Number">3435081</Data></Cell>
+<Cell ><Data ss:Type="Number">616892</Data></Cell>
+<Cell ><Data ss:Type="Number">417445</Data></Cell>
+<Cell ><Data ss:Type="Number">56543</Data></Cell>
+<Cell ><Data ss:Type="Number">608402</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">15202</Data></Cell>
+<Cell ><Data ss:Type="String">GENERAL LAGOS</Data></Cell>
+<Cell ><Data ss:Type="Number">1660530</Data></Cell>
+<Cell ><Data ss:Type="Number">1052198</Data></Cell>
+<Cell ><Data ss:Type="Number">1072876</Data></Cell>
+<Cell ><Data ss:Type="Number">681684</Data></Cell>
+<Cell ><Data ss:Type="Number">441667</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16101</Data></Cell>
+<Cell ><Data ss:Type="String">CHILLÁN</Data></Cell>
+<Cell ><Data ss:Type="Number">11885638</Data></Cell>
+<Cell ><Data ss:Type="Number">10654995</Data></Cell>
+<Cell ><Data ss:Type="Number">8886879</Data></Cell>
+<Cell ><Data ss:Type="Number">7818661</Data></Cell>
+<Cell ><Data ss:Type="Number">7204625</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16102</Data></Cell>
+<Cell ><Data ss:Type="String">BULNES</Data></Cell>
+<Cell ><Data ss:Type="Number">755215</Data></Cell>
+<Cell ><Data ss:Type="Number">415777</Data></Cell>
+<Cell ><Data ss:Type="Number">181505</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16103</Data></Cell>
+<Cell ><Data ss:Type="String">CHILLÁN VIEJO</Data></Cell>
+<Cell ><Data ss:Type="Number">782372</Data></Cell>
+<Cell ><Data ss:Type="Number">556760</Data></Cell>
+<Cell ><Data ss:Type="Number">381270</Data></Cell>
+<Cell ><Data ss:Type="Number">316437</Data></Cell>
+<Cell ><Data ss:Type="Number">670853</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16104</Data></Cell>
+<Cell ><Data ss:Type="String">EL CARMEN</Data></Cell>
+<Cell ><Data ss:Type="Number">769110</Data></Cell>
+<Cell ><Data ss:Type="Number">261386</Data></Cell>
+<Cell ><Data ss:Type="Number">125801</Data></Cell>
+<Cell ><Data ss:Type="Number">249683</Data></Cell>
+<Cell ><Data ss:Type="Number">130261</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16105</Data></Cell>
+<Cell ><Data ss:Type="String">PEMUCO</Data></Cell>
+<Cell ><Data ss:Type="Number">37113</Data></Cell>
+<Cell ><Data ss:Type="Number">73310</Data></Cell>
+<Cell ><Data ss:Type="Number">267409</Data></Cell>
+<Cell ><Data ss:Type="Number">311185</Data></Cell>
+<Cell ><Data ss:Type="Number">418665</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16106</Data></Cell>
+<Cell ><Data ss:Type="String">PINTO</Data></Cell>
+<Cell ><Data ss:Type="Number">1111630</Data></Cell>
+<Cell ><Data ss:Type="Number">1122196</Data></Cell>
+<Cell ><Data ss:Type="Number">1200934</Data></Cell>
+<Cell ><Data ss:Type="Number">885987</Data></Cell>
+<Cell ><Data ss:Type="Number">796401</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16107</Data></Cell>
+<Cell ><Data ss:Type="String">QUILLÓN</Data></Cell>
+<Cell ><Data ss:Type="Number">3421414</Data></Cell>
+<Cell ><Data ss:Type="Number">2980148</Data></Cell>
+<Cell ><Data ss:Type="Number">1378898</Data></Cell>
+<Cell ><Data ss:Type="Number">797805</Data></Cell>
+<Cell ><Data ss:Type="Number">920601</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16108</Data></Cell>
+<Cell ><Data ss:Type="String">SAN IGNACIO</Data></Cell>
+<Cell ><Data ss:Type="Number">58422</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16109</Data></Cell>
+<Cell ><Data ss:Type="String">YUNGAY</Data></Cell>
+<Cell ><Data ss:Type="Number">1109736</Data></Cell>
+<Cell ><Data ss:Type="Number">891213</Data></Cell>
+<Cell ><Data ss:Type="Number">204385</Data></Cell>
+<Cell ><Data ss:Type="Number">105544</Data></Cell>
+<Cell ><Data ss:Type="Number">225286</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16201</Data></Cell>
+<Cell ><Data ss:Type="String">QUIRIHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">898123</Data></Cell>
+<Cell ><Data ss:Type="Number">961279</Data></Cell>
+<Cell ><Data ss:Type="Number">781933</Data></Cell>
+<Cell ><Data ss:Type="Number">610937</Data></Cell>
+<Cell ><Data ss:Type="Number">351122</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16202</Data></Cell>
+<Cell ><Data ss:Type="String">COBQUECURA</Data></Cell>
+<Cell ><Data ss:Type="Number">520635</Data></Cell>
+<Cell ><Data ss:Type="Number">66762</Data></Cell>
+<Cell ><Data ss:Type="Number">37927</Data></Cell>
+<Cell ><Data ss:Type="Number">4534</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16203</Data></Cell>
+<Cell ><Data ss:Type="String">COELEMU</Data></Cell>
+<Cell ><Data ss:Type="Number">1802719</Data></Cell>
+<Cell ><Data ss:Type="Number">1797894</Data></Cell>
+<Cell ><Data ss:Type="Number">1910231</Data></Cell>
+<Cell ><Data ss:Type="Number">1167440</Data></Cell>
+<Cell ><Data ss:Type="Number">1459220</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16204</Data></Cell>
+<Cell ><Data ss:Type="String">NINHUE</Data></Cell>
+<Cell ><Data ss:Type="Number">679162</Data></Cell>
+<Cell ><Data ss:Type="Number">198114</Data></Cell>
+<Cell ><Data ss:Type="Number">151919</Data></Cell>
+<Cell ><Data ss:Type="Number">191839</Data></Cell>
+<Cell ><Data ss:Type="Number">226008</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16205</Data></Cell>
+<Cell ><Data ss:Type="String">PORTEZUELO</Data></Cell>
+<Cell ><Data ss:Type="Number">795453</Data></Cell>
+<Cell ><Data ss:Type="Number">264053</Data></Cell>
+<Cell ><Data ss:Type="Number">260953</Data></Cell>
+<Cell ><Data ss:Type="Number">184570</Data></Cell>
+<Cell ><Data ss:Type="Number">67820</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16206</Data></Cell>
+<Cell ><Data ss:Type="String">RÁNQUIL</Data></Cell>
+<Cell ><Data ss:Type="Number">1075168</Data></Cell>
+<Cell ><Data ss:Type="Number">813733</Data></Cell>
+<Cell ><Data ss:Type="Number">580381</Data></Cell>
+<Cell ><Data ss:Type="Number">594007</Data></Cell>
+<Cell ><Data ss:Type="Number">353783</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16207</Data></Cell>
+<Cell ><Data ss:Type="String">TREHUACO</Data></Cell>
+<Cell ><Data ss:Type="Number">314477</Data></Cell>
+<Cell ><Data ss:Type="Number">182359</Data></Cell>
+<Cell ><Data ss:Type="Number">166206</Data></Cell>
+<Cell ><Data ss:Type="Number">141239</Data></Cell>
+<Cell ><Data ss:Type="Number">211667</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16301</Data></Cell>
+<Cell ><Data ss:Type="String">SAN CARLOS</Data></Cell>
+<Cell ><Data ss:Type="Number">4256283</Data></Cell>
+<Cell ><Data ss:Type="Number">2799339</Data></Cell>
+<Cell ><Data ss:Type="Number">1908726</Data></Cell>
+<Cell ><Data ss:Type="Number">888744</Data></Cell>
+<Cell ><Data ss:Type="Number">1402156</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16302</Data></Cell>
+<Cell ><Data ss:Type="String">COIHUECO</Data></Cell>
+<Cell ><Data ss:Type="Number">2159881</Data></Cell>
+<Cell ><Data ss:Type="Number">1948029</Data></Cell>
+<Cell ><Data ss:Type="Number">545479</Data></Cell>
+<Cell ><Data ss:Type="Number">460090</Data></Cell>
+<Cell ><Data ss:Type="Number">567982</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16303</Data></Cell>
+<Cell ><Data ss:Type="String">ÑIQUÉN</Data></Cell>
+<Cell ><Data ss:Type="Number">150000</Data></Cell>
+<Cell ><Data ss:Type="Number">257500</Data></Cell>
+<Cell ><Data ss:Type="Number">297080</Data></Cell>
+<Cell ><Data ss:Type="Number">239360</Data></Cell>
+<Cell ><Data ss:Type="Number">374863</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16304</Data></Cell>
+<Cell ><Data ss:Type="String">SAN FABIÁN</Data></Cell>
+<Cell ><Data ss:Type="Number">346122</Data></Cell>
+<Cell ><Data ss:Type="Number">487312</Data></Cell>
+<Cell ><Data ss:Type="Number">479269</Data></Cell>
+<Cell ><Data ss:Type="Number">475645</Data></Cell>
+<Cell ><Data ss:Type="Number">772511</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">16305</Data></Cell>
+<Cell ><Data ss:Type="String">SAN NICOLÁS</Data></Cell>
+<Cell ><Data ss:Type="Number">693000</Data></Cell>
+<Cell ><Data ss:Type="Number">830114</Data></Cell>
+<Cell ><Data ss:Type="Number">778664</Data></Cell>
+<Cell ><Data ss:Type="Number">566643</Data></Cell>
+<Cell ><Data ss:Type="Number">495712</Data></Cell>
+</Row>
+</Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.98" x:Left="0.79" x:Right="0.79" x:Top="0.98"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
