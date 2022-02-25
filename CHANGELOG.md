@@ -18,6 +18,14 @@ All notable changes to "Data Set on Local E-Government Index in Chile" will be d
 
 ## [Released]
 
+## [0.8.2] - 2022-02-25
+### Added
+- SINIM data scraper code.
+- SINIM raw data sets.
+- SEGPRES digitalisation data set.
+### Changed
+- Minor corrections.
+
 ## [0.7.2] - 2022-02-23
 ### Added
 - Code of conduct in MD format.
