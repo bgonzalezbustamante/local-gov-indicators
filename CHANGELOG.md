@@ -18,6 +18,10 @@ All notable changes to "Data Set on Local E-Government Index in Chile" will be d
 
 ## [Released]
 
+## [0.10.2] - 2022-03-04
+### Added
+- SAE estimations.
+
 ## [0.9.2] - 2022-03-02
 ### Added
 - CPLT data sets.
