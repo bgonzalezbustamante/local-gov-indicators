@@ -63,7 +63,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.9.2 -- Aged Fire) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.10.2 -- Jolly Pine) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
 
 ## Authors
 
