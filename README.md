@@ -1,7 +1,7 @@
 # local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.10.2-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.12.2-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/e-gov-index.svg)](https://github.com/bgonzalezbustamante/e-gov-index/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -9,7 +9,7 @@ WIP
 
 ## Metadata and Preservation
 
-This data is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
+This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
 
 WIP
 
@@ -51,7 +51,7 @@ WIP
 
 ## License
 
-This data is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
+This data set is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
 
 ## Contribute
 
@@ -63,14 +63,14 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local E-Government Index in Chile (Version 0.10.2 -- Jolly Pine) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local Government Indicators in Chile (Version 0.12.2 -- Broken Star) [Data set]. URL: [https://github.com/bgonzalezbustamante/e-gov-index/](https://github.com/bgonzalezbustamante/e-gov-index/)
 
 ## Authors
 
 Bastián González-Bustamante \
 bastian.gonzalezbustamante@politics.ox.ac.uk \
 [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820) \
-https://bgonzalezbustamante.com 
+https://bgonzalezbustamante.com
 
 Diego Aguilar \
 diego.aguilar@training-datalab.com \
@@ -92,4 +92,4 @@ Elinor Luco: Investigation.
 
 ### Latest Revision
 
-[March 4, 2022](CHANGELOG.md).
+[March 10, 2022](CHANGELOG.md).
