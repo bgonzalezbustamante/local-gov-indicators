@@ -1,7 +1,7 @@
 # local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.12.2-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.12.3-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
 
 ## Overview
 
@@ -15,21 +15,21 @@ WIP
 
 X directories and XX files.
 
-In addition, this README file in Markdown (MD) format provides specific information to ensure the reusability of the data.
+In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
 
 ## Storage
 
-The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Diego Aguilar, [ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication FIDO2 and U2F.
+The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Diego Aguilar, [ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
 
 ## Getting Started
 
 ### Software
 
-We use R version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
+We use `R` version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
 
-Required R libraries are: WIP.
+Required `R` libraries are: WIP.
 
-We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the R project "**e-gov-index.Rproj**".
+We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the `R` project `e-gov-index.Rproj`.
 
 ### Import Data
 
@@ -63,7 +63,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local Government Indicators in Chile (Version 0.12.2 -- Broken Star) [Data set]. URL: [https://github.com/bgonzalezbustamante/local-gov-indicators/](https://github.com/bgonzalezbustamante/e-gov-index/)
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local Government Indicators in Chile (Version 0.13.2 -- TBC) [Data set]. URL: [https://github.com/bgonzalezbustamante/local-gov-indicators/](https://github.com/bgonzalezbustamante/e-gov-index/)
 
 ## Authors
 
@@ -82,14 +82,14 @@ Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/
 
 Diego Aguilar ([ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)): Conceptualisation, data curation, investigation, resources, and validation.
 
-Berenice Orvenes: Investigation and resources.
+Berenice Orvenes (ORCID iD TBR): Investigation and resources.
 
-Ariane Carvajal: Investigation and resources.
+Ariane Carvajal (ORCID iD TBR): Investigation and resources.
 
-Andrea González: Investigation and resources.
+Andrea González (ORCID iD TBR): Investigation and resources.
 
-Elinor Luco: Investigation.
+Elinor Luco (ORCID iD TBR): Investigation.
 
 ### Latest Revision
 
-[March 10, 2022](CHANGELOG.md).
+[TBC](CHANGELOG.md).
