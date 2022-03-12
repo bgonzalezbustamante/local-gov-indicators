@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to "Data Set on Local E-Government Index in Chile" will be documented in this file.
+All notable changes to "Data Set on Local Government Indicators in Chile" will be documented in this file.
 
 ## [Unreleased]
 
@@ -16,7 +16,16 @@ All notable changes to "Data Set on Local E-Government Index in Chile" will be d
 - Raw EGi 2019 measurement.
 - Raw EGi 2016 measurement.
 
+## [0.13.3] - TBC
+### Added
+- Codebook in XeLaTeX.
+
 ## [Released]
+
+## [0.12.3] - 2022-03-12
+### Changed
+- Modify .gitignore file on GitHub repository.
+- Minor corrections.
 
 ## [0.12.2] - 2022-03-10
 ### Added
