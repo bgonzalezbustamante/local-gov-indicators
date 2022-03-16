@@ -51,3 +51,5 @@ vignettes/*.pdf
 *.cb
 *.cb2
 .*.lb
+data/raw/shapefiles/COMUNAS_2020.shp
+data/raw/shapefiles/DivisionPoliticoAdministrativa2020.zip
