@@ -24,7 +24,11 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [0.13.3] - 2022-03-15
 ### Added
-- CUT data backup from IDE-Chile (WIP).
+- CUT data backup from IDE-Chile.
+- Communes shapefiles.
+### Changed
+- Modify .gitignore file on GitHub repository.
+- Minor corrections.
 
 ## [0.12.3] - 2022-03-12
 ### Changed
