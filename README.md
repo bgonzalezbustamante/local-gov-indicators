@@ -13,14 +13,14 @@ WIP
 
 ```mermaid
   graph TD;
-      A[/Shapefiles IDE-Chile/] --> B[(Baseline Data Set)];
-      B --> C[(Case-Level Data Sets)];
+      A[/Shapefiles<br/>IDE-Chile/] --> B[(Baseline<br/>Data Set)];
+      B --> C[(Case-Level<br/>Data Sets)];
       D[EGI] --> C;
       E[/OS-MDS/] --> C;
       F[/SINIM/] --> C;
       G[/INE/] --> C;
       H[/SUBTEL/] --> C;
-      C --> I[(Case-Level Time-Series Data Set)];
+      C --> I[(Case-Level<br/>Time-Series<br/>Data Set)];
 ```
 ### Coverage
 
