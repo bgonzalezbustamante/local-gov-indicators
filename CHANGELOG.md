@@ -16,11 +16,15 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Raw EGi 2019 measurement.
 - Raw EGi 2016 measurement.
 
-## [0.13.3] - TBC
+## [0.14.3] - TBC
 ### Added
 - Codebook in XeLaTeX.
 
 ## [Released]
+
+## [0.13.3] - 2022-03-15
+### Added
+- CUT data backup from IDE-Chile (WIP).
 
 ## [0.12.3] - 2022-03-12
 ### Changed
@@ -29,7 +33,7 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [0.12.2] - 2022-03-10
 ### Added
-- Finishing CUT revision.
+- Finishing CUT data revision.
 ### Changed
 - Repository name.
 - Revision of upgrade versioning.
@@ -39,7 +43,7 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - SAE estimations.
 
 ## [0.10.2] - 2022-03-03
-- Starting CUT revision.
+- Starting CUT data revision.
 
 ## [0.9.2] - 2022-03-02
 ### Added
