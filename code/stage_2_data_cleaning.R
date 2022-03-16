@@ -20,3 +20,5 @@ names(cut_shapefiles)[7] = "area"
 ## Baseline per Year
 chl_local_gov_2016 <- cut_shapefiles
 chl_local_gov_2016 <- cbind(year = 2016, chl_local_gov_2016)
+write.csv(chl_local_gov_2016, "data/tidy/cases/chl_local_gov_2016.csv", fileEncoding = "UTF-8", row.names =  FALSE)
+
