@@ -25,8 +25,8 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 ## [0.14.3] - 2022-03-16
 ### Added
 - Data cleaning code.
-- Data pipeline Mermaid diagram on README.
-- Data coverage information on README.
+- Data pipeline Mermaid diagram in README.
+- Data coverage information in README.
 
 ## [0.13.3] - 2022-03-15
 ### Added
