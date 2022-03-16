@@ -1,0 +1,346 @@
+"CUT_REG","REGION","CUT_PROV","PROVINCIA","CUT_COM","COMUNA","SUPERFICIE"
+1,"Tarapacá","011","Iquique","01101","Iquique",2289.53
+1,"Tarapacá","011","Iquique","01107","Alto Hospicio",571.19
+1,"Tarapacá","014","Tamarugal","01401","Pozo Almonte",13765.8
+1,"Tarapacá","014","Tamarugal","01402","Camiña",2199.83
+1,"Tarapacá","014","Tamarugal","01403","Colchane",4007.84
+1,"Tarapacá","014","Tamarugal","01404","Huara",10472.5
+1,"Tarapacá","014","Tamarugal","01405","Pica",8982.12
+2,"Antofagasta","021","Antofagasta","02101","Antofagasta",30683.5
+2,"Antofagasta","021","Antofagasta","02102","Mejillones",3576.07
+2,"Antofagasta","021","Antofagasta","02103","Sierra Gorda",12883
+2,"Antofagasta","021","Antofagasta","02104","Taltal",20412.1
+2,"Antofagasta","022","El Loa","02201","Calama",15533.2
+2,"Antofagasta","022","El Loa","02202","Ollagüe",2925.54
+2,"Antofagasta","022","El Loa","02203","San Pedro de Atacama",23602.2
+2,"Antofagasta","023","Tocopilla","02301","Tocopilla",4120.83
+2,"Antofagasta","023","Tocopilla","02302","María Elena",12330.1
+3,"Atacama","031","Copiapó","03101","Copiapó",17782.9
+3,"Atacama","031","Copiapó","03102","Caldera",3680.47
+3,"Atacama","031","Copiapó","03103","Tierra Amarilla",11251.1
+3,"Atacama","032","Chañaral","03201","Chañaral",5758.87
+3,"Atacama","032","Chañaral","03202","Diego de Almagro",18969.2
+3,"Atacama","033","Huasco","03301","Vallenar",7226.86
+3,"Atacama","033","Huasco","03302","Alto del Carmen",6155.88
+3,"Atacama","033","Huasco","03303","Freirina",3222.55
+3,"Atacama","033","Huasco","03304","Huasco",1602.25
+4,"Coquimbo","041","Elqui","04101","La Serena",1901.22
+4,"Coquimbo","041","Elqui","04102","Coquimbo",1431.77
+4,"Coquimbo","041","Elqui","04103","Andacollo",514.2
+4,"Coquimbo","041","Elqui","04104","La Higuera",4165.74
+4,"Coquimbo","041","Elqui","04105","Paiguano",1513.94
+4,"Coquimbo","041","Elqui","04106","Vicuña",7579.04
+4,"Coquimbo","042","Choapa","04201","Illapel",2629.06
+4,"Coquimbo","042","Choapa","04202","Canela",2196.81
+4,"Coquimbo","042","Choapa","04203","Los Vilos",1859.5
+4,"Coquimbo","042","Choapa","04204","Salamanca",3445.76
+4,"Coquimbo","043","Limarí","04301","Ovalle",3546.21
+4,"Coquimbo","043","Limarí","04302","Combarbalá",2296.04
+4,"Coquimbo","043","Limarí","04303","Monte Patria",4211.35
+4,"Coquimbo","043","Limarí","04304","Punitaqui",1092.42
+4,"Coquimbo","043","Limarí","04305","Río Hurtado",2204.5
+5,"Valparaíso","051","Valparaíso","05101","Valparaíso",310.87
+5,"Valparaíso","051","Valparaíso","05102","Casablanca",954.63
+5,"Valparaíso","051","Valparaíso","05104","Juan Fernández",110.55
+5,"Valparaíso","051","Valparaíso","05105","Puchuncaví",299.68
+5,"Valparaíso","051","Valparaíso","05107","Quintero",146.06
+5,"Valparaíso","052","Isla de Pascua","05201","Isla de Pascua",163.83
+5,"Valparaíso","053","Los Andes","05301","Los Andes",1233.75
+5,"Valparaíso","053","Los Andes","05302","Calle Larga",321.23
+5,"Valparaíso","053","Los Andes","05303","Rinconada",122.82
+5,"Valparaíso","053","Los Andes","05304","San Esteban",1374.51
+5,"Valparaíso","054","Petorca","05401","La Ligua",1163.02
+5,"Valparaíso","054","Petorca","05402","Cabildo",1455.15
+5,"Valparaíso","054","Petorca","05403","Papudo",167.12
+5,"Valparaíso","054","Petorca","05404","Petorca",1515.74
+5,"Valparaíso","054","Petorca","05405","Zapallar",288.27
+5,"Valparaíso","055","Quillota","05502","Calera",59.97
+5,"Valparaíso","055","Quillota","05503","Hijuelas",268.15
+5,"Valparaíso","055","Quillota","05504","La Cruz",77.86
+5,"Valparaíso","055","Quillota","05506","Nogales",405.49
+5,"Valparaíso","056","San Antonio","05601","San Antonio",400.04
+5,"Valparaíso","056","San Antonio","05602","Algarrobo",176.3
+5,"Valparaíso","056","San Antonio","05603","Cartagena",243.86
+5,"Valparaíso","056","San Antonio","05604","El Quisco",51.64
+5,"Valparaíso","056","San Antonio","05605","El Tabo",99.58
+5,"Valparaíso","056","San Antonio","05606","Santo Domingo",536.92
+5,"Valparaíso","057","San Felipe de Aconcagua","05701","San Felipe",186.82
+5,"Valparaíso","057","San Felipe de Aconcagua","05702","Catemu",361.85
+5,"Valparaíso","057","San Felipe de Aconcagua","05703","Llaillay",348.83
+5,"Valparaíso","057","San Felipe de Aconcagua","05704","Panquehue",121.26
+5,"Valparaíso","057","San Felipe de Aconcagua","05705","Putaendo",1451.23
+5,"Valparaíso","057","San Felipe de Aconcagua","05706","Santa María",165.71
+5,"Valparaíso","058","Marga Marga","05801","Quilpué",536.48
+5,"Valparaíso","058","Marga Marga","05803","Olmué",231.32
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06101","Rancagua",260.94
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06102","Codegua",284.17
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06103","Coinco",97.34
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06104","Coltauco",222.02
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06105","Doñihue",80.47
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06106","Graneros",112.45
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06107","Las Cabras",751.28
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06108","Machalí",2593.18
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06109","Malloa",220.65
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06110","Mostazal",525.72
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06111","Olivar",44.22
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06112","Peumo",155.15
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06113","Pichidegua",319.47
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06114","Quinta de Tilcoco",86.75
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06115","Rengo",585.04
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06116","Requínoa",677.18
+6,"Libertador General Bernardo O'Higgins","061","Cachapoal","06117","San Vicente",484.76
+6,"Libertador General Bernardo O'Higgins","062","Cardenal Caro","06201","Pichilemu",715.89
+6,"Libertador General Bernardo O'Higgins","062","Cardenal Caro","06202","La Estrella",431.44
+6,"Libertador General Bernardo O'Higgins","062","Cardenal Caro","06203","Litueche",613.64
+6,"Libertador General Bernardo O'Higgins","062","Cardenal Caro","06204","Marchihue",657.65
+6,"Libertador General Bernardo O'Higgins","062","Cardenal Caro","06205","Navidad",301.4
+6,"Libertador General Bernardo O'Higgins","062","Cardenal Caro","06206","Paredones",572.51
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06301","San Fernando",2321.18
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06302","Chépica",477.33
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06303","Chimbarongo",509.03
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06304","Lolol",596.92
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06305","Nancagua",151.21
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06306","Palmilla",235.79
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06307","Peralillo",283.03
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06308","Placilla",144.4
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06309","Pumanque",441.31
+6,"Libertador General Bernardo O'Higgins","063","Colchagua","06310","Santa Cruz",393.53
+7,"Maule","071","Talca","07101","Talca",232.05
+7,"Maule","071","Talca","07102","Constitución",1339.62
+7,"Maule","071","Talca","07103","Curepto",1070.81
+7,"Maule","071","Talca","07104","Empedrado",565.5
+7,"Maule","071","Talca","07105","Maule",243.05
+7,"Maule","071","Talca","07106","Pelarco",330.93
+7,"Maule","071","Talca","07107","Pencahue",956.23
+7,"Maule","071","Talca","07108","Río Claro",434.71
+7,"Maule","071","Talca","07109","San Clemente",4500.58
+7,"Maule","071","Talca","07110","San Rafael",261.97
+7,"Maule","072","Cauquenes","07201","Cauquenes",2126.16
+7,"Maule","072","Cauquenes","07202","Chanco",528.01
+7,"Maule","072","Cauquenes","07203","Pelluhue",369.56
+7,"Maule","073","Curicó","07301","Curicó",1334.33
+7,"Maule","073","Curicó","07302","Hualañé",629.36
+7,"Maule","073","Curicó","07303","Licantén",273.01
+7,"Maule","073","Curicó","07304","Molina",1516.82
+7,"Maule","073","Curicó","07305","Rauco",306.73
+7,"Maule","073","Curicó","07306","Romeral",1602.87
+7,"Maule","073","Curicó","07307","Sagrada Familia",554.88
+7,"Maule","073","Curicó","07308","Teno",618.52
+7,"Maule","073","Curicó","07309","Vichuquén",452
+7,"Maule","074","Linares","07401","Linares",1466.62
+7,"Maule","074","Linares","07402","Colbún",2926.88
+7,"Maule","074","Linares","07403","Longaví",1453.37
+7,"Maule","074","Linares","07404","Parral",1638.81
+7,"Maule","074","Linares","07405","Retiro",827.42
+7,"Maule","074","Linares","07406","San Javier",1312.57
+7,"Maule","074","Linares","07407","Villa Alegre",188.67
+7,"Maule","074","Linares","07408","Yerbas Buenas",259.03
+8,"Biobío","081","Concepción","08102","Coronel",281.27
+8,"Biobío","081","Concepción","08104","Florida",605.89
+8,"Biobío","081","Concepción","08106","Lota",114.69
+8,"Biobío","081","Concepción","08109","Santa Juana",777.43
+8,"Biobío","081","Concepción","08110","Talcahuano",92.55
+8,"Biobío","082","Arauco","08201","Lebu",564.34
+8,"Biobío","082","Arauco","08202","Arauco",959.62
+8,"Biobío","082","Arauco","08203","Cañete",1088.57
+8,"Biobío","082","Arauco","08204","Contulmo",638.95
+8,"Biobío","082","Arauco","08205","Curanilahue",1002.76
+8,"Biobío","082","Arauco","08206","Los Alamos",600.38
+8,"Biobío","082","Arauco","08207","Tirúa",626.54
+8,"Biobío","083","Biobío","08301","Los Angeles",1749.02
+8,"Biobío","083","Biobío","08302","Antuco",1957.43
+8,"Biobío","083","Biobío","08303","Cabrero",657.03
+8,"Biobío","083","Biobío","08304","Laja",345.18
+8,"Biobío","083","Biobío","08305","Mulchén",1922.24
+8,"Biobío","083","Biobío","08306","Nacimiento",904.52
+8,"Biobío","083","Biobío","08307","Negrete",155.33
+8,"Biobío","083","Biobío","08308","Quilaco",1124.64
+8,"Biobío","083","Biobío","08309","Quilleco",1118.68
+8,"Biobío","083","Biobío","08310","San Rosendo",94.45
+8,"Biobío","083","Biobío","08311","Santa Bárbara",1251.76
+8,"Biobío","083","Biobío","08312","Tucapel",914.28
+8,"Biobío","083","Biobío","08313","Yumbel",727.1
+8,"Biobío","083","Biobío","08314","Alto Biobío",2124.77
+9,"La Araucanía","091","Cautín","09101","Temuco",466.89
+9,"La Araucanía","091","Cautín","09102","Carahue",1336.81
+9,"La Araucanía","091","Cautín","09103","Cunco",1890.34
+9,"La Araucanía","091","Cautín","09104","Curarrehue",1167.15
+9,"La Araucanía","091","Cautín","09105","Freire",870.08
+9,"La Araucanía","091","Cautín","09106","Galvarino",567.86
+9,"La Araucanía","091","Cautín","09107","Gorbea",690.43
+9,"La Araucanía","091","Cautín","09108","Lautaro",906.29
+9,"La Araucanía","091","Cautín","09109","Loncoche",971.27
+9,"La Araucanía","091","Cautín","09110","Melipeuco",1107.69
+9,"La Araucanía","091","Cautín","09111","Nueva Imperial",730.73
+9,"La Araucanía","091","Cautín","09112","Padre Las Casas",463.83
+9,"La Araucanía","091","Cautín","09113","Perquenco",331.03
+9,"La Araucanía","091","Cautín","09114","Pitrufquén",583.25
+9,"La Araucanía","091","Cautín","09115","Pucón",1248.06
+9,"La Araucanía","091","Cautín","09116","Saavedra",398.35
+9,"La Araucanía","091","Cautín","09117","Teodoro Schmidt",656.17
+9,"La Araucanía","091","Cautín","09118","Toltén",851.8
+9,"La Araucanía","091","Cautín","09119","Vilcún",1416.48
+9,"La Araucanía","091","Cautín","09120","Villarrica",1292.66
+9,"La Araucanía","091","Cautín","09121","Cholchol",427.14
+9,"La Araucanía","092","Malleco","09201","Angol",1197.32
+9,"La Araucanía","092","Malleco","09202","Collipulli",1306.73
+9,"La Araucanía","092","Malleco","09203","Curacautín",1658.66
+9,"La Araucanía","092","Malleco","09204","Ercilla",498.91
+9,"La Araucanía","092","Malleco","09205","Lonquimay",3928.81
+9,"La Araucanía","092","Malleco","09206","Los Sauces",848.07
+9,"La Araucanía","092","Malleco","09207","Lumaco",1109.98
+9,"La Araucanía","092","Malleco","09208","Purén",463.96
+9,"La Araucanía","092","Malleco","09209","Renaico",265.49
+9,"La Araucanía","092","Malleco","09210","Traiguén",897.07
+9,"La Araucanía","092","Malleco","09211","Victoria",1262.59
+10,"Los Lagos","101","Llanquihue","10101","Puerto Montt",1670.35
+10,"Los Lagos","101","Llanquihue","10102","Calbuco",587.38
+10,"Los Lagos","101","Llanquihue","10103","Cochamó",3981.1
+10,"Los Lagos","101","Llanquihue","10104","Fresia",1275.62
+10,"Los Lagos","101","Llanquihue","10105","Frutillar",828.25
+10,"Los Lagos","101","Llanquihue","10106","Los Muermos",1229.62
+10,"Los Lagos","101","Llanquihue","10107","Llanquihue",433.02
+10,"Los Lagos","101","Llanquihue","10108","Maullín",822.95
+10,"Los Lagos","101","Llanquihue","10109","Puerto Varas",4028.8
+10,"Los Lagos","102","Chiloé","10201","Castro",471.38
+10,"Los Lagos","102","Chiloé","10202","Ancud",1754.07
+10,"Los Lagos","102","Chiloé","10203","Chonchi",1361.08
+10,"Los Lagos","102","Chiloé","10204","Curaco de Vélez",79.85
+10,"Los Lagos","102","Chiloé","10205","Dalcahue",1229.21
+10,"Los Lagos","102","Chiloé","10206","Puqueldón",96.58
+10,"Los Lagos","102","Chiloé","10207","Queilén",330.88
+10,"Los Lagos","102","Chiloé","10208","Quellón",3360.3
+10,"Los Lagos","102","Chiloé","10209","Quemchi",438.3
+10,"Los Lagos","102","Chiloé","10210","Quinchao",158.73
+10,"Los Lagos","103","Osorno","10301","Osorno",954.57
+10,"Los Lagos","103","Osorno","10302","Puerto Octay",1793.82
+10,"Los Lagos","103","Osorno","10303","Purranque",1451.58
+10,"Los Lagos","103","Osorno","10304","Puyehue",1635.28
+10,"Los Lagos","103","Osorno","10305","Río Negro",1281.02
+10,"Los Lagos","103","Osorno","10306","San Juan de la Costa",1506.02
+10,"Los Lagos","103","Osorno","10307","San Pablo",629.94
+10,"Los Lagos","104","Palena","10401","Chaitén",8256.01
+10,"Los Lagos","104","Palena","10402","Futaleufú",1236.22
+10,"Los Lagos","104","Palena","10403","Hualaihué",2834.53
+10,"Los Lagos","104","Palena","10404","Palena",2656.01
+11,"Aysén del General Carlos Ibáñez del Campo","111","Coihaique","11101","Coihaique",7280.46
+11,"Aysén del General Carlos Ibáñez del Campo","111","Coihaique","11102","Lago Verde",5440.42
+11,"Aysén del General Carlos Ibáñez del Campo","112","Aisén","11201","Aisén",29879.3
+11,"Aysén del General Carlos Ibáñez del Campo","112","Aisén","11202","Cisnes",15418.3
+11,"Aysén del General Carlos Ibáñez del Campo","112","Aisén","11203","Guaitecas",631.38
+11,"Aysén del General Carlos Ibáñez del Campo","113","Capitán Prat","11301","Cochrane",8629.21
+11,"Aysén del General Carlos Ibáñez del Campo","113","Capitán Prat","11302","O'Higgins",7781.76
+11,"Aysén del General Carlos Ibáñez del Campo","113","Capitán Prat","11303","Tortel",19977.3
+11,"Aysén del General Carlos Ibáñez del Campo","114","General Carrera","11401","Chile Chico",5739.01
+11,"Aysén del General Carlos Ibáñez del Campo","114","General Carrera","11402","Río Ibáñez",6019.41
+12,"Magallanes y de la Antártica Chilena","121","Magallanes","12101","Punta Arenas",17771.4
+12,"Magallanes y de la Antártica Chilena","121","Magallanes","12102","Laguna Blanca",3567.32
+12,"Magallanes y de la Antártica Chilena","121","Magallanes","12104","San Gregorio",6706.74
+12,"Magallanes y de la Antártica Chilena","122","Antártica Chilena","12201","Cabo de Hornos",15720.3
+12,"Magallanes y de la Antártica Chilena","123","Tierra del Fuego","12301","Porvenir",7457.05
+12,"Magallanes y de la Antártica Chilena","123","Tierra del Fuego","12302","Primavera",3946.46
+12,"Magallanes y de la Antártica Chilena","123","Tierra del Fuego","12303","Timaukel",11011.8
+12,"Magallanes y de la Antártica Chilena","124","Última Esperanza","12401","Natales",48938.2
+12,"Magallanes y de la Antártica Chilena","124","Última Esperanza","12402","Torres del Paine",6215.16
+13,"Metropolitana de Santiago","131","Santiago","13115","Lo Barnechea",1023.61
+13,"Metropolitana de Santiago","132","Cordillera","13202","Pirque",444.71
+13,"Metropolitana de Santiago","132","Cordillera","13203","San José de Maipo",4982.37
+13,"Metropolitana de Santiago","134","Maipo","13404","Paine",677.52
+13,"Metropolitana de Santiago","135","Melipilla","13501","Melipilla",1352.65
+13,"Metropolitana de Santiago","135","Melipilla","13502","Alhué",844.43
+13,"Metropolitana de Santiago","135","Melipilla","13503","Curacaví",694.1
+13,"Metropolitana de Santiago","135","Melipilla","13504","María Pinto",394.3
+13,"Metropolitana de Santiago","135","Melipilla","13505","San Pedro",793.11
+13,"Metropolitana de Santiago","136","Talagante","13603","Isla de Maipo",189.62
+14,"Los Ríos","141","Valdivia","14101","Valdivia",1018.32
+14,"Los Ríos","141","Valdivia","14102","Corral",729.42
+14,"Los Ríos","141","Valdivia","14103","Lanco",533.04
+14,"Los Ríos","141","Valdivia","14104","Los Lagos",1788.82
+14,"Los Ríos","141","Valdivia","14105","Máfil",579.15
+14,"Los Ríos","141","Valdivia","14106","Mariquina",1319.22
+14,"Los Ríos","141","Valdivia","14107","Paillaco",901.57
+14,"Los Ríos","141","Valdivia","14108","Panguipulli",3297.47
+14,"Los Ríos","142","Ranco","14201","La Unión",2131.24
+14,"Los Ríos","142","Ranco","14202","Futrono",2090.51
+14,"Los Ríos","142","Ranco","14203","Lago Ranco",1763.14
+14,"Los Ríos","142","Ranco","14204","Río Bueno",2172.28
+15,"Arica y Parinacota","151","Arica","15101","Arica",4799.66
+15,"Arica y Parinacota","151","Arica","15102","Camarones",3922.22
+15,"Arica y Parinacota","152","Parinacota","15201","Putre",5885.18
+15,"Arica y Parinacota","152","Parinacota","15202","General Lagos",2257.22
+16,"Ñuble","161","Diguillín","16101","Chillán",477.58
+16,"Ñuble","161","Diguillín","16102","Bulnes",426.4
+16,"Ñuble","161","Diguillín","16104","El Carmen",666.04
+16,"Ñuble","161","Diguillín","16105","Pemuco",563.26
+16,"Ñuble","161","Diguillín","16106","Pinto",1102.7
+16,"Ñuble","161","Diguillín","16107","Quillón",406.52
+16,"Ñuble","161","Diguillín","16108","San Ignacio",363.25
+16,"Ñuble","161","Diguillín","16109","Yungay",824.72
+16,"Ñuble","162","Itata","16201","Quirihue",589.85
+16,"Ñuble","162","Itata","16202","Cobquecura",569.21
+16,"Ñuble","162","Itata","16203","Coelemu",342.32
+16,"Ñuble","162","Itata","16204","Ninhue",403.19
+16,"Ñuble","162","Itata","16205","Portezuelo",289.24
+16,"Ñuble","162","Itata","16206","Ranquil",247.42
+16,"Ñuble","162","Itata","16207","Treguaco",313
+16,"Ñuble","163","Punilla","16301","San Carlos",877.81
+16,"Ñuble","163","Punilla","16302","Coihueco",1771.65
+16,"Ñuble","163","Punilla","16303","Ñiquén",492.34
+16,"Ñuble","163","Punilla","16304","San Fabián",1541.59
+16,"Ñuble","163","Punilla","16305","San Nicolás",565.94
+13,"Metropolitana de Santiago","133","Chacabuco","13303","Tiltil",654.65
+13,"Metropolitana de Santiago","133","Chacabuco","13301","Colina",970.86
+13,"Metropolitana de Santiago","133","Chacabuco","13302","Lampa",449.52
+13,"Metropolitana de Santiago","131","Santiago","13125","Quilicura",57.32
+13,"Metropolitana de Santiago","131","Santiago","13124","Pudahuel",198.57
+13,"Metropolitana de Santiago","131","Santiago","13103","Cerro Navia",11.05
+13,"Metropolitana de Santiago","131","Santiago","13128","Renca",23.68
+13,"Metropolitana de Santiago","131","Santiago","13126","Quinta Normal",11.8
+13,"Metropolitana de Santiago","131","Santiago","13107","Huechuraba",44.98
+13,"Metropolitana de Santiago","131","Santiago","13104","Conchalí",10.94
+13,"Metropolitana de Santiago","131","Santiago","13108","Independencia",7.35
+13,"Metropolitana de Santiago","131","Santiago","13127","Recoleta",15.61
+13,"Metropolitana de Santiago","131","Santiago","13132","Vitacura",28.59
+13,"Metropolitana de Santiago","131","Santiago","13123","Providencia",14.44
+13,"Metropolitana de Santiago","131","Santiago","13114","Las Condes",99.06
+13,"Metropolitana de Santiago","131","Santiago","13120","Ñuñoa",16.89
+13,"Metropolitana de Santiago","131","Santiago","13101","Santiago",23.18
+13,"Metropolitana de Santiago","131","Santiago","13117","Lo Prado",6.54
+13,"Metropolitana de Santiago","131","Santiago","13106","Estación Central",14.37
+13,"Metropolitana de Santiago","131","Santiago","13119","Maipú",136.8
+13,"Metropolitana de Santiago","131","Santiago","13121","Pedro Aguirre Cerda",8.73
+13,"Metropolitana de Santiago","131","Santiago","13102","Cerrillos",16.82
+13,"Metropolitana de Santiago","131","Santiago","13130","San Miguel",9.63
+13,"Metropolitana de Santiago","131","Santiago","13129","San Joaquín",9.94
+13,"Metropolitana de Santiago","131","Santiago","13118","Macul",12.81
+13,"Metropolitana de Santiago","131","Santiago","13113","La Reina",23.39
+13,"Metropolitana de Santiago","131","Santiago","13122","Peñalolén",53.89
+13,"Metropolitana de Santiago","131","Santiago","13116","Lo Espejo",8.25
+13,"Metropolitana de Santiago","131","Santiago","13109","La Cisterna",10.01
+13,"Metropolitana de Santiago","131","Santiago","13111","La Granja",10.05
+13,"Metropolitana de Santiago","131","Santiago","13131","San Ramón",6.31
+13,"Metropolitana de Santiago","131","Santiago","13110","La Florida",71.04
+13,"Metropolitana de Santiago","131","Santiago","13105","El Bosque",14.25
+13,"Metropolitana de Santiago","131","Santiago","13112","La Pintana",30.47
+13,"Metropolitana de Santiago","134","Maipo","13403","Calera de Tango",73.22
+13,"Metropolitana de Santiago","132","Cordillera","13201","Puente Alto",88.39
+13,"Metropolitana de Santiago","136","Talagante","13601","Talagante",125.23
+13,"Metropolitana de Santiago","134","Maipo","13402","Buin",217.03
+13,"Metropolitana de Santiago","134","Maipo","13401","San Bernardo",153.85
+13,"Metropolitana de Santiago","136","Talagante","13604","Padre Hurtado",80.64
+13,"Metropolitana de Santiago","136","Talagante","13605","Peñaflor",69.42
+13,"Metropolitana de Santiago","136","Talagante","13602","El Monte",115.97
+5,"Valparaíso","058","Marga Marga","05802","Limache",294.88
+5,"Valparaíso","051","Valparaíso","05109","Viña del Mar",120.56
+5,"Valparaíso","058","Marga Marga","05804","Villa Alemana",96.37
+5,"Valparaíso","055","Quillota","05501","Quillota",301.24
+16,"Ñuble","161","Diguillín","16103","Chillán Viejo",262.61
+8,"Biobío","081","Concepción","08111","Tomé",494.32
+8,"Biobío","081","Concepción","08107","Penco",108.38
+8,"Biobío","081","Concepción","08101","Concepción",220.2
+8,"Biobío","081","Concepción","08103","Chiguayante",71.4
+8,"Biobío","081","Concepción","08112","Hualpén",53.77
+8,"Biobío","081","Concepción","08108","San Pedro de la Paz",112.86
+8,"Biobío","081","Concepción","08105","Hualqui",535.85
+12,"Magallanes y de la Antártica Chilena","121","Magallanes","12103","Río Verde",9147.57
+5,"Valparaíso","051","Valparaíso","05103","Concón",76.93
