@@ -7,16 +7,6 @@
 
 WIP
 
-## Metadata and Preservation
-
-This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
-
-WIP
-
-X directories and XX files.
-
-In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
-
 ## Data Pipeline and Coverage
 
 ### Pipeline
@@ -48,6 +38,16 @@ In addition, this README file in Markdown `MD` format provides specific informat
 | 2019 | :white_check_mark: | :x: |  |  |  |
 | 2020 | :x: | :white_check_mark: |  |  |  |
 | 2021 | :white_check_mark: | :x: |  |  |  |
+
+## Metadata and Preservation
+
+This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
+
+WIP
+
+X directories and XX files.
+
+In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
 
 ## Storage
 
