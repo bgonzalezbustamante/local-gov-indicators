@@ -43,4 +43,4 @@ cut_shapefiles <- data.frame(CUT_REG = communes$CUT_REG,
                              SUPERFICIE = communes$SUPERFICIE)
 
 ## Save File
-write.csv(cut_shapefiles, "data/raw/cut_shapefiles.csv", fileEncoding = "UTF-8", row.names =  FALSE)
+write.csv(cut_shapefiles, "data/raw/CUT/cut_shapefiles.csv", fileEncoding = "UTF-8", row.names =  FALSE)
