@@ -17,6 +17,20 @@ X directories and XX files.
 
 In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
 
+## Data Pipeline and Coverage
+
+```mermaid
+  graph TD;
+      A[/Shapefiles IDE-Chile/] --> B[(Baseline Data Set)];
+      B --> C[(Case-Level Data Sets)];
+      D[EGI] --> C;
+      E[/OS-MDS/] --> C;
+      F[/SINIM/] --> C;
+      G[/INE/] --> C;
+      H[/SUBTEL/] --> C;
+      C --> I[(Case-Level Time-Series Data Set)];
+```
+
 ## Storage
 
 The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Diego Aguilar, [ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
