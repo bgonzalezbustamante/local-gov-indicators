@@ -19,6 +19,8 @@ In addition, this README file in Markdown `MD` format provides specific informat
 
 ## Data Pipeline and Coverage
 
+### Pipeline
+
 ```mermaid
   graph TD;
       A[/Shapefiles IDE-Chile/] --> B[(Baseline Data Set)];
@@ -30,21 +32,22 @@ In addition, this README file in Markdown `MD` format provides specific informat
       H[/SUBTEL/] --> C;
       C --> I[(Case-Level Time-Series Data Set)];
 ```
+### Coverage
 
 |  | EGI | OS-MDS | SINIM | INE | SUBTEL |
 |---|:---:|:---:|:---:|:---:|---|
-| 2010 | :x: |  |  |  |  |
-| 2011 |  |  |  |  |  |
-| 2012 |  |  |  |  |  |
-| 2013 |  |  |  |  |  |
-| 2014 |  |  |  |  |  |
-| 2015 |  |  |  |  |  |
-| 2016 |  |  |  |  |  |
-| 2016 | :white_check_mark: |  |  |  |  |
-| 2018 |  |  |  |  |  |
-| 2019 | :white_check_mark: |  |  |  |  |
-| 2020 |  |  |  |  |  |
-| 2021 | :white_check_mark: |  |  |  |  |
+| 2010 | :x: | :x: |  |  |  |
+| 2011 | :x: | :white_check_mark: |  |  |  |
+| 2012 | :x: | :x: |  |  |  |
+| 2013 | :x: | :white_check_mark: |  |  |  |
+| 2014 | :x: | :x: |  |  |  |
+| 2015 | :x: | :white_check_mark: |  |  |  |
+| 2016 | :white_check_mark: | :x: |  |  |  |
+| 2017 | :x: | :white_check_mark: |  |  |  |
+| 2018 | :x: | :x: |  |  |  |
+| 2019 | :white_check_mark: | :x: |  |  |  |
+| 2020 | :x: | :white_check_mark: |  |  |  |
+| 2021 | :white_check_mark: | :x: |  |  |  |
 
 ## Storage
 
