@@ -31,6 +31,21 @@ In addition, this README file in Markdown `MD` format provides specific informat
       C --> I[(Case-Level Time-Series Data Set)];
 ```
 
+|  | EGI | OS-MDS | SINIM | INE | SUBTEL |
+|---|:---:|:---:|:---:|:---:|---|
+| 2010 | :x: |  |  |  |  |
+| 2011 |  |  |  |  |  |
+| 2012 |  |  |  |  |  |
+| 2013 |  |  |  |  |  |
+| 2014 |  |  |  |  |  |
+| 2015 |  |  |  |  |  |
+| 2016 |  |  |  |  |  |
+| 2016 | :white_check_mark: |  |  |  |  |
+| 2018 |  |  |  |  |  |
+| 2019 | :white_check_mark: |  |  |  |  |
+| 2020 |  |  |  |  |  |
+| 2021 | :white_check_mark: |  |  |  |  |
+
 ## Storage
 
 The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Diego Aguilar, [ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
