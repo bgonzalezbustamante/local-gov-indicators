@@ -1,0 +1,1 @@
+The OSF repository contains a zipped file with different shapefiles considering county and regional levels.
