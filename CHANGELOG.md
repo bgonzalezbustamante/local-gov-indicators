@@ -16,11 +16,18 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Raw EGi 2019 measurement.
 - Raw EGi 2016 measurement.
 
-## [0.15.3] - TBC
+## [0.16.3] - TBC
 ### Added
 - Codebook in XeLaTeX.
 
 ## [Released]
+
+## [0.15.3] - 2022-03-18
+### Added
+- Git LFS.
+- Communes shapefiles.
+### Changed
+- Modify .gitignore file on GitHub repository.
 
 ## [0.14.3] - 2022-03-16
 ### Added
