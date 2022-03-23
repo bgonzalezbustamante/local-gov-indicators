@@ -1,7 +1,7 @@
 # local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.15.3-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.16.4-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](CCBY40.md)  [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Overview
 
@@ -83,7 +83,7 @@ WIP
 
 ## License
 
-This data set is released under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE.md). This open-access license allows the data to be shared, reused, adapted as long as appropriate acknowledgement is given.
+The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](CCBY40.md), and the underlying code used to format and display that content is licensed under a [MIT license](LICENSE.md).
 
 ## Contribute
 
