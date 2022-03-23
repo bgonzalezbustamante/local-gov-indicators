@@ -22,20 +22,31 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
-## [0.15.3] - 2022-03-18
+## [0.16.4] - 2022-03-22
+### Added
+- MIT license on GitHub repository.
+### Changed
+- Revision of upgrade versioning.
+- Minor corrections.
+
+## [0.15.4] - 2022-03-22
+### Added
+- Finishing CUT data revision.
+
+## [0.14.4] - 2022-03-18
 ### Added
 - Git LFS.
 - Communes shapefiles.
 ### Changed
 - Modify .gitignore file on GitHub repository.
 
-## [0.14.3] - 2022-03-16
+## [0.13.4] - 2022-03-16
 ### Added
 - Data cleaning code.
 - Data pipeline Mermaid diagram in README.
 - Data coverage information in README.
 
-## [0.13.3] - 2022-03-15
+## [0.12.4] - 2022-03-15
 ### Added
 - Shapefiles cleaning code.
 - CUT data backup from IDE-Chile.
@@ -45,14 +56,12 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Modify .gitignore file on GitHub repository.
 - Minor corrections.
 
-## [0.12.3] - 2022-03-12
+## [0.11.4] - 2022-03-12
 ### Changed
 - Modify .gitignore file on GitHub repository.
 - Minor corrections.
 
-## [0.12.2] - 2022-03-10
-### Added
-- Finishing CUT data revision.
+## [0.11.3] - 2022-03-10
 ### Changed
 - Repository name.
 - Revision of upgrade versioning.
