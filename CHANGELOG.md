@@ -6,7 +6,7 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 ## [1.0.0] - TBC
 ### Added
 - Zenodo DOI.
-- EGi data cleaning and merging code.
+- Codebook in XeLaTeX.
 - Release of VOR data set.
 - Exploratory data analysis code.
 - Import data code.
@@ -16,11 +16,11 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Raw EGi 2019 measurement.
 - Raw EGi 2016 measurement.
 
-## [0.16.3] - TBC
-### Added
-- Codebook in XeLaTeX.
-
 ## [Released]
+
+## [0.16.5] - 2022-03-24
+### Changed
+- Data cleaning code.
 
 ## [0.16.4] - 2022-03-22
 ### Added
