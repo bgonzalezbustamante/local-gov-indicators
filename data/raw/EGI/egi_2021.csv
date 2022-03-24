@@ -1,0 +1,347 @@
+﻿commune,region,cut_com,url,date_review,time_review,forms,news,search,webmap,streetmap,transportation,socialmedia,email,phone,mobile,online_procedures,followup,digital_certificate,citizen_folder,payments,personalization,participation,pladeco,pagespeed_mobile,pagespeed_desktop
+ARICA,ARICA Y PARINACOTA,15101,https://www.muniarica.cl/home,03/11/2021,12:30 PM,0,1,0,0,1,0,1,0,1,1,1,0,1,0,1,0,0,0,8,34
+CAMARONES,ARICA Y PARINACOTA,15102,https://municamarones.cl/,03/11/2021,12:45 PM,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,17,12
+GENERAL LAGOS,ARICA Y PARINACOTA,15202,https://www.portalvisviri.cl/,03/11/2021,12:58 PM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,42,60
+PUTRE,ARICA Y PARINACOTA,15201,https://imputre.cl/,03/11/2021,1:11 PM,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,17,46
+ALTO HOSPICIO,TARAPACA,1107,https://maho.cl/web/,03/11/2021,1:18 PM,0,1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,14,41
+CAMIÑA,TARAPACA,1402,http://www.xn--municipalidaddecamia-m7b.cl/,03/11/2021,1:27 PM,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,30,72
+COLCHANE,TARAPACA,1403,https://www.imcolchane.cl/,03/11/2021,1:32 PM,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,14,62
+HUARA,TARAPACA,1404,https://www.imhuara.cl/,03/11/2021,1:40 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,19,74
+IQUIQUE,TARAPACA,1101,http://www.municipioiquique.cl/,03/11/2021,1:57 PM,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,31,63
+PICA,TARAPACA,1405,http://www.municipalidadpica.cl/www2/,03/11/2021,2:06 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,6,37
+POZO ALMONTE,TARAPACA,1401,https://www.impa.gob.cl/www/,03/11/2021,2:14 PM,0,1,0,0,1,0,1,1,1,1,0,0,1,0,1,0,0,0,46,42
+ANTOFAGASTA,ANTOFAGASTA,2101,https://www.municipalidaddeantofagasta.cl/,03/11/2021,3:54 PM,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,15,39
+CALAMA,ANTOFAGASTA,2201,https://www.municipalidadcalama.cl/home,03/11/2021,4:03 PM,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,8,10
+MARIA ELENA,ANTOFAGASTA,2302,https://www.imme.cl/municipalidad/,03/11/2021,4:08 PM,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,11,35
+MEJILLONES,ANTOFAGASTA,2102,https://www.mejillones.cl/,03/11/2021,4:16 PM,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,12,15
+OLLAGUE,ANTOFAGASTA,2202,www.municipalidaddeollague.cl,03/11/2021,4:26 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,29,86
+SAN PEDRO DE ATACAMA,ANTOFAGASTA,2203,https://www.municipiosanpedrodeatacama.cl/,03/11/2021,4:30 PM,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,60,93
+SIERRA GORDA,ANTOFAGASTA,2103,https://municipalidadsierragorda.cl/,03/11/2021,4:37 PM,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,15,37
+TALTAL,ANTOFAGASTA,2104,https://portal.municipalidadtaltal.cl/,03/11/2021,4:46 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,31,50
+TOCOPILLA,ANTOFAGASTA,2301,https://imtocopilla.cl/,03/11/2021,4:54 PM,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,84,90
+ALTO DEL CARMEN,ATACAMA,3302,https://www.munialtodelcarmen.cl/web/,03/11/2021,4:58 PM,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,16,25
+CALDERA,ATACAMA,3102,http://www.caldera.cl/2017/,03/11/2021,5:05 PM,0,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,0,0,13,12
+CHAÑARAL,ATACAMA,3201,https://www.munichanaral.cl/,03/11/2021,5:11 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,15,18
+COPIAPO,ATACAMA,3101,http://copiapo.cl/,03/11/2021,5:24 PM,0,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,0,33,64
+DIEGO DE ALMAGRO,ATACAMA,3202,https://imda.cl/nuevo/,03/11/2021,5:28 PM,0,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,18,66
+FREIRINA,ATACAMA,3303,https://imfreirina.cl/,03/11/2021,5:47 PM,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,46,67
+HUASCO,ATACAMA,3304,http://nuevo.imhuasco.cl/,04/11/2021,12:09 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,35,66
+TIERRA AMARILLA,ATACAMA,3103,https://www.tierramarilla.com/,04/11/2021,12:14 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,45,72
+VALLENAR,ATACAMA,3301,https://www.vallenar.cl/,04/11/2021,12:18 PM,0,1,0,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0,42,74
+ANDACOLLO,COQUIMBO,4103,https://andacollochile.cl/,04/11/2021,12:23 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,28,48
+CANELA,COQUIMBO,4202,https://canela.cl/nuevo/,04/11/2021,12:27 PM,0,0,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,35,81
+COMBARBALA,COQUIMBO,4302,https://www.combarbala.cl/,04/11/2021,12:31 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,40,48
+COQUIMBO,COQUIMBO,4102,https://www.municoquimbo.cl/,04/11/2021,12:34 PM,0,1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,1,33,37
+ILLAPEL,COQUIMBO,4201,https://municipalidadillapel.cl/,04/11/2021,12:39 PM,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0,0,18,40
+LA HIGUERA,COQUIMBO,4104,https://www.munilahiguera.cl/,04/11/2021,12:45 PM,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,55,68
+LA SERENA,COQUIMBO,4101,http://www.laserena.cl/,04/11/2021,12:50 PM,0,1,1,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,,
+LOS VILOS,COQUIMBO,4203,https://www.munilosvilos.cl/,04/11/2021,12:55 PM,0,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,44,78
+MONTE PATRIA,COQUIMBO,4303,https://www.munimontepatria.cl/web/,04/11/2021,1:08 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,11,51
+OVALLE,COQUIMBO,4301,https://municipalidadovalle.cl/sitio/,04/11/2021,1:13 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,16,49
+PAIHUANO,COQUIMBO,4105,https://www.munipaihuano.cl/,04/11/2021,1:16 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,5,34
+PUNITAQUI,COQUIMBO,4304,https://www.munipunitaqui.cl/,04/11/2021,1:19 PM,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,42,66
+RIO HURTADO,COQUIMBO,4305,https://riohurtado.cl/,04/11/2021,1:23 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,28,46
+SALAMANCA,COQUIMBO,4204,https://www.salamanca.cl/,04/11/2021,1:27 PM,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,43,65
+VICUÑA,COQUIMBO,4106,https://www.municipalidadvicuna.cl/,04/11/2021,1:31 PM,0,1,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,26,54
+ALGARROBO,VALPARAISO,5602,http://200.50.125.18/,04/11/2021,1:38 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,30,54
+CABILDO,VALPARAISO,5402,https://municipiocabildo.cl/,04/11/2021,1:44 PM,1,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,16,62
+CALERA,VALPARAISO,5502,https://lacalera.cl/,04/11/2021,1:49 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,,
+CALLE LARGA,VALPARAISO,5302,https://www.municallelarga.cl/,04/11/2021,1:53 PM,1,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,31,67
+CARTAGENA,VALPARAISO,5603,https://www.municipalidadcartagena.cl/,04/11/2021,1:58 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,22,69
+CASABLANCA,VALPARAISO,5102,https://municipalidadcasablanca.cl/index.php,04/11/2021,2:05 PM,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,43,61
+CATEMU,VALPARAISO,5702,https://www.municatemu.cl/,04/11/2021,2:14 PM,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,10,83
+CONCON,VALPARAISO,5103,https://www.concon.cl/,04/11/2021,2:17 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,28,55
+EL QUISCO,VALPARAISO,5604,https://www.elquisco.cl/,04/11/2021,2:22 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,4,37
+EL TABO,VALPARAISO,5605,https://www.eltabo.cl/web2/,04/11/2021,2:26 PM,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,33,47
+HIJUELAS,VALPARAISO,5503,https://www.hijuelas.cl/,05/11/2021,11:17 AM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,65,91
+ISLA DE PASCUA,VALPARAISO,5201,https://www.rapanui.net/,05/11/2021,11:21 AM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,44,76
+JUAN FERNANDEZ,VALPARAISO,5104,http://www.comunajuanfernandez.cl/?fbclid=IwAR3bXNpmJunT1sBTtfqms-F4AWBceB2vlQSlFaXIKcHze6DRJthd0oJ9ojY,05/11/2021,11:25 AM,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,27,67
+LA CRUZ,VALPARAISO,5504,https://lacruz.cl/,05/11/2021,11:29 AM,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,40,65
+LA LIGUA,VALPARAISO,5401,https://www.comunadelaligua.cl/,05/11/2021,11:33 AM,1,1,1,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,3,19
+LIMACHE,VALPARAISO,5802,https://limache.cl/,05/11/2021,11:39 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,19,57
+LLAY-LLAY,VALPARAISO,5703,https://www.municipalidadllayllay.cl/,05/11/2021,11:43 AM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,15,15
+LOS ANDES,VALPARAISO,5301,http://www.losandes.cl/,05/11/2021,11:46 AM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,4,25
+NOGALES,VALPARAISO,5506,https://muninogales.cl/,05/11/2021,11:50 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,66,96
+OLMUE,VALPARAISO,5803,https://www.muniolmue.cl/,05/11/2021,11:54 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,64,90
+PANQUEHUE,VALPARAISO,5704,http://www.impanquehue.cl/,05/11/2021,11:59 AM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,26,52
+PAPUDO,VALPARAISO,5403,http://www.municipalidadpapudo.cl/,05/11/2021,12:16 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,47,55
+PETORCA,VALPARAISO,5404,https://municipalidadpetorca.cl/v1/,05/11/2021,12:21 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,19,81
+PUCHUNCAVI,VALPARAISO,5105,https://www.munipuchuncavi.cl/,05/11/2021,12:30 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,35,69
+PUTAENDO,VALPARAISO,5705,https://www.putaendo.cl/,05/11/2021,12:26 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,28,57
+QUILLOTA,VALPARAISO,5501,https://quillota.cl/municipalidad/,05/11/2021,12:36 PM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,12,65
+QUILPUE,VALPARAISO,5801,https://www.quilpue.cl/,05/11/2021,12:41 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,34,76
+QUINTERO,VALPARAISO,5107,https://www.muniquintero.cl/,05/11/2021,12:49 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,27,31
+RINCONADA,VALPARAISO,5303,https://munirinconada.cl/medaconfianza/,05/11/2021,12:52 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,23,54
+SAN ANTONIO,VALPARAISO,5601,https://www.sanantonio.cl/,05/11/2021,12:55 PM,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,12,36
+SAN ESTEBAN,VALPARAISO,5304,https://www.munisanesteban.cl/home,05/11/2021,12:58 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,32,29
+SAN FELIPE,VALPARAISO,5701,https://www.munisanfelipe.cl/,05/11/2021,1:01 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,6,21
+SANTA MARIA,VALPARAISO,5706,https://imsantamaria.com/,05/11/2021,1:06 PM,,,,,,,,,,,,,,,,,,,,
+SANTO DOMINGO,VALPARAISO,5606,https://santodomingo.cl/,05/11/2021,1:08 PM,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0,0,0,51,73
+VALPARAISO,VALPARAISO,5101,https://web.municipalidaddevalparaiso.cl/,05/11/2021,1:11 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,19,43
+VILLA ALEMANA,VALPARAISO,5804,https://www.villalemana.cl/,05/11/2021,1:16 PM,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,22,39
+VIÑA DEL MAR,VALPARAISO,5109,https://www.munivina.cl/,05/11/2021,1:19 PM,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,,
+ZAPALLAR,VALPARAISO,5405,https://www.munizapallar.cl/,05/11/2021,1:23 PM,0,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,72,96
+ALHUE,METROPOLITANA,13502,https://municipalidadalhue.cl/portal/,08/11/2021,11:57 AM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,,
+BUIN,METROPOLITANA,13402,https://www.buin.cl/,08/11/2021,12:01 PM,0,1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0,0,28,56
+CALERA DE TANGO,METROPOLITANA,13403,https://municaleradetango.cl/,08/11/2021,12:05 PM,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,38,59
+CERRILLOS,METROPOLITANA,13102,http://www.mcerrillos.cl/cerrillos/,08/11/2021,12:07 PM,0,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,21,37
+CERRO NAVIA,METROPOLITANA,13103,https://www.cerronavia.cl/,08/11/2021,12:11 PM,0,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,1,0,11,9
+COLINA,METROPOLITANA,13301,https://www.colina.cl/,08/11/2021,12:15 PM,0,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,14,44
+CONCHALI,METROPOLITANA,13104,https://www.conchali.cl/,08/11/2021,12:19 PM,1,1,1,1,0,0,1,0,1,1,0,0,0,0,1,0,0,0,9,46
+CURACAVI,METROPOLITANA,13503,https://www.municipalidadcuracavi.cl/,08/11/2021,12:33 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,19,48
+EL BOSQUE,METROPOLITANA,13105,https://www.municipalidadelbosque.cl/,08/11/2021,12:37 PM,0,1,0,0,1,0,1,0,1,1,1,1,1,0,1,0,0,1,18,62
+EL MONTE,METROPOLITANA,13602,https://www.munielmonte.cl/,08/11/2021,12:42 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,47,83
+ESTACION CENTRAL,METROPOLITANA,13106,https://municipalidadestacioncentral.cl/,08/11/2021,12:44 PM,1,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,16,
+HUECHURABA,METROPOLITANA,13107,https://www.huechuraba.cl/,08/11/2021,12:48 PM,1,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,22,28
+INDEPENDENCIA,METROPOLITANA,13108,https://www.independencia.cl/,08/11/2021,12:50 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,11,44
+ISLA DE MAIPO,METROPOLITANA,13603,http://www.islademaipo.cl/,08/11/2021,12:54 PM,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38,76
+LA CISTERNA,METROPOLITANA,13109,https://www.cisterna.cl/home,08/11/2021,12:57 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,6,36
+LA FLORIDA,METROPOLITANA,13110,https://www.laflorida.cl/sitio/,08/11/2021,1:02 PM,1,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,17,29
+LA GRANJA,METROPOLITANA,13111,https://www.municipalidadlagranja.cl/,08/11/2021,1:07 PM,0,1,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,6,32
+LAMPA,METROPOLITANA,13302,https://www.lampa.cl/inicio/,08/11/2021,1:12 PM,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,27,29
+LA PINTANA,METROPOLITANA,13112,https://www.pintana.cl/,08/11/2021,1:28 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,21,38
+LA REINA,METROPOLITANA,13113,https://www.lareina.cl/,08/11/2021,1:33 PM,0,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,0,31,52
+LAS CONDES,METROPOLITANA,13114,https://www.lascondes.cl/,08/11/2021,1:37 PM,1,1,1,0,1,0,1,0,1,1,0,1,0,0,1,0,1,0,,
+LO BARNECHEA,METROPOLITANA,13115,https://lobarnechea.cl/,08/11/2021,1:44 PM,0,1,1,0,1,0,1,1,1,1,0,1,0,0,1,0,0,0,16,55
+LO ESPEJO,METROPOLITANA,13116,https://www.loespejo.cl/,08/11/2021,1:49 PM,0,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,12,56
+LO PRADO,METROPOLITANA,13117,https://loprado.cl/,08/11/2021,1:53 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,24,65
+MACUL,METROPOLITANA,13118,https://www.munimacul.cl/,08/11/2021,2:01 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,10,41
+MAIPU,METROPOLITANA,13119,https://www.municipalidadmaipu.cl/,08/11/2021,2:05 PM,0,1,1,0,1,1,1,0,1,1,0,1,0,0,1,0,0,0,18,58
+MARIA PINTO,METROPOLITANA,13504,https://www.mpinto.cl/,08/11/2021,2:11 PM,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,65,88
+MELIPILLA,METROPOLITANA,13501,https://www.melipilla.cl/,08/11/2021,2:12 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,20,56
+ÑUÑOA,METROPOLITANA,13120,https://www.nunoa.cl/,09/11/2021,10:49 AM,1,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,22,45
+PADRE HURTADO,METROPOLITANA,13604,http://portal.mph.cl/,09/11/2021,10:55 AM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,38,52
+PAINE,METROPOLITANA,13404,https://www.paine.cl/,09/11/2021,11:00 AM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,9,45
+PEDRO AGUIRRE CERDA,METROPOLITANA,13121,https://www.pedroaguirrecerda.cl/w15/,09/11/2021,11:03 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,,
+PEÑAFLOR,METROPOLITANA,13605,https://penaflor.cl/,09/11/2021,11:07 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,46,51
+PEÑALOLEN,METROPOLITANA,13122,https://www.penalolen.cl/,09/11/2021,11:20 AM,0,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,36,66
+PIRQUE,METROPOLITANA,13202,https://pirque.cl/,09/11/2021,11:27 AM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,33,59
+PROVIDENCIA,METROPOLITANA,13123,https://providencia.cl/provi/site/edic/base/port/inicio.html,09/11/2021,11:30 AM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,32,76
+PUDAHUEL,METROPOLITANA,13124,https://www.mpudahuel.cl/sitio/,09/11/2021,11:35 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,12,52
+PUENTE ALTO,METROPOLITANA,13201,https://www.mpuentealto.cl/,09/11/2021,11:41 AM,1,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,4,12
+QUILICURA,METROPOLITANA,13125,http://www.ww2.muniquilicura.cl/,09/11/2021,12:32 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,16,46
+QUINTA NORMAL,METROPOLITANA,13126,https://www.quintanormal.cl/,09/11/2021,3:02 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,40,72
+RECOLETA,METROPOLITANA,13127,https://www.recoleta.cl/?op=pcv,09/11/2021,3:09 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,14,50
+RENCA,METROPOLITANA,13128,https://renca.cl/,09/11/2021,3:12 PM,1,1,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,11,35
+SAN BERNARDO,METROPOLITANA,13401,https://www.sanbernardo.cl/web/,09/11/2021,3:16 PM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,41,66
+SAN JOAQUIN,METROPOLITANA,13129,https://redsanjoaquin.cl/,09/11/2021,3:24 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,14,21
+SAN JOSE DE MAIPO,METROPOLITANA,13203,https://www.sanjosedemaipo.cl/,09/11/2021,3:19 PM,1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,1,30,37
+SAN MIGUEL,METROPOLITANA,13130,https://web.sanmiguel.cl/,09/11/2021,3:29 PM,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,5,15
+SAN PEDRO,METROPOLITANA,13505,https://www.munisanpedro.cl/,09/11/2021,3:33 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,26,57
+SAN RAMON,METROPOLITANA,13131,http://www.municipalidadsanramon.cl/,09/11/2021,3:37 PM,0,1,1,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,72,85
+SANTIAGO,METROPOLITANA,13101,https://www.munistgo.cl/,09/11/2021,3:41 PM,0,1,1,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,6,25
+TALAGANTE,METROPOLITANA,13601,https://www.munitalagante.cl/,09/11/2021,3:44 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,28,86
+TILTIL,METROPOLITANA,13303,http://www.munitiltil.cl/,09/11/2021,3:49 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,12,34
+VITACURA,METROPOLITANA,13132,https://www.vitacura.cl/,09/11/2021,3:53 PM,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,1,27,47
+CHEPICA,LIBERTADOR BERNARDO O'HIGGINS,6302,https://www.municipalidadchepica.cl/,09/11/2021,4:00 PM,,,,,,,,,,,,,,,,,,,,
+CHIMBARONGO,LIBERTADOR BERNARDO O'HIGGINS,6303,http://municipalidadchimbarongo.cl/,09/11/2021,4:01 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,11,39
+CODEGUA,LIBERTADOR BERNARDO O'HIGGINS,6102,https://www.municipalidaddecodegua.cl/,09/11/2021,4:03 PM,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,31,72
+COINCO,LIBERTADOR BERNARDO O'HIGGINS,6103,https://www.municoinco.cl/index.php,09/11/2021,4:06 PM,0,1,0,1,0,0,1,1,1,1,0,0,0,0,1,0,0,0,36,56
+COLTAUCO,LIBERTADOR BERNARDO O'HIGGINS,6104,http://www.coltauco.cl/Nuevo/index.php,09/11/2021,4:10 PM,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,23,22
+DOÑIHUE,LIBERTADOR BERNARDO O'HIGGINS,6105,http://www.mdonihue.cl/,09/11/2021,4:14 PM,,,,,,,,,,,,,,,,,,,,
+GRANEROS,LIBERTADOR BERNARDO O'HIGGINS,6106,https://www.municipalidadgraneros.cl/,09/11/2021,4:15 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,15,58
+LA ESTRELLA,LIBERTADOR BERNARDO O'HIGGINS,6202,https://www.munilaestrella.cl/new/,09/11/2021,4:17 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,24,69
+LAS CABRAS,LIBERTADOR BERNARDO O'HIGGINS,6107,https://www.lascabrasmunicipalidad.cl/,09/11/2021,4:47 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,,
+LITUECHE,LIBERTADOR BERNARDO O'HIGGINS,6203,https://www.litueche.cl/,09/11/2021,4:51 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,2,68
+LOLOL,LIBERTADOR BERNARDO O'HIGGINS,6304,https://munilolol.cl/,09/11/2021,4:55 PM,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,73,94
+MACHALI,LIBERTADOR BERNARDO O'HIGGINS,6108,https://www.machali.cl/,09/11/2021,4:57 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,11,35
+MALLOA,LIBERTADOR BERNARDO O'HIGGINS,6109,https://www.munimalloa.cl/portal/,09/11/2021,5:00 PM,0,1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,35,77
+MARCHIGUE,LIBERTADOR BERNARDO O'HIGGINS,6204,https://www.marchigue.cl/Muni2.2/,09/11/2021,5:04 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,62,84
+MOSTAZAL,LIBERTADOR BERNARDO O'HIGGINS,6110,https://www.mostazal.cl/home,09/11/2021,5:07 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,23,57
+NANCAGUA,LIBERTADOR BERNARDO O'HIGGINS,6305,https://www.municipalidadnancagua.cl/web/,09/11/2021,5:09 PM,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,39,46
+NAVIDAD,LIBERTADOR BERNARDO O'HIGGINS,6205,https://www.muninavidad.cl/,09/11/2021,5:12 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,1,16,52
+OLIVAR,LIBERTADOR BERNARDO O'HIGGINS,6111,https://www.muniolivar.cl/,09/11/2021,5:17 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,44,57
+PALMILLA,LIBERTADOR BERNARDO O'HIGGINS,6306,https://www.munipalmilla.cl/,09/11/2021,5:18 PM,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,58,91
+PAREDONES,LIBERTADOR BERNARDO O'HIGGINS,6206,http://www.comunaparedones.cl/,09/11/2021,5:23 PM,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,1,11,57
+PERALILLO,LIBERTADOR BERNARDO O'HIGGINS,6307,https://muniperalillo.cl/,09/11/2021,5:28 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,64,68
+PEUMO,LIBERTADOR BERNARDO O'HIGGINS,6112,https://mpeumo.cl/wp/,09/11/2021,5:33 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,40,75
+PICHIDEGUA,LIBERTADOR BERNARDO O'HIGGINS,6113,https://pichidegua.cl/,09/11/2021,5:37 PM,,,,,,,,,,,,,,,,,,,,
+PICHILEMU,LIBERTADOR BERNARDO O'HIGGINS,6201,https://www.pichilemu.cl/,09/11/2021,5:39 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,39,79
+PLACILLA,LIBERTADOR BERNARDO O'HIGGINS,6308,https://site.muniplacilla.cl/,09/11/2021,5:41 PM,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,19,63
+PUMANQUE,LIBERTADOR BERNARDO O'HIGGINS,6309,https://munipumanque.cl/new/,09/11/2021,5:57 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,54,88
+QUINTA DE TILCOCO,LIBERTADOR BERNARDO O'HIGGINS,6114,http://www.quintadetilcoco.cl/,09/11/2021,6:00 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,16,53
+RANCAGUA,LIBERTADOR BERNARDO O'HIGGINS,6101,https://rancagua.cl/,09/11/2021,6:03 PM,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,3,50
+RENGO,LIBERTADOR BERNARDO O'HIGGINS,6115,https://www.municipalidadrengo.cl/,09/11/2021,6:06 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,5,47
+REQUINOA,LIBERTADOR BERNARDO O'HIGGINS,6116,http://www.requinoa.cl/VIREQ/index.php?requinoa=movil_a&ide=322&side=333&titulo=AGENDA%20TELEFONICA&tit2=DEPARTAMENTO%20DE%20TR%C3%81NSITO,09/11/2021,6:09 PM,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,44,73
+SAN FERNANDO,LIBERTADOR BERNARDO O'HIGGINS,6301,https://www.munisanfernando.cl/new/,09/11/2021,6:14 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,11,55
+SANTA CRUZ,LIBERTADOR BERNARDO O'HIGGINS,6310,http://www.municipalidadsantacruz.cl/,09/11/2021,6:18 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,23,67
+SAN VICENTE,LIBERTADOR BERNARDO O'HIGGINS,6117,https://www.municipalidadsanvicente.cl/,09/11/2021,6:20 PM,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,31,85
+CAUQUENES,MAULE,7201,https://www.cauquenes.cl/,10/11/2021,11:20 AM,0,1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,25,55
+CHANCO,MAULE,7202,https://chanco.cl/,10/11/2021,11:23 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,,
+COLBUN,MAULE,7402,https://www.municipalidadcolbun.cl,10/11/2021,11:28 AM,,,,,,,,,,,,,,,,,,,,
+CONSTITUCION,MAULE,7102,http://www.constitucion.cl/,10/11/2021,11:29 AM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,48,70
+CUREPTO,MAULE,7103,http://www.curepto.cl/mcurepto_web/,10/11/2021,11:32 AM,1,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,13,49
+CURICO,MAULE,7301,https://web.curico.cl/,10/11/2021,11:36 AM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,38,44
+EMPEDRADO,MAULE,7104,https://empedrado.cl/,10/11/2021,11:40 AM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,9,27
+HUALAÑE,MAULE,7302,https://hualane.cl/SitioMunicipal/,10/11/2021,11:42 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,16,55
+LICANTEN,MAULE,7303,https://mlicanten.cl/,10/11/2021,11:45 AM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,12,19
+LINARES,MAULE,7401,https://www.munilinares.cl/,10/11/2021,11:48 AM,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,30,51
+LONGAVI,MAULE,7403,https://municipalidadlongavi.cl/,10/11/2021,12:09 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,9,23
+MAULE,MAULE,7105,http://www.comunademaule.cl/2016/,10/11/2021,12:13 PM,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,66,68
+MOLINA,MAULE,7304,https://web.molina.cl/,10/11/2021,12:16 PM,0,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,22,27
+PARRAL,MAULE,7404,https://www.parral.cl/,10/11/2021,12:19 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,,60
+PELARCO,MAULE,7106,https://www.pelarco.cl/portal/,10/11/2021,12:22 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,23,48
+PELLUHUE,MAULE,7203,https://www.munipelluhue.cl/,10/11/2021,12:26 PM,1,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,3,17
+PENCAHUE,MAULE,7107,https://www.mpencahue.cl/,10/11/2021,12:30 PM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,,
+RAUCO,MAULE,7305,https://www.munirauco.cl/sitio/,10/11/2021,12:35 PM,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,1,16,20
+RETIRO,MAULE,7405,https://www.retiro.cl/,10/11/2021,12:39 PM,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,36,59
+RIO CLARO,MAULE,7108,https://rioclaro.cl/site/,10/11/2021,12:41 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,20,39
+ROMERAL,MAULE,7306,https://muniromeral.cl/romeral/,10/11/2021,12:44 PM,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,43,62
+SAGRADA FAMILIA,MAULE,7307,https://www.sagradafamilia.cl/2020/,10/11/2021,12:48 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,,
+SAN CLEMENTE,MAULE,7109,https://www.sanclemente.cl/,10/11/2021,12:52 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,18,31
+SAN JAVIER,MAULE,7406,https://imsanjavier.cl/municipio/,10/11/2021,12:56 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,9,43
+SAN RAFAEL,MAULE,7110,https://munisanrafael.cl/,10/11/2021,1:04 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,66,73
+TALCA,MAULE,7101,https://www.talca.cl/,10/11/2021,1:06 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,20,46
+TENO,MAULE,7308,https://www.teno.cl/webteno/,10/11/2021,1:10 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,55,71
+VICHUQUEN,MAULE,7309,https://www.munivichuquen.cl/,10/11/2021,1:12 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,41,74
+VILLA ALEGRE,MAULE,7407,http://villalegre.cl/,10/11/2021,1:15 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,57,88
+YERBAS BUENAS,MAULE,7408,http://www.muniyerbasbuenas.cl/web/,10/11/2021,1:19 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,33,63
+ALTO BIOBIO,BIOBIO,8314,https://munialtobiobio.cl/,10/11/2021,1:23 PM,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,24,44
+ANTUCO,BIOBIO,8302,https://www.municipalidadantuco.cl/,10/11/2021,1:26 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,66,89
+ARAUCO,BIOBIO,8202,http://www.muniarauco.cl/,10/11/2021,3:24 PM,,,,,,,,,,,,,,,,,,,,
+BULNES,ÑUBLE,16102,http://imb.cl/,10/11/2021,3:26 PM,1,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,34,50
+CABRERO,BIOBIO,8303,http://www.cabrero.cl/,10/11/2021,3:30 PM,1,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,32,43
+CAÑETE,BIOBIO,8203,https://municanete.cl/,10/11/2021,3:34 PM,1,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,43,61
+CHIGUAYANTE,BIOBIO,8103,https://www.chiguayante.cl/,10/11/2021,3:36 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,36,44
+CHILLAN,ÑUBLE,16101,https://www.municipalidadchillan.cl/sitio/,10/11/2021,3:40 PM,1,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,41,66
+CHILLAN VIEJO,ÑUBLE,16103,https://chillanviejo.cl/,10/11/2021,3:43 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,30,55
+COBQUECURA,ÑUBLE,16202,https://cobquecura.cl/,10/11/2021,3:46 PM,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,4,54
+COELEMU,ÑUBLE,16203,http://www.municoelemu.cl/,10/11/2021,3:49 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,13,18
+COIHUECO,ÑUBLE,16302,https://municoihueco.cl/Inicio/,10/11/2021,3:52 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,17,26
+CONCEPCION,BIOBIO,8101,https://concepcion.cl/,10/11/2021,3:55 PM,1,1,1,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,13,44
+CONTULMO,BIOBIO,8204,https://www.contulmo.cl/,10/11/2021,4:01 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,13,51
+CORONEL,BIOBIO,8102,http://www.coronel.cl/,10/11/2021,4:04 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,12,59
+CURANILAHUE,BIOBIO,8205,http://www.munichue.cl/,10/11/2021,4:43 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,14,40
+EL CARMEN,ÑUBLE,16104,http://portal.municipalidadelcarmen.cl/,10/11/2021,4:48 PM,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,
+FLORIDA,BIOBIO,8104,https://muniflorida.cl/,10/11/2021,4:53 PM,1,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,23,75
+HUALPEN,BIOBIO,8112,http://www.hualpenciudad.cl/,10/11/2021,4:58 PM,0,1,1,0,1,0,1,1,0,1,0,0,0,0,1,0,0,1,10,44
+HUALQUI,BIOBIO,8105,https://www.munihualqui.cl/,10/11/2021,5:01 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,71,79
+LAJA,BIOBIO,8304,https://munilaja.cl/,10/11/2021,5:04 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,28,71
+LEBU,BIOBIO,8201,https://www.lebu.cl/,10/11/2021,5:07 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,78,68
+LOS ALAMOS,BIOBIO,8206,https://www.munilosalamos.cl/web/,10/11/2021,5:10 PM,0,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,20,82
+LOS ANGELES,BIOBIO,8301,https://www.losangeles.cl/,10/11/2021,5:13 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,20,53
+LOTA,BIOBIO,8106,https://www.lota.cl,10/11/2021,5:16 PM,,,,,,,,,,,,,,,,,,,,
+MULCHEN,BIOBIO,8305,https://www.munimulchen.cl/,10/11/2021,5:17 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,52,69
+NACIMIENTO,BIOBIO,8306,https://www.nacimiento.cl/index.php/es/,10/11/2021,5:26 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,16,43
+NEGRETE,BIOBIO,8307,https://www.muninegrete.cl/,10/11/2021,5:29 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,37,87
+NINHUE,ÑUBLE,16204,https://munininhue.cl/,10/11/2021,5:31 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,22,71
+ÑIQUEN,ÑUBLE,16303,https://www.muniniquen.cl/Sitio_Municipalidad/web/,10/11/2021,5:36 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,20,
+PEMUCO,ÑUBLE,16105,https://www.munipemuco.cl/,10/11/2021,5:39 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,40,63
+PENCO,BIOBIO,8107,http://penco.cl/,10/11/2021,5:43 PM,0,1,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,1,23,45
+PINTO,ÑUBLE,16106,https://www.municipalidaddepinto.cl/,11/11/2021,11:21 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,1,17
+PORTEZUELO,ÑUBLE,16205,http://www.municipalidaddeportezuelo.cl/Portada/,11/11/2021,11:26 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,3,38
+QUILACO,BIOBIO,8308,https://www.municipalidadquilaco.cl/web/,11/11/2021,11:43 AM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,58,63
+QUILLECO,BIOBIO,8309,https://www.municipalidadquilleco.cl/,11/11/2021,11:46 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,21,23
+QUILLON,ÑUBLE,16107,https://home.quillon.cl/,11/11/2021,11:49 AM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,,
+QUIRIHUE,ÑUBLE,16201,https://www.municipalidadquirihue.cl/?fbclid=IwAR2giqRmS1K6kVC_bvzgXoQyTGpfxwOeEOISJ_tMio3Eph_I8YmXek55724,11/11/2021,11:55 AM,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,39,68
+RANQUIL,ÑUBLE,16206,https://www.municipalidadranquil.cl/,11/11/2021,11:58 AM,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,63,83
+SAN CARLOS,ÑUBLE,16301,https://sancarlos.cl/munisancarlos.cl/web/,11/11/2021,12:03 PM,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,7,45
+SAN FABIAN,ÑUBLE,16304,http://www.sanfabian.cl/,11/11/2021,12:08 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,49,88
+SAN IGNACIO,ÑUBLE,16108,https://www.munisanignacio.cl/,11/11/2021,12:11 PM,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,14,57
+SAN NICOLAS,ÑUBLE,16305,https://www.municipalidadsannicolas.cl/,11/11/2021,12:15 PM,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,55,90
+SAN PEDRO DE LA PAZ,BIOBIO,8108,https://sanpedrodelapaz.cl/,11/11/2021,12:18 PM,,,,,,,,,,,,,,,,,,,,
+SAN ROSENDO,BIOBIO,8310,https://municipalidadsanrosendo.cl/,11/11/2021,12:19 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,30,66
+SANTA BARBARA,BIOBIO,8311,https://www.santabarbara.cl/,11/11/2021,12:24 PM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,17,44
+SANTA JUANA,BIOBIO,8109,https://www.santajuana.cl/,11/11/2021,12:27 PM,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,14,55
+TALCAHUANO,BIOBIO,8110,https://www.talcahuano.cl/,11/11/2021,12:31 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,14,16
+TIRUA,BIOBIO,8207,http://www.munitirua.com/,11/11/2021,12:37 PM,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,7,40
+TOME,BIOBIO,8111,https://www.tome.cl/,11/11/2021,12:40 PM,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,23,35
+TREHUACO,ÑUBLE,16207,https://www.trehuaco.com/Wordpress/,11/11/2021,12:44 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,40,58
+TUCAPEL,BIOBIO,8312,https://www.municipalidadtucapel.cl/,11/11/2021,12:47 PM,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,18,42
+YUMBEL,BIOBIO,8313,https://www.yumbel.cl/,11/11/2021,12:52 PM,1,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,64,83
+YUNGAY,ÑUBLE,16109,www.yungay.cl,11/11/2021,1:04 PM,,,,,,,,,,,,,,,,,,,,
+ANGOL,DE LA ARAUCANIA,9201,https://www.angol.cl/,11/11/2021,1:05 PM,1,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,,
+CARAHUE,DE LA ARAUCANIA,9102,http://carahue.cl/wp/,11/11/2021,1:09 PM,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,26,77
+CHOLCHOL,DE LA ARAUCANIA,9121,https://www.municholchol.cl/,11/11/2021,1:13 PM,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,43,93
+COLLIPULLI,DE LA ARAUCANIA,9202,https://www.sitio.municipalidadcollipulli.cl/,11/11/2021,1:16 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,72,65
+CUNCO,DE LA ARAUCANIA,9103,https://municunco.cl/,11/11/2021,1:20 PM,,,,,,,,,,,,,,,,,,,,
+CURACAUTIN,DE LA ARAUCANIA,9203,http://www.mcuracautin.cl/,11/11/2021,1:24 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,33,84
+CURARREHUE,DE LA ARAUCANIA,9104,https://curarrehue.cl/on/,11/11/2021,1:27 PM,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,23,48
+ERCILLA,DE LA ARAUCANIA,9204,http://muniercilla.cl/2018/,11/11/2021,1:32 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,52,81
+FREIRE,DE LA ARAUCANIA,9105,https://www.munifreire.cl/,11/11/2021,1:38 PM,,,,,,,,,,,,,,,,,,,,
+GALVARINO,DE LA ARAUCANIA,9106,http://www.galvarinochile.cl/webv2/,11/11/2021,1:39 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,37,73
+GORBEA,DE LA ARAUCANIA,9107,https://home.municipalidadgorbea.cl/,11/11/2021,1:41 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,33,56
+LAUTARO,DE LA ARAUCANIA,9108,https://munilautaro.cl/,11/11/2021,1:44 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,,
+LONCOCHE,DE LA ARAUCANIA,9109,https://municipalidaddeloncoche.cl/,11/11/2021,1:52 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,35,55
+LONQUIMAY,DE LA ARAUCANIA,9205,https://www.mlonquimay.cl/web/,11/11/2021,1:54 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,31,45
+LOS SAUCES,DE LA ARAUCANIA,9206,http://munilossauces.com/,11/11/2021,1:56 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,44,81
+LUMACO,DE LA ARAUCANIA,9207,https://www.munilumaco.cl/,11/11/2021,1:59 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,37,46
+MELIPEUCO,DE LA ARAUCANIA,9110,https://municipalidadmelipeuco.cl/,11/11/2021,2:04 PM,,,,,,,,,,,,,,,,,,,,
+NUEVA IMPERIAL,DE LA ARAUCANIA,9111,https://www.nuevaimperial.cl/,11/11/2021,2:05 PM,1,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,40,52
+PADRE LAS CASAS,DE LA ARAUCANIA,9112,http://www.padrelascasas.cl/newplc/,11/11/2021,2:09 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,9,43
+PERQUENCO,DE LA ARAUCANIA,9113,http://www.perquenco.cl/,11/11/2021,2:13 PM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,15,42
+PITRUFQUEN,DE LA ARAUCANIA,9114,http://www.mpitrufquen.cl/,11/11/2021,2:17 PM,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,19,45
+PUCON,DE LA ARAUCANIA,9115,https://municipalidadpucon.cl/,11/11/2021,2:21 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,35,57
+PUREN,DE LA ARAUCANIA,9208,http://www.munipuren.cl/Puren/,11/11/2021,2:24 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,47,75
+RENAICO,DE LA ARAUCANIA,9209,https://renaico.cl/site/,12/11/2021,12:51 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,19,33
+SAAVEDRA,DE LA ARAUCANIA,9116,https://munisaavedra.cl/,12/11/2021,12:54 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,20,54
+TEMUCO,DE LA ARAUCANIA,9101,https://www.temuco.cl/,12/11/2021,1:01 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,13,31
+TEODORO SCHMIDT,DE LA ARAUCANIA,9117,http://muniteodoro.cl/portal/,12/11/2021,1:05 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,11,54
+TOLTEN,DE LA ARAUCANIA,9118,http://www.tolten.cl/web/,12/11/2021,1:08 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,19,62
+TRAIGUEN,DE LA ARAUCANIA,9210,https://mtraiguen.cl/,12/11/2021,1:10 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,34,74
+VICTORIA,DE LA ARAUCANIA,9211,http://www.victoriachile.cl/,12/11/2021,1:14 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,6,27
+VILCUN,DE LA ARAUCANIA,9119,https://www.vilcun.cl/web/,12/11/2021,1:17 PM,0,1,1,0,1,0,0,1,1,1,0,1,0,0,1,0,0,0,39,80
+VILLARRICA,DE LA ARAUCANIA,9120,https://www.munivillarrica.cl/,12/11/2021,1:24 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,14,35
+CORRAL,DE LOS RIOS,14102,http://www.municipalidadcorral.cl/,12/11/2021,1:27 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,35,43
+FUTRONO,DE LOS RIOS,14202,https://www.munifutrono.cl/,12/11/2021,1:30 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,21,67
+LAGO RANCO ,DE LOS RIOS,14203,http://www.municipalidadlagoranco.cl/web/,12/11/2021,1:39 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,27
+LANCO,DE LOS RIOS,14103,https://www.munilanco.cl/,12/11/2021,1:43 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,33,70
+LA UNION,DE LOS RIOS,14201,https://www.munilaunioninfo.com/,12/11/2021,1:46 PM,1,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,19,62
+LOS LAGOS,DE LOS RIOS,14104,https://www.muniloslagos.cl/,12/11/2021,1:50 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,23,33
+MAFIL,DE LOS RIOS,14105,https://www.munimafil.cl/,12/11/2021,1:53 PM,0,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,29,41
+MARIQUINA,DE LOS RIOS,14106,http://munimariquina.cl/,12/11/2021,1:56 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,26,16
+PAILLACO,DE LOS RIOS,14107,https://www.munipaillaco.cl/,12/11/2021,2:04 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,33,73
+PANGUIPULLI,DE LOS RIOS,14108,https://municipalidadpanguipulli.cl/?fbclid=IwAR0PIThYhFtftd1Nlzm127zVps2R8CWwjMb5ASV4BiC0Do4AcPkl7ro1yXE,12/11/2021,2:08 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,11,46
+RIO BUENO,DE LOS RIOS,14204,https://www.muniriobueno.cl/,12/11/2021,2:12 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,20,40
+VALDIVIA,DE LOS RIOS,14101,https://www.munivaldivia.cl/,12/11/2021,2:14 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,13,35
+ANCUD,LOS LAGOS,10202,https://www.muniancud.cl/portal/,12/11/2021,2:19 PM,1,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,21,56
+CALBUCO,LOS LAGOS,10102,https://www.municipalidadcalbuco.cl/,12/11/2021,2:23 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,10,86
+CASTRO,LOS LAGOS,10201,https://www.castromunicipio.cl/,12/11/2021,2:29 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,19,65
+CHAITEN,LOS LAGOS,10401,https://www.municipalidadchaiten.cl/,12/11/2021,2:42 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,55,87
+CHONCHI,LOS LAGOS,10203,https://www.municipalidadchonchi.cl/,12/11/2021,2:45 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,32,54
+COCHAMO,LOS LAGOS,10103,https://municochamo.cl/,12/11/2021,2:48 PM,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,72,91
+CURACO DE VELEZ,LOS LAGOS,10204,http://curacodevelez.cl/2014/,12/11/2021,2:51 PM,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,43,61
+DALCAHUE,LOS LAGOS,10205,http://www.munidalcahue.cl/portal/,12/11/2021,2:54 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,0,28,35
+FRESIA,LOS LAGOS,10104,https://www.munifresia.cl/,12/11/2021,3:04 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,33,81
+FRUTILLAR,LOS LAGOS,10105,https://www.munifrutillar.cl/,12/11/2021,3:07 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,35,67
+FUTALEUFU,LOS LAGOS,10402,https://www.futaleufu.cl/,12/11/2021,3:10 PM,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,18,
+HUALAIHUE,LOS LAGOS,10403,https://www.municipalidadhualaihue.cl/,12/11/2021,3:15 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,70,86
+LLANQUIHUE,LOS LAGOS,10107,https://llanquihue.cl/,12/11/2021,3:19 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,26,53
+LOS MUERMOS,LOS LAGOS,10106,https://www.muermos.cl/4.1/,12/11/2021,3:21 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,27,61
+MAULLIN,LOS LAGOS,10108,https://munimaullin.cl/principal/,12/11/2021,3:25 PM,1,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,43,51
+OSORNO,LOS LAGOS,10301,https://www.municipalidadosorno.cl/,12/11/2021,3:29 PM,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,20,45
+PALENA,LOS LAGOS,10404,https://municipalidadpalena.cl/,15/11/2021,11:10 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,15,69
+PUERTO MONTT,LOS LAGOS,10101,https://www.puertomontt.cl/,15/11/2021,11:14 AM,0,1,1,1,0,0,1,1,1,1,0,0,1,0,1,0,0,0,23,51
+PUERTO OCTAY,LOS LAGOS,10302,https://munipuertoctay.cl/,15/11/2021,11:24 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,59,83
+PUERTO VARAS,LOS LAGOS,10109,https://ptovaras.cl/,15/11/2021,11:26 AM,1,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,61,59
+PUQUELDON,LOS LAGOS,10206,https://www.munipuqueldon.cl/,15/11/2021,11:36 AM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,59,88
+PURRANQUE,LOS LAGOS,10303,http://www.purranque.cl/,15/11/2021,11:39 AM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,29,22
+PUYEHUE,LOS LAGOS,10304,https://municipalidaddepuyehue.cl/,15/11/2021,11:43 AM,1,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,17,19
+QUEILEN,LOS LAGOS,10207,https://muniqueilen.cl/,15/11/2021,11:47 AM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,13,44
+QUELLON,LOS LAGOS,10208,https://muniquellon.cl/,15/11/2021,11:51 AM,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,12,73
+QUEMCHI,LOS LAGOS,10209,https://www.muniquemchi.cl/,15/11/2021,11:55 AM,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,11,56
+QUINCHAO,LOS LAGOS,10210,https://www.municipalidadquinchao.cl/cquinchao/,15/11/2021,11:59 AM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,32,56
+RIO NEGRO,LOS LAGOS,10305,http://www.rionegrochile.cl/www/,15/11/2021,12:03 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,25,63
+SAN JUAN DE LA COSTA,LOS LAGOS,10306,https://sanjuandelacosta.cl/,15/11/2021,12:09 PM,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,26,56
+SAN PABLO,LOS LAGOS,10307,https://municipalidadsanpablo.cl/,15/11/2021,12:13 PM,0,1,0,0,1,0,0,1,1,1,0,0,0,0,1,0,0,0,40,49
+AISEN,AISEN,11201,https://www.puertoaysen.cl/,15/11/2021,12:17 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,56,95
+CHILE CHICO,AISEN,11401,https://www.chilechico.cl/,15/11/2021,12:21 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,27,48
+CISNES,AISEN,11202,https://municipalidadcisnes.cl/,15/11/2021,12:25 PM,1,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,1,2,18
+COCHRANE,AISEN,11301,https://municochrane.cl/,15/11/2021,12:31 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,56,81
+COYHAIQUE,AISEN,11101,https://www.coyhaique.cl/portalmunicipalidad/index.php,15/11/2021,12:33 PM,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,48,68
+GUAITECAS,AISEN,11203,https://muniguaitecas.cl/,15/11/2021,12:37 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,15,54
+LAGO VERDE,AISEN,11102,https://comunalagoverde.cl/,15/11/2021,12:41 PM,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,19,22
+O'HIGGINS,AISEN,11302,http://www.municipalidadohiggins.cl/,15/11/2021,12:45 PM,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,54,70
+RIO IBAÑEZ,AISEN,11402,https://rioibanez.cl/,15/11/2021,1:02 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,1,16,10
+TORTEL,AISEN,11303,http://www.tortel.cl/,15/11/2021,1:07 PM,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,31,64
+ANTARTICA,MAGALLANES,12202,sin sitio web,15/11/2021,1:10 PM,,,,,,,,,,,,,,,,,,,,
+CABO DE HORNOS,MAGALLANES,12201,https://www.imcabodehornos.cl/,15/11/2021,1:11 PM,0,1,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,4,18
+LAGUNA BLANCA,MAGALLANES,12102,https://www.mlagunablanca.cl/,15/11/2021,1:14 PM,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,41,76
+NATALES,MAGALLANES,12401,https://portal.muninatales.cl/,15/11/2021,1:16 PM,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,20,58
+PORVENIR,MAGALLANES,12301,https://www.muniporvenir.cl/,15/11/2021,1:23 PM,0,1,1,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,57,63
+PRIMAVERA,MAGALLANES,12302,http://www.municipalidaddeprimavera.cl/,15/11/2021,1:27 PM,0,1,1,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,24,68
+PUNTA ARENAS,MAGALLANES,12101,https://www.puntaarenas.cl/,15/11/2021,1:30 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,1,53,44
+RIO VERDE,MAGALLANES,12103,https://www.rioverde.cl/,15/11/2021,1:33 PM,0,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,0,0,47,55
+SAN GREGORIO,MAGALLANES,12104,https://www.sangregorio.cl/,15/11/2021,1:36 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,1,0,0,0,40,70
+TIMAUKEL,MAGALLANES,12303,https://www.munitimaukel.cl/,15/11/2021,1:43 PM,0,1,1,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,6,61
+TORRES DEL PAINE,MAGALLANES,12402,https://www.munitorresdelpaine.cl/,15/11/2021,1:45 PM,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,38,85
