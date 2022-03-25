@@ -1,4 +1,4 @@
-﻿commune,region,cut_com,url,date_review,time_review,forms,news,search,webmap,streetmap,transportation,socialmedia,email,phone,mobile,online_procedures,followup,digital_certificate,citizen_folder,payments,personalization,participation,pladeco,pagespeed_mobile,pagespeed_desktop
+﻿commune,region,cut_com,url,date_review,time_review,forms,news,search,webmap,streetmap,transport,socialmedia,email,phone,mobile,transac,followup,digital_certificate,citizen,payments,personalization,part,pladeco,pagespeed_mobile,pagespeed_desktop
 ARICA,ARICA Y PARINACOTA,15101,https://www.muniarica.cl/home,03/11/2021,12:30 PM,0,1,0,0,1,0,1,0,1,1,1,0,1,0,1,0,0,0,8,34
 CAMARONES,ARICA Y PARINACOTA,15102,https://municamarones.cl/,03/11/2021,12:45 PM,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,17,12
 GENERAL LAGOS,ARICA Y PARINACOTA,15202,https://www.portalvisviri.cl/,03/11/2021,12:58 PM,1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,42,60
