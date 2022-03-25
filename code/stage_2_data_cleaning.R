@@ -41,6 +41,9 @@ names(cut_shapefiles)[7] = "area"
 ## EGI 2016
 egi_2016 <- foreign::read.dta("data/raw/EGI/EGI-2016-vor-Stata12.dta")
 
+## EGI 2019
+egi_2019 <- read.csv("data/raw/EGI/egi_2019.csv", encoding = "UTF-8")
+
 ## EGI 2021
 egi_2021 <- read.csv("data/raw/EGI/egi_2021.csv", encoding = "UTF-8")
 egi_2021 <- filter(egi_2021, cut_com != 12202)
@@ -87,7 +90,7 @@ ltm::cronbach.alpha(alpha_egi_2016, CI = TRUE, na.rm = TRUE)
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## EGI
-## egi_2021$search, egi_2021$email, egi_2021$digital_certificate
+## egi_2021$digital_certificate
 egi_2021$egi <- ((egi_2021$forms + egi_2021$news + egi_2021$webmap) * 0.25) + 
   ((egi_2021$streetmap + egi_2021$transport) * 0.50) +
   ((egi_2021$socialmedia + egi_2021$phone + egi_2021$mobile) * 0.75) +
