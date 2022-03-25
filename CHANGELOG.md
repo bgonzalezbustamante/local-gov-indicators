@@ -14,7 +14,9 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
-## [0.16.6] - 2022-03-25
+## [0.17.5] - 2022-03-25
+### Added
+- Scatters EGI indexes.
 ### Changed
 - Data cleaning code.
 - Minor corrections.
