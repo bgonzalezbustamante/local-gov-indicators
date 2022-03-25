@@ -187,3 +187,48 @@ local_gov_indicators_2021$egi_std <- NA
 ## Case-Level CSV
 write.csv(local_gov_indicators_2021, "data/tidy/cases/local_gov_indicators_2021.csv", 
           fileEncoding = "UTF-8", row.names =  FALSE)
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#### Scatters ####
+
+## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+library(ggplot2)
+
+rm(df.scatter)
+df_scatter <- data.frame(cut_com = local_gov_indicators_2016$cut_com,
+                         egi_2016 = local_gov_indicators_2016$egi_std,
+                         egi_2019 = local_gov_indicators_2019$egi,
+                         egi_2021 = local_gov_indicators_2021$egi)
+
+summary(lm(egi_2019 ~ egi_2016, data = df_scatter))
+summary(lm(egi_2021 ~ egi_2019, data = df_scatter))
+
+## pdf("results/figures/scatter_egi_2016_2019.pdf", width = 6.826666666666667, height = 5.12)
+## png("results/figures/scatter_egi_2016_2019.png", width = (1024*2), height = (768*2), units = 'px', res = 300)
+ggplot(df_scatter, aes(x = egi_2016, y = egi_2019)) + 
+  geom_point(alpha = 0.15) + 
+  geom_smooth(method = "loess", color = "tomato2", fill = "tomato1") +
+  ## geom_smooth(method = lm, colour = "grey30", alpha = 0.25) +
+  theme_minimal(base_size = 12) + theme(legend.position = "bottom") +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1, color = "black", size = 9)) +
+  labs(x = "EGI 2016", y = "EGI 2019", title = "E-Government Index", subtitle = "Chilean Municipalities", 
+       colour = NULL, caption = "Source: González-Bustamante and Aguilar (2022).") +
+  theme(plot.margin = unit(c(0.5,0.5,0.5,0.5), "cm")) 
+## dev.off()
+
+## pdf("results/figures/scatter_egi_2019_2021.pdf", width = 6.826666666666667, height = 5.12)
+## png("results/figures/scatter_egi_2019_2021.png", width = (1024*2), height = (768*2), units = 'px', res = 300)
+ggplot(df_scatter, aes(x = egi_2019, y = egi_2021)) + 
+  geom_point(alpha = 0.15) + 
+  geom_smooth(method = "loess", color = "tomato2", fill = "tomato1") +
+  ## geom_smooth(method = lm, colour = "grey30", alpha = 0.25) +
+  theme_minimal(base_size = 12) + theme(legend.position = "bottom") +
+  theme(panel.grid.minor = element_blank()) +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1, color = "black", size = 9)) +
+  labs(x = "EGI 2016", y = "EGI 2019", title = "E-Government Index", subtitle = "Chilean Municipalities", 
+       colour = NULL, caption = "Source: González-Bustamante and Aguilar (2022).") +
+  theme(plot.margin = unit(c(0.5,0.5,0.5,0.5), "cm")) 
+## dev.off()
