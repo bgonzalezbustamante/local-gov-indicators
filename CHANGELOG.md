@@ -11,12 +11,13 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Exploratory data analysis code.
 - Import data code.
 - BibTeX file.
-### Removed
-- Raw EGi 2021 measurement.
-- Raw EGi 2019 measurement.
-- Raw EGi 2016 measurement.
 
 ## [Released]
+
+## [0.16.6] - 2022-03-25
+### Changed
+- Data cleaning code.
+- Minor corrections.
 
 ## [0.16.5] - 2022-03-24
 ### Changed
@@ -71,6 +72,7 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - SAE estimations.
 
 ## [0.10.2] - 2022-03-03
+### Added
 - Starting CUT data revision.
 
 ## [0.9.2] - 2022-03-02
@@ -92,8 +94,6 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Scripts and folders names standardisation.
 - Revision of upgrade versioning.
 - Minor corrections.
-### Deprecated
-- Raw EGi 2021 measurement.
 
 ## [0.6.2] - 2021-11-15
 ### Added
@@ -122,9 +122,6 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 ## [0.3.0] - 2021-11-02
 ### Added
 - Raw EGi 2016 measurement.
-### Deprecated
-- Raw EGi 2016 measurement.
-- Raw EGi 2019 measurement.
 
 ## [0.2.0] - 2021-10-31
 ### Added
