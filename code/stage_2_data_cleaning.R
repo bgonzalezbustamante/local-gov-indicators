@@ -25,6 +25,7 @@ rm(list = ls())
 
 ## Packages
 library(tidyverse)
+library(foreign)
 ## library(ltm)
 library(psych)
 
@@ -39,8 +40,8 @@ names(cut_shapefiles)[6] = "commune"
 names(cut_shapefiles)[7] = "area"
 
 ## EGI 2016
-egi_2016 <- foreign::read.dta("data/raw/EGI/EGI-2016-vor-Stata12.dta")
-nam
+egi_2016 <- read.dta("data/raw/EGI/EGI-2016-vor-Stata12.dta")
+names(egi_2016)[2] = "cut_com"
 
 ## EGI 2019
 egi_2019 <- read.csv("data/raw/EGI/egi_2019.csv", encoding = "UTF-8")
@@ -62,7 +63,7 @@ alpha_egi_2016 <- select(egi_2016, forms, news, webmap, streetmap, transport, so
                          mobile, transac, followup, citizen, payments, part)
 ## alpha_egi_2016 <- alpha_egi_2016 %>% 
 ## filter(if_all(everything(), ~ !is.na(.x)))
-alpha(alpha_egi_2016)
+## alpha(alpha_egi_2016)
 ltm::cronbach.alpha(alpha_egi_2016, CI = TRUE, na.rm = TRUE)
 
 ## EGI
@@ -71,6 +72,7 @@ egi_2016$egi <- ((egi_2016$forms + egi_2016$news + egi_2016$webmap) * 0.25) +
   ((egi_2016$socialmedia + egi_2016$phone + egi_2016$mobile) * 0.75) +
   ((egi_2016$transac + egi_2016$followup + egi_2016$citizen + egi_2016$payments) * 1.00) +
   ((egi_2016$part) * 1.25)
+sum(egi_2016$egi, na.rm = TRUE)
 
 ## egi_2016$egi[which(egi_2016$commune == "LAS CONDES")]
 ## egi_2016$egi[which(egi_2016$commune == "LO BARNECHEA")]
@@ -82,6 +84,24 @@ score_2019 <- (3 * 0.25) + (2 * 0.50) + (3 * 0.75) + (5 * 1.00) + (1 * 1.25)
 egi_2016$egi_std <- (egi_2016$egi / score_2016) * score_2019
 
 ## Local Gov Indicators
+local_gov_indicators_2016 <- cut_shapefiles
+local_gov_indicators_2016 <- cbind(year = 2016, local_gov_indicators_2016)
+local_gov_indicators_2016 <- cbind(id = rownames(local_gov_indicators_2016), local_gov_indicators_2016)
+
+## Corrections
+source("code/functions/cut_new_region.R", encoding = "UTF-8")
+
+## Merge
+local_gov_indicators_2016 <- left_join(local_gov_indicators_2016, egi_2016[c("cut_com", "egi", "egi_std")], by = "cut_com")
+sum(local_gov_indicators_2016$egi, na.rm = TRUE)
+
+## local_gov_indicators_2016 %>%
+  ## group_by(cut_reg) %>%
+  ## summarise(mean = mean(egi, na.rm = TRUE), n = n())
+
+## Case-Level CSV
+write.csv(local_gov_indicators_2016, "data/tidy/cases/local_gov_indicators_2016.csv", 
+          fileEncoding = "UTF-8", row.names =  FALSE)
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -97,8 +117,36 @@ subsample_2019 <- filter(egi_2019, region == "COQUIMBO" | region == "VALPARAISO"
 
 alpha_egi_2019 <- select(subsample_2019, forms, news, webmap, streetmap, transport, socialmedia, phone, 
                          mobile, transac, followup, digital_certificate, citizen, payments, part)
-alpha(alpha_egi_2019)
+## alpha(alpha_egi_2019)
 ltm::cronbach.alpha(alpha_egi_2019, CI = TRUE, na.rm = TRUE)
+
+## EGI
+egi_2019$egi <- ((egi_2019$forms + egi_2019$news + egi_2019$webmap) * 0.25) + 
+  ((egi_2019$streetmap + egi_2019$transport) * 0.50) +
+  ((egi_2019$socialmedia + egi_2019$phone + egi_2019$mobile) * 0.75) +
+  ((egi_2019$transac + egi_2019$followup + egi_2019$digital_certificate + egi_2019$citizen + egi_2019$payments) * 1.00) +
+  ((egi_2019$part) * 1.25)
+sum(egi_2019$egi, na.rm = TRUE)
+
+## Local Gov Indicators
+local_gov_indicators_2019 <- cut_shapefiles
+local_gov_indicators_2019 <- cbind(year = 2019, local_gov_indicators_2019)
+local_gov_indicators_2019 <- cbind(id = rownames(local_gov_indicators_2019), local_gov_indicators_2019)
+
+## Corrections
+egi_2019$cut_com[which(egi_2019$commune == "MAFIL")] <- local_gov_indicators_2019$cut_com[which(local_gov_indicators_2019$commune == "Máfil")]
+egi_2019$cut_com[which(egi_2019$commune == "PUTRE")] <- 15201
+egi_2019$cut_com[which(egi_2019$commune == "GENERAL LAGOS")] <- 15202
+egi_2019$cut_com[which(egi_2019$commune == "RANQUIL")] <- local_gov_indicators_2019$cut_com[which(local_gov_indicators_2019$commune == "Ranquil")]
+
+## Merge
+local_gov_indicators_2019 <- left_join(local_gov_indicators_2019, egi_2019[c("cut_com", "egi")], by = "cut_com")
+sum(local_gov_indicators_2019$egi, na.rm = TRUE)
+local_gov_indicators_2019$egi_std <- NA
+
+## Case-Level CSV
+write.csv(local_gov_indicators_2019, "data/tidy/cases/local_gov_indicators_2019.csv", 
+          fileEncoding = "UTF-8", row.names =  FALSE)
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -115,7 +163,7 @@ subsample_2021 <- filter(egi_2021, region == "COQUIMBO" | region == "VALPARAISO"
 ## Incorporating digital_certificate
 alpha_egi_2021 <- select(subsample_2021, forms, news, webmap, streetmap, transport, socialmedia, phone, 
                          mobile, transac, followup, digital_certificate, citizen, payments, part)
-alpha(alpha_egi_2021)
+## alpha(alpha_egi_2021)
 ltm::cronbach.alpha(alpha_egi_2021, CI = TRUE, na.rm = TRUE)
 
 ## EGI
@@ -124,12 +172,18 @@ egi_2021$egi <- ((egi_2021$forms + egi_2021$news + egi_2021$webmap) * 0.25) +
   ((egi_2021$socialmedia + egi_2021$phone + egi_2021$mobile) * 0.75) +
   ((egi_2021$transac + egi_2021$followup + egi_2021$digital_certificate + egi_2021$citizen + egi_2021$payments) * 1.00) +
   ((egi_2021$part) * 1.25)
+sum(egi_2021$egi, na.rm = TRUE)
 
 ## Local Gov Indicators
 local_gov_indicators_2021 <- cut_shapefiles
 local_gov_indicators_2021 <- cbind(year = 2021, local_gov_indicators_2021)
 local_gov_indicators_2021 <- cbind(id = rownames(local_gov_indicators_2021), local_gov_indicators_2021)
 
-## write.csv(local_gov_indicators_2021, "data/tidy/cases/local_gov_indicators_2021.csv", 
-          ## fileEncoding = "UTF-8", row.names =  FALSE)
+## Merge
+local_gov_indicators_2021 <- left_join(local_gov_indicators_2021, egi_2021[c("cut_com", "egi")], by = "cut_com")
+sum(local_gov_indicators_2021$egi, na.rm = TRUE)
+local_gov_indicators_2021$egi_std <- NA
 
+## Case-Level CSV
+write.csv(local_gov_indicators_2021, "data/tidy/cases/local_gov_indicators_2021.csv", 
+          fileEncoding = "UTF-8", row.names =  FALSE)
