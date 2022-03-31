@@ -14,12 +14,21 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
+## [0.18.5] - 2022-03-31
+### Added
+- GNU GPLv3 license on GitHub repository.
+- LPPL v1.3c license on GitHub repository.
+### Removed
+- MIT license on GitHub repository.
+
 ## [0.17.5] - 2022-03-25
 ### Added
 - Scatters EGI indexes.
 ### Changed
 - Data cleaning code.
 - Minor corrections.
+### Deprecated
+- MIT license on GitHub repository.
 
 ## [0.16.5] - 2022-03-24
 ### Changed
