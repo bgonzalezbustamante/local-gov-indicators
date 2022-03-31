@@ -86,7 +86,7 @@ WIP
 
 The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](CCBY40.md), and the underlying code used to format and display that content is licensed under a [GNU GPLv3 license](LICENSE.md). In particular, the codebook has been compiled with XeLaTeX using a code licensed under an [LPPL v1.3c license](LPPL13.md).
 
-The above implies that the data set may be shared, reused, adapted as long as appropriate acknowledgement is given. In addition, the code may be shared, reused, adapted as long as the source is disclosed, the changes are stated, and the same [GNU GPLv3 license](LICENSE.md) is used.
+The above implies that the data sets may be shared, reused, adapted as long as appropriate acknowledgement is given. In addition, the code may be shared, reused, adapted as long as the source is disclosed, the changes are stated, and the same [GNU GPLv3 license](LICENSE.md) is used.
 
 ## Contribute
 
