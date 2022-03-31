@@ -18,6 +18,8 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 ### Added
 - GNU GPLv3 license on GitHub repository.
 - LPPL v1.3c license on GitHub repository.
+### Changed
+- Minor corrections.
 ### Removed
 - MIT license on GitHub repository.
 
@@ -137,7 +139,7 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 ## [0.2.0] - 2021-10-31
 ### Added
 - Changelog in MD format on GitHub repository.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
 - Local EGi 2016 data set in DTA format (DOI: 10.7910/DVN/CMU36B).
 - Raw EGi 2019 measurement.
 
