@@ -14,6 +14,10 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
+## [0.18.6] - 2022-04-01
+### Changed
+- Minor corrections.
+
 ## [0.18.5] - 2022-03-31
 ### Added
 - GNU GPLv3 license on GitHub repository.
