@@ -32,20 +32,20 @@ WIP
 ```
 ### Coverage
 
-|  | EGI | SAE | SINIM | INE | SUBTEL | CPLT |
+|  | EGI | TA | SAE | SINIM | INE | SUBTEL |
 |---|:---:|:---:|:---:|:---:|:---:|---|
-| 2010 | :x: | :x: |  |  |  |  |
-| 2011 | :x: | :white_check_mark: |  |  |  |  |
-| 2012 | :x: | :x: |  |  |  |  |
-| 2013 | :x: | :white_check_mark: |  |  |  |  |
-| 2014 | :x: | :x: |  |  |  |  |
-| 2015 | :x: | :white_check_mark: |  |  |  |  |
-| 2016 | :white_check_mark: | :x: |  |  |  |  |
-| 2017 | :x: | :white_check_mark: |  |  |  |  |
-| 2018 | :x: | :x: |  |  |  |  |
-| 2019 | :white_check_mark: | :x: |  |  |  |  |
-| 2020 | :x: | :white_check_mark: |  |  |  |  |
-| 2021 | :white_check_mark: | :x: |  |  |  |  |
+| 2010 | :x: | | :x: |  |  |  |
+| 2011 | :x: | | :white_check_mark: |  |  |  |
+| 2012 | :x: | | :x: |  |  |  |
+| 2013 | :x: | | :white_check_mark: |  |  |  |
+| 2014 | :x: | | :x: |  |  |  |
+| 2015 | :x: | | :white_check_mark: |  |  |  |
+| 2016 | :white_check_mark: | | :x: |  |  |  |
+| 2017 | :x: | | :white_check_mark: |  |  |  |
+| 2018 | :x: | | :x: |  |  |  |
+| 2019 | :white_check_mark: | | :x: |  |  |  |
+| 2020 | :x: | | :white_check_mark: |  |  |  |
+| 2021 | :white_check_mark: | | :x: |  |  |  |
 
 ## Metadata and Preservation
 
