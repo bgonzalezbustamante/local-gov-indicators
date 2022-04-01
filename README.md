@@ -15,13 +15,20 @@ WIP
   graph TD;
       A[/Shapefiles<br/>IDE-Chile/] --> B[(Baseline<br/>Data Set)];
       B --> C[(Case-Level<br/>Data Sets)];
-      D[EGI] --> C;
-      E[/OS-MDS/] --> C;
-      F[/SINIM/] --> C;
-      G[/INE/] --> C;
-      H[/SUBTEL/] --> C;
-      I[/CPLT/] --> C;
-      C --> J[(Case-Level<br/>Time-Series<br/>Data Set)];
+      D[/Municipalities<br/>Websites/] --> E[(EGI)];
+      E[(EGI)] --> C;
+      F[/CPLT/] --> G[(TA)];
+      F[/CPLT/] --> H[(DAI)];
+      F[/CPLT/] --> I[(FOIA)];
+      G --> C;
+      H --> C;
+      I --> C;
+      J[/OS-MDS/] --> K[(SAE)];
+      K --> C;
+      L[/SINIM/] --> C;
+      M[/INE/] --> C;
+      N[/SUBTEL/] --> C;
+      C --> Z[(Case-Level<br/>Time-Series<br/>Data Set)];
 ```
 ### Coverage
 
