@@ -32,7 +32,7 @@ WIP
 ```
 ### Coverage
 
-|  | EGI | OS-MDS | SINIM | INE | SUBTEL | CPLT |
+|  | EGI | SAE | SINIM | INE | SUBTEL | CPLT |
 |---|:---:|:---:|:---:|:---:|:---:|---|
 | 2010 | :x: | :x: |  |  |  |  |
 | 2011 | :x: | :white_check_mark: |  |  |  |  |
