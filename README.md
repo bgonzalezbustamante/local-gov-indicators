@@ -15,7 +15,7 @@ WIP
   graph TD;
       A[/Shapefiles<br/>IDE-Chile/] --> B[(Baseline<br/>Data Set)];
       B --> C[(Case-Level<br/>Data Sets)];
-      D[/Municipalities<br/>Websites/] --> E[(EGI)];
+      D[\Municipalities<br/>Websites/] --> E[(EGI)];
       E[(EGI)] --> C;
       F[/CPLT/] --> G[(TA)];
       F[/CPLT/] --> H[(DAI)];
