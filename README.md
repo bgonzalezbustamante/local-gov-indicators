@@ -28,6 +28,8 @@ WIP
       L[/SINIM/] --> C;
       M[/INE/] --> C;
       N[/SUBTEL/] --> C;
+      C --> V[Validation];
+      V --> C;
       C --> Z[(Case-Level<br/>Time-Series<br/>Data Set)];
 ```
 ### Coverage
