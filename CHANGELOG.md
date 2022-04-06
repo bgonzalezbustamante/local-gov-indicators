@@ -14,6 +14,10 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
+## [0.18.8] - 2022-04-06
+### Changed
+- Minor corrections.
+
 ## [0.18.7] - 2022-04-03
 ### Changed
 - Minor corrections.
