@@ -12,7 +12,16 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Import data code.
 - BibTeX file.
 
+## [0.18.10] - TBC
+### Changed
+- Data cleaning code.
+- Minor corrections.
+
 ## [Released]
+
+## [0.18.9] - 2022-04-12
+### Changed
+- CPLT data sets.
 
 ## [0.18.8] - 2022-04-06
 ### Changed
