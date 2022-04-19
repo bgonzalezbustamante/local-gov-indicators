@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to "Data Set on Local Government Indicators in Chile" will be documented in this file.
+All notable changes to "Data Set on Local Government Indicators in Chile" will be documented in this file. Automatic updates: Transparency sources backups.
 
 ## [Unreleased]
 
@@ -12,16 +12,22 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Import data code.
 - BibTeX file.
 
-## [0.18.10] - TBC
+## [0.18.11] - TBC
 ### Changed
 - Data cleaning code.
 - Minor corrections.
 
 ## [Released]
 
+## [0.18.10] - 2022-04-19
+### Changed
+- Minor corrections.
+
 ## [0.18.9] - 2022-04-12
 ### Changed
 - CPLT data sets.
+### Changed
+- Automatic transparency sources backups.
 
 ## [0.18.8] - 2022-04-06
 ### Changed
