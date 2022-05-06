@@ -34,20 +34,20 @@ WIP
 ```
 ### Coverage
 
-|  | EGI | TA | SAE | SINIM | INE | SUBTEL |
-|---|:---:|:---:|:---:|:---:|:---:|---|
-| 2010 | :x: | :x: | :x: |  |  |  |
-| 2011 | :x: | :x: | :white_check_mark: |  |  |  |
-| 2012 | :x: | :white_check_mark: | :x: |  |  |  |
-| 2013 | :x: | :white_check_mark: | :white_check_mark: |  |  |  |
-| 2014 | :x: | :white_check_mark: | :x: |  |  |  |
-| 2015 | :x: | :white_check_mark: | :white_check_mark: |  |  |  |
-| 2016 | :white_check_mark: | :white_check_mark: | :x: |  |  |  |
-| 2017 | :x: | :white_check_mark: | :white_check_mark: |  |  |  |
-| 2018 | :x: | :x: | :x: |  |  |  |
-| 2019 | :white_check_mark: | :x: | :x: |  |  |  |
-| 2020 | :x: | :x: | :white_check_mark: |  |  |  |
-| 2021 | :white_check_mark: | :x: | :x: |  |  |  |
+|  | EGI | TA | DAI | SAE | SINIM | INE | SUBTEL |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|---|
+| 2010 | :x: | :x: | :x: | :x: |  |  |  |
+| 2011 | :x: | :x: | :x: | :white_check_mark: |  |  |  |
+| 2012 | :x: | :white_check_mark: | :x: | :x: |  |  |  |
+| 2013 | :x: | :white_check_mark: | :x: | :white_check_mark: |  |  |  |
+| 2014 | :x: | :white_check_mark: | :white_check_mark: | :x: |  |  |  |
+| 2015 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2016 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: |  |  |  |
+| 2017 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2018 | :x: | :x: | :white_check_mark: | :x: |  |  |  |
+| 2019 | :white_check_mark: | :x: | :x: | :x: |  |  |  |
+| 2020 | :x: | :x: | :x: | :white_check_mark: |  |  |  |
+| 2021 | :white_check_mark: | :x: | :x: | :x: |  |  |  |
 
 ## Metadata and Preservation
 
