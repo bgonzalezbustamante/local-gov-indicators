@@ -1,7 +1,7 @@
 # :closed_lock_with_key: local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.18.10-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](CCBY40.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.18.11-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](CCBY40.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Overview
 
@@ -34,20 +34,20 @@ WIP
 ```
 ### Coverage
 
-|  | EGI | TA | SAE | SINIM | INE | SUBTEL |
-|---|:---:|:---:|:---:|:---:|:---:|---|
-| 2010 | :x: | | :x: |  |  |  |
-| 2011 | :x: | | :white_check_mark: |  |  |  |
-| 2012 | :x: | | :x: |  |  |  |
-| 2013 | :x: | | :white_check_mark: |  |  |  |
-| 2014 | :x: | | :x: |  |  |  |
-| 2015 | :x: | | :white_check_mark: |  |  |  |
-| 2016 | :white_check_mark: | | :x: |  |  |  |
-| 2017 | :x: | | :white_check_mark: |  |  |  |
-| 2018 | :x: | | :x: |  |  |  |
-| 2019 | :white_check_mark: | | :x: |  |  |  |
-| 2020 | :x: | | :white_check_mark: |  |  |  |
-| 2021 | :white_check_mark: | | :x: |  |  |  |
+|  | EGI | TA | DAI | SAE | SINIM | INE | SUBTEL |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|---|
+| 2010 | :x: | :x: | :x: | :x: |  |  |  |
+| 2011 | :x: | :x: | :x: | :white_check_mark: |  |  |  |
+| 2012 | :x: | :white_check_mark: | :x: | :x: |  |  |  |
+| 2013 | :x: | :white_check_mark: | :x: | :white_check_mark: |  |  |  |
+| 2014 | :x: | :white_check_mark: | :white_check_mark: | :x: |  |  |  |
+| 2015 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2016 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: |  |  |  |
+| 2017 | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2018 | :x: | :x: | :white_check_mark: | :x: |  |  |  |
+| 2019 | :white_check_mark: | :x: | :x: | :x: |  |  |  |
+| 2020 | :x: | :x: | :x: | :white_check_mark: |  |  |  |
+| 2021 | :white_check_mark: | :x: | :x: | :x: |  |  |  |
 
 ## Metadata and Preservation
 
@@ -59,9 +59,11 @@ X directories and XX files.
 
 In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
 
-## Storage
+## Storage and Backup
 
 The GitHub repository has controlled access with Two-Factor Authentication `2FA` with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)) and a mobile application (Diego Aguilar, [ORCID iD 0000-0003-4531-5922](https://orcid.org/0000-0003-4531-5922)). USB devices and the mobile application issue one-time passwords to generate a cryptographic authentication `FIDO2` and `U2F`.
+
+Moreover, the repository is backed up on Hierarchical File Server `HFS` for recovery in case of incidents. This backup is located on the University of Oxford hub connected to `Code42` Cloud Backup encrypted with `256-bit AES`. The backup is performed with every change on GitHub and receives weekly light maintenance and a deep one every month. This backup will be secured until May 2024. An extension of this period will be evaluated on budget availability.
 
 ## Getting Started
 
