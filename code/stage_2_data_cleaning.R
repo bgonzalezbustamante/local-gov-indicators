@@ -43,6 +43,16 @@ names(cut_shapefiles)[7] = "area"
 egi_2016 <- read.dta("data/raw/EGI/EGI-2016-vor-Stata12.dta")
 names(egi_2016)[2] = "cut_com"
 
+## TA 2016
+ta_2016 <- read.csv("data/raw/CPLT/TA/ta_municipios_2016.csv", encoding = "UTF-8")
+names(ta_2016)[1] = "cplt_code"
+names(ta_2016)[3] = "ta"
+
+## DAI 2016
+dai_2016 <- read.csv("data/raw/CPLT/DAI/dai_municipios_online_2016.csv", encoding = "UTF-8")
+names(dai_2016)[2] = "cplt_code"
+names(dai_2016)[3] = "dai"
+
 ## EGI 2019
 egi_2019 <- read.csv("data/raw/EGI/egi_2019.csv", encoding = "UTF-8")
 names(egi_2019)[1] = "region"
@@ -98,6 +108,17 @@ sum(local_gov_indicators_2016$egi, na.rm = TRUE)
 ## local_gov_indicators_2016 %>%
   ## group_by(cut_reg) %>%
   ## summarise(mean = mean(egi, na.rm = TRUE), n = n())
+
+## CPLT Data
+source("code/functions/cplt_code.R", encoding = "UTF-8")
+local_gov_indicators_2016 <- bind_cols(local_gov_indicators_2016, cplt_code)
+names(local_gov_indicators_2016)[12] = "cplt_code"
+local_gov_indicators_2016 <- left_join(local_gov_indicators_2016, ta_2016[1:3], by = "cplt_code")
+local_gov_indicators_2016 <- left_join(local_gov_indicators_2016, dai_2016[1:3], by = "cplt_code")
+local_gov_indicators_2016$dai <- local_gov_indicators_2016$dai %>% factor %>% str_replace(',', '.') %>% as.numeric
+local_gov_indicators_2016$cplt_code <- NULL
+local_gov_indicators_2016$Nombre.x <- NULL
+local_gov_indicators_2016$Nombre.y <- NULL
 
 ## Case-Level CSV
 write.csv(local_gov_indicators_2016, "data/tidy/cases/local_gov_indicators_2016.csv", 
