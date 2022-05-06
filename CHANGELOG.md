@@ -12,12 +12,17 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Import data code.
 - BibTeX file.
 
-## [0.18.11] - TBC
+## [0.18.12] - TBC
 ### Changed
 - Data cleaning code.
 - Minor corrections.
 
 ## [Released]
+
+## [0.18.11] - 2022-05-06
+### Changed
+- Data cleaning code.
+- Minor corrections.
 
 ## [0.18.10] - 2022-04-19
 ### Changed
