@@ -1,7 +1,7 @@
 # :closed_lock_with_key: local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.18.10-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](CCBY40.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.18.11-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](CCBY40.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Overview
 
@@ -36,18 +36,18 @@ WIP
 
 |  | EGI | TA | SAE | SINIM | INE | SUBTEL |
 |---|:---:|:---:|:---:|:---:|:---:|---|
-| 2010 | :x: | | :x: |  |  |  |
-| 2011 | :x: | | :white_check_mark: |  |  |  |
-| 2012 | :x: | | :x: |  |  |  |
-| 2013 | :x: | | :white_check_mark: |  |  |  |
-| 2014 | :x: | | :x: |  |  |  |
-| 2015 | :x: | | :white_check_mark: |  |  |  |
-| 2016 | :white_check_mark: | | :x: |  |  |  |
-| 2017 | :x: | | :white_check_mark: |  |  |  |
-| 2018 | :x: | | :x: |  |  |  |
-| 2019 | :white_check_mark: | | :x: |  |  |  |
-| 2020 | :x: | | :white_check_mark: |  |  |  |
-| 2021 | :white_check_mark: | | :x: |  |  |  |
+| 2010 | :x: | :x: | :x: |  |  |  |
+| 2011 | :x: | :x: | :white_check_mark: |  |  |  |
+| 2012 | :x: | :white_check_mark: | :x: |  |  |  |
+| 2013 | :x: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2014 | :x: | :white_check_mark: | :x: |  |  |  |
+| 2015 | :x: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2016 | :white_check_mark: | :white_check_mark: | :x: |  |  |  |
+| 2017 | :x: | :white_check_mark: | :white_check_mark: |  |  |  |
+| 2018 | :x: | :x: | :x: |  |  |  |
+| 2019 | :white_check_mark: | :x: | :x: |  |  |  |
+| 2020 | :x: | :x: | :white_check_mark: |  |  |  |
+| 2021 | :white_check_mark: | :x: | :x: |  |  |  |
 
 ## Metadata and Preservation
 
