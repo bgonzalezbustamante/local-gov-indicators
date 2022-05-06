@@ -196,7 +196,6 @@ write.csv(local_gov_indicators_2021, "data/tidy/cases/local_gov_indicators_2021.
 
 library(ggplot2)
 
-rm(df.scatter)
 df_scatter <- data.frame(cut_com = local_gov_indicators_2016$cut_com,
                          egi_2016 = local_gov_indicators_2016$egi_std,
                          egi_2019 = local_gov_indicators_2019$egi,
@@ -228,7 +227,7 @@ ggplot(df_scatter, aes(x = egi_2019, y = egi_2021)) +
   theme_minimal(base_size = 12) + theme(legend.position = "bottom") +
   theme(panel.grid.minor = element_blank()) +
   theme(axis.text.x = element_text(angle = 35, hjust = 1, color = "black", size = 9)) +
-  labs(x = "EGI 2016", y = "EGI 2019", title = "E-Government Index", subtitle = "Chilean Municipalities", 
+  labs(x = "EGI 2019", y = "EGI 2021", title = "E-Government Index", subtitle = "Chilean Municipalities", 
        colour = NULL, caption = "Source: González-Bustamante and Aguilar (2022).") +
   theme(plot.margin = unit(c(0.5,0.5,0.5,0.5), "cm")) 
 ## dev.off()
