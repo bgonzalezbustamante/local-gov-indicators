@@ -1,0 +1,11 @@
+1. El 23 de marzo de 2022 se realizó una SAIP al CPLT (CT001T0015682)
+2. El CPLT deriva la solicitud de información a todos los municipios de Chile el 08/04/2022
+3. Hacia la tercera semana de mayo de 2022 se comienzan a interponer amparos sobre municipios que a la fecha no habían contestado
+4. Siendo el 20 de junio de 2022, el estado es el siguiente:
+	- 265/345 respuestas entregadas lo que representa un 76,81%
+	- 80/345 respuestas pendientes 23,18%
+		- De estas 80 respuestas pendientes:
+ 			- 74 fueron objeto de amparo durante la tercera semana de mayo.
+			- 5 por error no fueron incluidas en aquella interposición de amparo (Alto Biobío, General Lagos, María Pinto, Retiro, Treguaco)
+			- 1 fue objeto de amparo el 20/06/2022, una vez vencido el plazo de prorroga notificado por dicho Municipio (Chonchi)
+
