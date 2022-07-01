@@ -1,7 +1,7 @@
 # :closed_lock_with_key: local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Version](https://img.shields.io/badge/version-v0.18.12-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](CCBY40.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LPPL13.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Version](https://img.shields.io/badge/version-v0.19.12-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE-GPL.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](LICENSE-CC.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LICENSE-LPPL.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Overview
 
@@ -134,7 +134,7 @@ Ariane Carvajal ([ORCID iD 0000-0002-6181-7458](https://orcid.org/0000-0002-6181
 
 Andrea González ([ORCID iD 0000-0002-6822-0056](https://orcid.org/0000-0002-6822-0056)): Investigation and resources.
 
-Elinor Luco ([GitHub elinorlucoq](https://github.com/elinorlucoq)): Investigation.
+Elinor Luco ([ORCID iD 0000-0003-3370-4322](https://orcid.org/0000-0003-3370-4322)): Investigation.
 
 ### Latest Revision
 
