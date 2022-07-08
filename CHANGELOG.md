@@ -12,24 +12,29 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 - Import data code.
 - BibTeX file.
 
-## [0.19.13] - TBC
-### Changed
-- Data cleaning code.
-- Minor corrections.
-
 ## [Released]
 
-## [0.19.12] - 2022-07-01
+## [0.20.12] - 2022-08-08
+### Changed
+- SUBTEL raw data sets.
+- SAE estimations.
+- Data cleaning code.
+- Revision of upgrade versioning.
+- Minor corrections.
+
+## [0.20.11] - 2022-07-01
 ### Changed
 - SINIM raw data sets.
 - Revision of upgrade versioning.
 - Minor corrections.
 
-## [0.19.11] - 2022-05-26
+## [0.20.10] - 2022-05-26
 ### Changed
 - Minor corrections.
 
-## [0.19.10] - 2022-05-06
+## [0.20.9] - 2022-05-06
+### Added
+- SUBTEL raw data sets.
 ### Changed
 - Data cleaning code.
 - Minor corrections.
