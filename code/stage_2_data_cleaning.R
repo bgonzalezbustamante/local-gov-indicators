@@ -4,7 +4,7 @@
 
 ## Data Cleaning Local Government Indicators
 ## R version 4.1.0 (2021-05-18) -- "Camp Pontanezen"
-## Date: March 2022
+## Date: March and July 2022
 
 ## Bastián González-Bustamante (University of Oxford, UK)
 ## https://bgonzalezbustamante.com
@@ -120,6 +120,9 @@ local_gov_indicators_2016$cplt_code <- NULL
 local_gov_indicators_2016$Nombre.x <- NULL
 local_gov_indicators_2016$Nombre.y <- NULL
 
+## SAE Data
+local_gov_indicators_2016$sae <- NA
+
 ## Case-Level CSV
 write.csv(local_gov_indicators_2016, "data/tidy/cases/local_gov_indicators_2016.csv", 
           fileEncoding = "UTF-8", row.names =  FALSE)
@@ -165,6 +168,13 @@ local_gov_indicators_2019 <- left_join(local_gov_indicators_2019, egi_2019[c("cu
 sum(local_gov_indicators_2019$egi, na.rm = TRUE)
 local_gov_indicators_2019$egi_std <- NA
 
+## CPLT Data
+local_gov_indicators_2019$ta <- NA
+local_gov_indicators_2019$dai <- NA
+
+## SAE Data
+local_gov_indicators_2019$sae <- NA
+
 ## Case-Level CSV
 write.csv(local_gov_indicators_2019, "data/tidy/cases/local_gov_indicators_2019.csv", 
           fileEncoding = "UTF-8", row.names =  FALSE)
@@ -205,6 +215,13 @@ local_gov_indicators_2021 <- left_join(local_gov_indicators_2021, egi_2021[c("cu
 sum(local_gov_indicators_2021$egi, na.rm = TRUE)
 local_gov_indicators_2021$egi_std <- NA
 
+## CPLT Data
+local_gov_indicators_2021$ta <- NA
+local_gov_indicators_2021$dai <- NA
+
+## SAE Data
+local_gov_indicators_2021$sae <- NA
+
 ## Case-Level CSV
 write.csv(local_gov_indicators_2021, "data/tidy/cases/local_gov_indicators_2021.csv", 
           fileEncoding = "UTF-8", row.names =  FALSE)
@@ -229,8 +246,8 @@ summary(lm(egi_2021 ~ egi_2019, data = df_scatter))
 ## png("results/figures/scatter_egi_2016_2019.png", width = (1024*2), height = (768*2), units = 'px', res = 300)
 ggplot(df_scatter, aes(x = egi_2016, y = egi_2019)) + 
   geom_point(alpha = 0.15) + 
-  geom_smooth(method = "loess", color = "tomato2", fill = "tomato1") +
-  ## geom_smooth(method = lm, colour = "grey30", alpha = 0.25) +
+  ## geom_smooth(method = "loess", color = "tomato2", fill = "tomato1") +
+  geom_smooth(method = lm, colour = "grey30", alpha = 0.25) +
   theme_minimal(base_size = 12) + theme(legend.position = "bottom") +
   theme(panel.grid.minor = element_blank()) +
   theme(axis.text.x = element_text(angle = 35, hjust = 1, color = "black", size = 9)) +
@@ -243,8 +260,8 @@ ggplot(df_scatter, aes(x = egi_2016, y = egi_2019)) +
 ## png("results/figures/scatter_egi_2019_2021.png", width = (1024*2), height = (768*2), units = 'px', res = 300)
 ggplot(df_scatter, aes(x = egi_2019, y = egi_2021)) + 
   geom_point(alpha = 0.15) + 
-  geom_smooth(method = "loess", color = "tomato2", fill = "tomato1") +
-  ## geom_smooth(method = lm, colour = "grey30", alpha = 0.25) +
+  ## geom_smooth(method = "loess", color = "tomato2", fill = "tomato1") +
+  geom_smooth(method = lm, colour = "grey30", alpha = 0.25) +
   theme_minimal(base_size = 12) + theme(legend.position = "bottom") +
   theme(panel.grid.minor = element_blank()) +
   theme(axis.text.x = element_text(angle = 35, hjust = 1, color = "black", size = 9)) +

@@ -1,346 +1,346 @@
-"id","year","cut_reg","region","cut_prov","province","cut_com","commune","area","egi","egi_std"
-"1",2019,1,"Tarapacá",11,"Iquique",1101,"Iquique",2289.53,4.75,NA
-"2",2019,1,"Tarapacá",11,"Iquique",1107,"Alto Hospicio",571.19,3.5,NA
-"3",2019,1,"Tarapacá",14,"Tamarugal",1401,"Pozo Almonte",13765.8,2.25,NA
-"4",2019,1,"Tarapacá",14,"Tamarugal",1402,"Camiña",2199.83,2,NA
-"5",2019,1,"Tarapacá",14,"Tamarugal",1403,"Colchane",4007.84,1.25,NA
-"6",2019,1,"Tarapacá",14,"Tamarugal",1404,"Huara",10472.5,4.25,NA
-"7",2019,1,"Tarapacá",14,"Tamarugal",1405,"Pica",8982.12,4.25,NA
-"8",2019,2,"Antofagasta",21,"Antofagasta",2101,"Antofagasta",30683.5,5.75,NA
-"9",2019,2,"Antofagasta",21,"Antofagasta",2102,"Mejillones",3576.07,6.5,NA
-"10",2019,2,"Antofagasta",21,"Antofagasta",2103,"Sierra Gorda",12883,3.5,NA
-"11",2019,2,"Antofagasta",21,"Antofagasta",2104,"Taltal",20412.1,7.25,NA
-"12",2019,2,"Antofagasta",22,"El Loa",2201,"Calama",15533.2,5.25,NA
-"13",2019,2,"Antofagasta",22,"El Loa",2202,"Ollagüe",2925.54,2.25,NA
-"14",2019,2,"Antofagasta",22,"El Loa",2203,"San Pedro de Atacama",23602.2,3,NA
-"15",2019,2,"Antofagasta",23,"Tocopilla",2301,"Tocopilla",4120.83,4.25,NA
-"16",2019,2,"Antofagasta",23,"Tocopilla",2302,"María Elena",12330.1,3,NA
-"17",2019,3,"Atacama",31,"Copiapó",3101,"Copiapó",17782.9,3,NA
-"18",2019,3,"Atacama",31,"Copiapó",3102,"Caldera",3680.47,5,NA
-"19",2019,3,"Atacama",31,"Copiapó",3103,"Tierra Amarilla",11251.1,2.75,NA
-"20",2019,3,"Atacama",32,"Chañaral",3201,"Chañaral",5758.87,3.25,NA
-"21",2019,3,"Atacama",32,"Chañaral",3202,"Diego de Almagro",18969.2,3,NA
-"22",2019,3,"Atacama",33,"Huasco",3301,"Vallenar",7226.86,4.5,NA
-"23",2019,3,"Atacama",33,"Huasco",3302,"Alto del Carmen",6155.88,2,NA
-"24",2019,3,"Atacama",33,"Huasco",3303,"Freirina",3222.55,4,NA
-"25",2019,3,"Atacama",33,"Huasco",3304,"Huasco",1602.25,3.25,NA
-"26",2019,4,"Coquimbo",41,"Elqui",4101,"La Serena",1901.22,5.5,NA
-"27",2019,4,"Coquimbo",41,"Elqui",4102,"Coquimbo",1431.77,6,NA
-"28",2019,4,"Coquimbo",41,"Elqui",4103,"Andacollo",514.2,3,NA
-"29",2019,4,"Coquimbo",41,"Elqui",4104,"La Higuera",4165.74,2,NA
-"30",2019,4,"Coquimbo",41,"Elqui",4105,"Paiguano",1513.94,3.5,NA
-"31",2019,4,"Coquimbo",41,"Elqui",4106,"Vicuña",7579.04,4.5,NA
-"32",2019,4,"Coquimbo",42,"Choapa",4201,"Illapel",2629.06,2.75,NA
-"33",2019,4,"Coquimbo",42,"Choapa",4202,"Canela",2196.81,3,NA
-"34",2019,4,"Coquimbo",42,"Choapa",4203,"Los Vilos",1859.5,4.5,NA
-"35",2019,4,"Coquimbo",42,"Choapa",4204,"Salamanca",3445.76,NA,NA
-"36",2019,4,"Coquimbo",43,"Limarí",4301,"Ovalle",3546.21,6,NA
-"37",2019,4,"Coquimbo",43,"Limarí",4302,"Combarbalá",2296.04,4.75,NA
-"38",2019,4,"Coquimbo",43,"Limarí",4303,"Monte Patria",4211.35,6,NA
-"39",2019,4,"Coquimbo",43,"Limarí",4304,"Punitaqui",1092.42,4.25,NA
-"40",2019,4,"Coquimbo",43,"Limarí",4305,"Río Hurtado",2204.5,5,NA
-"41",2019,5,"Valparaíso",51,"Valparaíso",5101,"Valparaíso",310.87,6.25,NA
-"42",2019,5,"Valparaíso",51,"Valparaíso",5102,"Casablanca",954.63,2,NA
-"43",2019,5,"Valparaíso",51,"Valparaíso",5104,"Juan Fernández",110.55,2.5,NA
-"44",2019,5,"Valparaíso",51,"Valparaíso",5105,"Puchuncaví",299.68,5.5,NA
-"45",2019,5,"Valparaíso",51,"Valparaíso",5107,"Quintero",146.06,5,NA
-"46",2019,5,"Valparaíso",52,"Isla de Pascua",5201,"Isla de Pascua",163.83,2,NA
-"47",2019,5,"Valparaíso",53,"Los Andes",5301,"Los Andes",1233.75,6.5,NA
-"48",2019,5,"Valparaíso",53,"Los Andes",5302,"Calle Larga",321.23,6,NA
-"49",2019,5,"Valparaíso",53,"Los Andes",5303,"Rinconada",122.82,4.5,NA
-"50",2019,5,"Valparaíso",53,"Los Andes",5304,"San Esteban",1374.51,6.75,NA
-"51",2019,5,"Valparaíso",54,"Petorca",5401,"La Ligua",1163.02,4.5,NA
-"52",2019,5,"Valparaíso",54,"Petorca",5402,"Cabildo",1455.15,5,NA
-"53",2019,5,"Valparaíso",54,"Petorca",5403,"Papudo",167.12,5.75,NA
-"54",2019,5,"Valparaíso",54,"Petorca",5404,"Petorca",1515.74,5,NA
-"55",2019,5,"Valparaíso",54,"Petorca",5405,"Zapallar",288.27,4,NA
-"56",2019,5,"Valparaíso",55,"Quillota",5502,"Calera",59.97,5,NA
-"57",2019,5,"Valparaíso",55,"Quillota",5503,"Hijuelas",268.15,4,NA
-"58",2019,5,"Valparaíso",55,"Quillota",5504,"La Cruz",77.86,4.25,NA
-"59",2019,5,"Valparaíso",55,"Quillota",5506,"Nogales",405.49,4,NA
-"60",2019,5,"Valparaíso",56,"San Antonio",5601,"San Antonio",400.04,7.75,NA
-"61",2019,5,"Valparaíso",56,"San Antonio",5602,"Algarrobo",176.3,7.5,NA
-"62",2019,5,"Valparaíso",56,"San Antonio",5603,"Cartagena",243.86,2.25,NA
-"63",2019,5,"Valparaíso",56,"San Antonio",5604,"El Quisco",51.64,9,NA
-"64",2019,5,"Valparaíso",56,"San Antonio",5605,"El Tabo",99.58,5.5,NA
-"65",2019,5,"Valparaíso",56,"San Antonio",5606,"Santo Domingo",536.92,8,NA
-"66",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5701,"San Felipe",186.82,7.5,NA
-"67",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5702,"Catemu",361.85,6.5,NA
-"68",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5703,"Llaillay",348.83,2.5,NA
-"69",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5704,"Panquehue",121.26,6,NA
-"70",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5705,"Putaendo",1451.23,2.5,NA
-"71",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5706,"Santa María",165.71,4,NA
-"72",2019,5,"Valparaíso",58,"Marga Marga",5801,"Quilpué",536.48,6.25,NA
-"73",2019,5,"Valparaíso",58,"Marga Marga",5803,"Olmué",231.32,7.25,NA
-"74",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6101,"Rancagua",260.94,5.25,NA
-"75",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6102,"Codegua",284.17,4.25,NA
-"76",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6103,"Coinco",97.34,4.75,NA
-"77",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6104,"Coltauco",222.02,4.75,NA
-"78",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6105,"Doñihue",80.47,4.5,NA
-"79",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6106,"Graneros",112.45,5.5,NA
-"80",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6107,"Las Cabras",751.28,5.75,NA
-"81",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6108,"Machalí",2593.18,6.5,NA
-"82",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6109,"Malloa",220.65,NA,NA
-"83",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6110,"Mostazal",525.72,5.25,NA
-"84",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6111,"Olivar",44.22,4.5,NA
-"85",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6112,"Peumo",155.15,4.75,NA
-"86",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6113,"Pichidegua",319.47,1,NA
-"87",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6114,"Quinta de Tilcoco",86.75,3.25,NA
-"88",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6115,"Rengo",585.04,4.25,NA
-"89",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6116,"Requínoa",677.18,5.75,NA
-"90",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6117,"San Vicente",484.76,3.25,NA
-"91",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6201,"Pichilemu",715.89,6.25,NA
-"92",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6202,"La Estrella",431.44,3,NA
-"93",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6203,"Litueche",613.64,6,NA
-"94",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6204,"Marchihue",657.65,6.5,NA
-"95",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6205,"Navidad",301.4,5,NA
-"96",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6206,"Paredones",572.51,6.75,NA
-"97",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6301,"San Fernando",2321.18,5,NA
-"98",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6302,"Chépica",477.33,1.75,NA
-"99",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6303,"Chimbarongo",509.03,6.25,NA
-"100",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6304,"Lolol",596.92,5.5,NA
-"101",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6305,"Nancagua",151.21,4.5,NA
-"102",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6306,"Palmilla",235.79,5.25,NA
-"103",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6307,"Peralillo",283.03,4.5,NA
-"104",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6308,"Placilla",144.4,4.75,NA
-"105",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6309,"Pumanque",441.31,4.5,NA
-"106",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6310,"Santa Cruz",393.53,1.75,NA
-"107",2019,7,"Maule",71,"Talca",7101,"Talca",232.05,5,NA
-"108",2019,7,"Maule",71,"Talca",7102,"Constitución",1339.62,1.75,NA
-"109",2019,7,"Maule",71,"Talca",7103,"Curepto",1070.81,2.75,NA
-"110",2019,7,"Maule",71,"Talca",7104,"Empedrado",565.5,4.75,NA
-"111",2019,7,"Maule",71,"Talca",7105,"Maule",243.05,6.75,NA
-"112",2019,7,"Maule",71,"Talca",7106,"Pelarco",330.93,6.5,NA
-"113",2019,7,"Maule",71,"Talca",7107,"Pencahue",956.23,4,NA
-"114",2019,7,"Maule",71,"Talca",7108,"Río Claro",434.71,5.5,NA
-"115",2019,7,"Maule",71,"Talca",7109,"San Clemente",4500.58,4.5,NA
-"116",2019,7,"Maule",71,"Talca",7110,"San Rafael",261.97,3.5,NA
-"117",2019,7,"Maule",72,"Cauquenes",7201,"Cauquenes",2126.16,NA,NA
-"118",2019,7,"Maule",72,"Cauquenes",7202,"Chanco",528.01,4,NA
-"119",2019,7,"Maule",72,"Cauquenes",7203,"Pelluhue",369.56,6,NA
-"120",2019,7,"Maule",73,"Curicó",7301,"Curicó",1334.33,5.5,NA
-"121",2019,7,"Maule",73,"Curicó",7302,"Hualañé",629.36,4.75,NA
-"122",2019,7,"Maule",73,"Curicó",7303,"Licantén",273.01,5.75,NA
-"123",2019,7,"Maule",73,"Curicó",7304,"Molina",1516.82,7.5,NA
-"124",2019,7,"Maule",73,"Curicó",7305,"Rauco",306.73,5,NA
-"125",2019,7,"Maule",73,"Curicó",7306,"Romeral",1602.87,6,NA
-"126",2019,7,"Maule",73,"Curicó",7307,"Sagrada Familia",554.88,4,NA
-"127",2019,7,"Maule",73,"Curicó",7308,"Teno",618.52,7,NA
-"128",2019,7,"Maule",73,"Curicó",7309,"Vichuquén",452,3.75,NA
-"129",2019,7,"Maule",74,"Linares",7401,"Linares",1466.62,5.25,NA
-"130",2019,7,"Maule",74,"Linares",7402,"Colbún",2926.88,4,NA
-"131",2019,7,"Maule",74,"Linares",7403,"Longaví",1453.37,5.25,NA
-"132",2019,7,"Maule",74,"Linares",7404,"Parral",1638.81,5.5,NA
-"133",2019,7,"Maule",74,"Linares",7405,"Retiro",827.42,1.75,NA
-"134",2019,7,"Maule",74,"Linares",7406,"San Javier",1312.57,4.75,NA
-"135",2019,7,"Maule",74,"Linares",7407,"Villa Alegre",188.67,1.75,NA
-"136",2019,7,"Maule",74,"Linares",7408,"Yerbas Buenas",259.03,3,NA
-"137",2019,8,"Biobío",81,"Concepción",8102,"Coronel",281.27,3.25,NA
-"138",2019,8,"Biobío",81,"Concepción",8104,"Florida",605.89,2,NA
-"139",2019,8,"Biobío",81,"Concepción",8106,"Lota",114.69,2,NA
-"140",2019,8,"Biobío",81,"Concepción",8109,"Santa Juana",777.43,4,NA
-"141",2019,8,"Biobío",81,"Concepción",8110,"Talcahuano",92.55,6.25,NA
-"142",2019,8,"Biobío",82,"Arauco",8201,"Lebu",564.34,2,NA
-"143",2019,8,"Biobío",82,"Arauco",8202,"Arauco",959.62,5.5,NA
-"144",2019,8,"Biobío",82,"Arauco",8203,"Cañete",1088.57,5.25,NA
-"145",2019,8,"Biobío",82,"Arauco",8204,"Contulmo",638.95,4.25,NA
-"146",2019,8,"Biobío",82,"Arauco",8205,"Curanilahue",1002.76,4.5,NA
-"147",2019,8,"Biobío",82,"Arauco",8206,"Los Alamos",600.38,1.75,NA
-"148",2019,8,"Biobío",82,"Arauco",8207,"Tirúa",626.54,NA,NA
-"149",2019,8,"Biobío",83,"Biobío",8301,"Los Angeles",1749.02,6,NA
-"150",2019,8,"Biobío",83,"Biobío",8302,"Antuco",1957.43,3,NA
-"151",2019,8,"Biobío",83,"Biobío",8303,"Cabrero",657.03,4.75,NA
-"152",2019,8,"Biobío",83,"Biobío",8304,"Laja",345.18,4.5,NA
-"153",2019,8,"Biobío",83,"Biobío",8305,"Mulchén",1922.24,3.75,NA
-"154",2019,8,"Biobío",83,"Biobío",8306,"Nacimiento",904.52,1.5,NA
-"155",2019,8,"Biobío",83,"Biobío",8307,"Negrete",155.33,3.75,NA
-"156",2019,8,"Biobío",83,"Biobío",8308,"Quilaco",1124.64,1.75,NA
-"157",2019,8,"Biobío",83,"Biobío",8309,"Quilleco",1118.68,5.75,NA
-"158",2019,8,"Biobío",83,"Biobío",8310,"San Rosendo",94.45,3.75,NA
-"159",2019,8,"Biobío",83,"Biobío",8311,"Santa Bárbara",1251.76,5,NA
-"160",2019,8,"Biobío",83,"Biobío",8312,"Tucapel",914.28,4.75,NA
-"161",2019,8,"Biobío",83,"Biobío",8313,"Yumbel",727.1,6.25,NA
-"162",2019,8,"Biobío",83,"Biobío",8314,"Alto Biobío",2124.77,4,NA
-"163",2019,9,"La Araucanía",91,"Cautín",9101,"Temuco",466.89,7.5,NA
-"164",2019,9,"La Araucanía",91,"Cautín",9102,"Carahue",1336.81,4.5,NA
-"165",2019,9,"La Araucanía",91,"Cautín",9103,"Cunco",1890.34,NA,NA
-"166",2019,9,"La Araucanía",91,"Cautín",9104,"Curarrehue",1167.15,2.25,NA
-"167",2019,9,"La Araucanía",91,"Cautín",9105,"Freire",870.08,4.75,NA
-"168",2019,9,"La Araucanía",91,"Cautín",9106,"Galvarino",567.86,3.75,NA
-"169",2019,9,"La Araucanía",91,"Cautín",9107,"Gorbea",690.43,4,NA
-"170",2019,9,"La Araucanía",91,"Cautín",9108,"Lautaro",906.29,3.75,NA
-"171",2019,9,"La Araucanía",91,"Cautín",9109,"Loncoche",971.27,4.5,NA
-"172",2019,9,"La Araucanía",91,"Cautín",9110,"Melipeuco",1107.69,2,NA
-"173",2019,9,"La Araucanía",91,"Cautín",9111,"Nueva Imperial",730.73,2.25,NA
-"174",2019,9,"La Araucanía",91,"Cautín",9112,"Padre Las Casas",463.83,3,NA
-"175",2019,9,"La Araucanía",91,"Cautín",9113,"Perquenco",331.03,5.25,NA
-"176",2019,9,"La Araucanía",91,"Cautín",9114,"Pitrufquén",583.25,6,NA
-"177",2019,9,"La Araucanía",91,"Cautín",9115,"Pucón",1248.06,5,NA
-"178",2019,9,"La Araucanía",91,"Cautín",9116,"Saavedra",398.35,6.75,NA
-"179",2019,9,"La Araucanía",91,"Cautín",9117,"Teodoro Schmidt",656.17,3.75,NA
-"180",2019,9,"La Araucanía",91,"Cautín",9118,"Toltén",851.8,4.75,NA
-"181",2019,9,"La Araucanía",91,"Cautín",9119,"Vilcún",1416.48,6,NA
-"182",2019,9,"La Araucanía",91,"Cautín",9120,"Villarrica",1292.66,6.5,NA
-"183",2019,9,"La Araucanía",91,"Cautín",9121,"Cholchol",427.14,2.75,NA
-"184",2019,9,"La Araucanía",92,"Malleco",9201,"Angol",1197.32,5.25,NA
-"185",2019,9,"La Araucanía",92,"Malleco",9202,"Collipulli",1306.73,5,NA
-"186",2019,9,"La Araucanía",92,"Malleco",9203,"Curacautín",1658.66,3.75,NA
-"187",2019,9,"La Araucanía",92,"Malleco",9204,"Ercilla",498.91,2.5,NA
-"188",2019,9,"La Araucanía",92,"Malleco",9205,"Lonquimay",3928.81,3.5,NA
-"189",2019,9,"La Araucanía",92,"Malleco",9206,"Los Sauces",848.07,4.25,NA
-"190",2019,9,"La Araucanía",92,"Malleco",9207,"Lumaco",1109.98,2.5,NA
-"191",2019,9,"La Araucanía",92,"Malleco",9208,"Purén",463.96,1.75,NA
-"192",2019,9,"La Araucanía",92,"Malleco",9209,"Renaico",265.49,NA,NA
-"193",2019,9,"La Araucanía",92,"Malleco",9210,"Traiguén",897.07,3.75,NA
-"194",2019,9,"La Araucanía",92,"Malleco",9211,"Victoria",1262.59,3.5,NA
-"195",2019,10,"Los Lagos",101,"Llanquihue",10101,"Puerto Montt",1670.35,7,NA
-"196",2019,10,"Los Lagos",101,"Llanquihue",10102,"Calbuco",587.38,4.75,NA
-"197",2019,10,"Los Lagos",101,"Llanquihue",10103,"Cochamó",3981.1,5.25,NA
-"198",2019,10,"Los Lagos",101,"Llanquihue",10104,"Fresia",1275.62,3,NA
-"199",2019,10,"Los Lagos",101,"Llanquihue",10105,"Frutillar",828.25,4,NA
-"200",2019,10,"Los Lagos",101,"Llanquihue",10106,"Los Muermos",1229.62,6,NA
-"201",2019,10,"Los Lagos",101,"Llanquihue",10107,"Llanquihue",433.02,4.5,NA
-"202",2019,10,"Los Lagos",101,"Llanquihue",10108,"Maullín",822.95,1.5,NA
-"203",2019,10,"Los Lagos",101,"Llanquihue",10109,"Puerto Varas",4028.8,5,NA
-"204",2019,10,"Los Lagos",102,"Chiloé",10201,"Castro",471.38,5.5,NA
-"205",2019,10,"Los Lagos",102,"Chiloé",10202,"Ancud",1754.07,4.5,NA
-"206",2019,10,"Los Lagos",102,"Chiloé",10203,"Chonchi",1361.08,4.5,NA
-"207",2019,10,"Los Lagos",102,"Chiloé",10204,"Curaco de Vélez",79.85,3.75,NA
-"208",2019,10,"Los Lagos",102,"Chiloé",10205,"Dalcahue",1229.21,3.75,NA
-"209",2019,10,"Los Lagos",102,"Chiloé",10206,"Puqueldón",96.58,3,NA
-"210",2019,10,"Los Lagos",102,"Chiloé",10207,"Queilén",330.88,5.75,NA
-"211",2019,10,"Los Lagos",102,"Chiloé",10208,"Quellón",3360.3,2,NA
-"212",2019,10,"Los Lagos",102,"Chiloé",10209,"Quemchi",438.3,2,NA
-"213",2019,10,"Los Lagos",102,"Chiloé",10210,"Quinchao",158.73,2,NA
-"214",2019,10,"Los Lagos",103,"Osorno",10301,"Osorno",954.57,4.75,NA
-"215",2019,10,"Los Lagos",103,"Osorno",10302,"Puerto Octay",1793.82,5,NA
-"216",2019,10,"Los Lagos",103,"Osorno",10303,"Purranque",1451.58,5,NA
-"217",2019,10,"Los Lagos",103,"Osorno",10304,"Puyehue",1635.28,2.75,NA
-"218",2019,10,"Los Lagos",103,"Osorno",10305,"Río Negro",1281.02,2.25,NA
-"219",2019,10,"Los Lagos",103,"Osorno",10306,"San Juan de la Costa",1506.02,2,NA
-"220",2019,10,"Los Lagos",103,"Osorno",10307,"San Pablo",629.94,2.25,NA
-"221",2019,10,"Los Lagos",104,"Palena",10401,"Chaitén",8256.01,2.25,NA
-"222",2019,10,"Los Lagos",104,"Palena",10402,"Futaleufú",1236.22,2.75,NA
-"223",2019,10,"Los Lagos",104,"Palena",10403,"Hualaihué",2834.53,5.75,NA
-"224",2019,10,"Los Lagos",104,"Palena",10404,"Palena",2656.01,3,NA
-"225",2019,11,"Aysén del General Carlos Ibáñez del Campo",111,"Coihaique",11101,"Coihaique",7280.46,6.25,NA
-"226",2019,11,"Aysén del General Carlos Ibáñez del Campo",111,"Coihaique",11102,"Lago Verde",5440.42,5,NA
-"227",2019,11,"Aysén del General Carlos Ibáñez del Campo",112,"Aisén",11201,"Aisén",29879.3,5.75,NA
-"228",2019,11,"Aysén del General Carlos Ibáñez del Campo",112,"Aisén",11202,"Cisnes",15418.3,4.5,NA
-"229",2019,11,"Aysén del General Carlos Ibáñez del Campo",112,"Aisén",11203,"Guaitecas",631.38,4.5,NA
-"230",2019,11,"Aysén del General Carlos Ibáñez del Campo",113,"Capitán Prat",11301,"Cochrane",8629.21,2.75,NA
-"231",2019,11,"Aysén del General Carlos Ibáñez del Campo",113,"Capitán Prat",11302,"O'Higgins",7781.76,2.75,NA
-"232",2019,11,"Aysén del General Carlos Ibáñez del Campo",113,"Capitán Prat",11303,"Tortel",19977.3,2.75,NA
-"233",2019,11,"Aysén del General Carlos Ibáñez del Campo",114,"General Carrera",11401,"Chile Chico",5739.01,8,NA
-"234",2019,11,"Aysén del General Carlos Ibáñez del Campo",114,"General Carrera",11402,"Río Ibáñez",6019.41,1.75,NA
-"235",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12101,"Punta Arenas",17771.4,1.25,NA
-"236",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12102,"Laguna Blanca",3567.32,5,NA
-"237",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12104,"San Gregorio",6706.74,1.75,NA
-"238",2019,12,"Magallanes y de la Antártica Chilena",122,"Antártica Chilena",12201,"Cabo de Hornos",15720.3,6,NA
-"239",2019,12,"Magallanes y de la Antártica Chilena",123,"Tierra del Fuego",12301,"Porvenir",7457.05,5,NA
-"240",2019,12,"Magallanes y de la Antártica Chilena",123,"Tierra del Fuego",12302,"Primavera",3946.46,1.75,NA
-"241",2019,12,"Magallanes y de la Antártica Chilena",123,"Tierra del Fuego",12303,"Timaukel",11011.8,2.75,NA
-"242",2019,12,"Magallanes y de la Antártica Chilena",124,"Última Esperanza",12401,"Natales",48938.2,6.5,NA
-"243",2019,12,"Magallanes y de la Antártica Chilena",124,"Última Esperanza",12402,"Torres del Paine",6215.16,5,NA
-"244",2019,13,"Metropolitana de Santiago",131,"Santiago",13115,"Lo Barnechea",1023.61,7.25,NA
-"245",2019,13,"Metropolitana de Santiago",132,"Cordillera",13202,"Pirque",444.71,5,NA
-"246",2019,13,"Metropolitana de Santiago",132,"Cordillera",13203,"San José de Maipo",4982.37,6,NA
-"247",2019,13,"Metropolitana de Santiago",134,"Maipo",13404,"Paine",677.52,4.25,NA
-"248",2019,13,"Metropolitana de Santiago",135,"Melipilla",13501,"Melipilla",1352.65,6.25,NA
-"249",2019,13,"Metropolitana de Santiago",135,"Melipilla",13502,"Alhué",844.43,4.5,NA
-"250",2019,13,"Metropolitana de Santiago",135,"Melipilla",13503,"Curacaví",694.1,6.25,NA
-"251",2019,13,"Metropolitana de Santiago",135,"Melipilla",13504,"María Pinto",394.3,7.25,NA
-"252",2019,13,"Metropolitana de Santiago",135,"Melipilla",13505,"San Pedro",793.11,3.75,NA
-"253",2019,13,"Metropolitana de Santiago",136,"Talagante",13603,"Isla de Maipo",189.62,4.25,NA
-"254",2019,14,"Los Ríos",141,"Valdivia",14101,"Valdivia",1018.32,6,NA
-"255",2019,14,"Los Ríos",141,"Valdivia",14102,"Corral",729.42,5.75,NA
-"256",2019,14,"Los Ríos",141,"Valdivia",14103,"Lanco",533.04,6.25,NA
-"257",2019,14,"Los Ríos",141,"Valdivia",14104,"Los Lagos",1788.82,6.75,NA
-"258",2019,14,"Los Ríos",141,"Valdivia",14105,"Máfil",579.15,6,NA
-"259",2019,14,"Los Ríos",141,"Valdivia",14106,"Mariquina",1319.22,4.75,NA
-"260",2019,14,"Los Ríos",141,"Valdivia",14107,"Paillaco",901.57,4,NA
-"261",2019,14,"Los Ríos",141,"Valdivia",14108,"Panguipulli",3297.47,6.5,NA
-"262",2019,14,"Los Ríos",142,"Ranco",14201,"La Unión",2131.24,2.75,NA
-"263",2019,14,"Los Ríos",142,"Ranco",14202,"Futrono",2090.51,3.5,NA
-"264",2019,14,"Los Ríos",142,"Ranco",14203,"Lago Ranco",1763.14,5.75,NA
-"265",2019,14,"Los Ríos",142,"Ranco",14204,"Río Bueno",2172.28,3.75,NA
-"266",2019,15,"Arica y Parinacota",151,"Arica",15101,"Arica",4799.66,5.5,NA
-"267",2019,15,"Arica y Parinacota",151,"Arica",15102,"Camarones",3922.22,3.75,NA
-"268",2019,15,"Arica y Parinacota",152,"Parinacota",15201,"Putre",5885.18,2.75,NA
-"269",2019,15,"Arica y Parinacota",152,"Parinacota",15202,"General Lagos",2257.22,2.5,NA
-"270",2019,16,"Ñuble",161,"Diguillín",16101,"Chillán",477.58,5.75,NA
-"271",2019,16,"Ñuble",161,"Diguillín",16102,"Bulnes",426.4,2.5,NA
-"272",2019,16,"Ñuble",161,"Diguillín",16104,"El Carmen",666.04,3.25,NA
-"273",2019,16,"Ñuble",161,"Diguillín",16105,"Pemuco",563.26,NA,NA
-"274",2019,16,"Ñuble",161,"Diguillín",16106,"Pinto",1102.7,4.75,NA
-"275",2019,16,"Ñuble",161,"Diguillín",16107,"Quillón",406.52,0.75,NA
-"276",2019,16,"Ñuble",161,"Diguillín",16108,"San Ignacio",363.25,3.5,NA
-"277",2019,16,"Ñuble",161,"Diguillín",16109,"Yungay",824.72,4,NA
-"278",2019,16,"Ñuble",162,"Itata",16201,"Quirihue",589.85,4,NA
-"279",2019,16,"Ñuble",162,"Itata",16202,"Cobquecura",569.21,2.75,NA
-"280",2019,16,"Ñuble",162,"Itata",16203,"Coelemu",342.32,6,NA
-"281",2019,16,"Ñuble",162,"Itata",16204,"Ninhue",403.19,2,NA
-"282",2019,16,"Ñuble",162,"Itata",16205,"Portezuelo",289.24,4.5,NA
-"283",2019,16,"Ñuble",162,"Itata",16206,"Ranquil",247.42,1.75,NA
-"284",2019,16,"Ñuble",162,"Itata",16207,"Treguaco",313,0.25,NA
-"285",2019,16,"Ñuble",163,"Punilla",16301,"San Carlos",877.81,5,NA
-"286",2019,16,"Ñuble",163,"Punilla",16302,"Coihueco",1771.65,4,NA
-"287",2019,16,"Ñuble",163,"Punilla",16303,"Ñiquén",492.34,NA,NA
-"288",2019,16,"Ñuble",163,"Punilla",16304,"San Fabián",1541.59,5,NA
-"289",2019,16,"Ñuble",163,"Punilla",16305,"San Nicolás",565.94,3.25,NA
-"290",2019,13,"Metropolitana de Santiago",133,"Chacabuco",13303,"Tiltil",654.65,1.75,NA
-"291",2019,13,"Metropolitana de Santiago",133,"Chacabuco",13301,"Colina",970.86,7.75,NA
-"292",2019,13,"Metropolitana de Santiago",133,"Chacabuco",13302,"Lampa",449.52,6.25,NA
-"293",2019,13,"Metropolitana de Santiago",131,"Santiago",13125,"Quilicura",57.32,6,NA
-"294",2019,13,"Metropolitana de Santiago",131,"Santiago",13124,"Pudahuel",198.57,7.75,NA
-"295",2019,13,"Metropolitana de Santiago",131,"Santiago",13103,"Cerro Navia",11.05,5.75,NA
-"296",2019,13,"Metropolitana de Santiago",131,"Santiago",13128,"Renca",23.68,6.25,NA
-"297",2019,13,"Metropolitana de Santiago",131,"Santiago",13126,"Quinta Normal",11.8,6.75,NA
-"298",2019,13,"Metropolitana de Santiago",131,"Santiago",13107,"Huechuraba",44.98,5.25,NA
-"299",2019,13,"Metropolitana de Santiago",131,"Santiago",13104,"Conchalí",10.94,6,NA
-"300",2019,13,"Metropolitana de Santiago",131,"Santiago",13108,"Independencia",7.35,5.75,NA
-"301",2019,13,"Metropolitana de Santiago",131,"Santiago",13127,"Recoleta",15.61,8.5,NA
-"302",2019,13,"Metropolitana de Santiago",131,"Santiago",13132,"Vitacura",28.59,9,NA
-"303",2019,13,"Metropolitana de Santiago",131,"Santiago",13123,"Providencia",14.44,6.25,NA
-"304",2019,13,"Metropolitana de Santiago",131,"Santiago",13114,"Las Condes",99.06,9,NA
-"305",2019,13,"Metropolitana de Santiago",131,"Santiago",13120,"Ñuñoa",16.89,5.5,NA
-"306",2019,13,"Metropolitana de Santiago",131,"Santiago",13101,"Santiago",23.18,7.5,NA
-"307",2019,13,"Metropolitana de Santiago",131,"Santiago",13117,"Lo Prado",6.54,6.25,NA
-"308",2019,13,"Metropolitana de Santiago",131,"Santiago",13106,"Estación Central",14.37,5.75,NA
-"309",2019,13,"Metropolitana de Santiago",131,"Santiago",13119,"Maipú",136.8,5.25,NA
-"310",2019,13,"Metropolitana de Santiago",131,"Santiago",13121,"Pedro Aguirre Cerda",8.73,6,NA
-"311",2019,13,"Metropolitana de Santiago",131,"Santiago",13102,"Cerrillos",16.82,5.25,NA
-"312",2019,13,"Metropolitana de Santiago",131,"Santiago",13130,"San Miguel",9.63,5.25,NA
-"313",2019,13,"Metropolitana de Santiago",131,"Santiago",13129,"San Joaquín",9.94,3,NA
-"314",2019,13,"Metropolitana de Santiago",131,"Santiago",13118,"Macul",12.81,4.75,NA
-"315",2019,13,"Metropolitana de Santiago",131,"Santiago",13113,"La Reina",23.39,5.25,NA
-"316",2019,13,"Metropolitana de Santiago",131,"Santiago",13122,"Peñalolén",53.89,7.25,NA
-"317",2019,13,"Metropolitana de Santiago",131,"Santiago",13116,"Lo Espejo",8.25,4.75,NA
-"318",2019,13,"Metropolitana de Santiago",131,"Santiago",13109,"La Cisterna",10.01,5.25,NA
-"319",2019,13,"Metropolitana de Santiago",131,"Santiago",13111,"La Granja",10.05,7.25,NA
-"320",2019,13,"Metropolitana de Santiago",131,"Santiago",13131,"San Ramón",6.31,5.5,NA
-"321",2019,13,"Metropolitana de Santiago",131,"Santiago",13110,"La Florida",71.04,5.75,NA
-"322",2019,13,"Metropolitana de Santiago",131,"Santiago",13105,"El Bosque",14.25,7.25,NA
-"323",2019,13,"Metropolitana de Santiago",131,"Santiago",13112,"La Pintana",30.47,6.5,NA
-"324",2019,13,"Metropolitana de Santiago",134,"Maipo",13403,"Calera de Tango",73.22,3.5,NA
-"325",2019,13,"Metropolitana de Santiago",132,"Cordillera",13201,"Puente Alto",88.39,6,NA
-"326",2019,13,"Metropolitana de Santiago",136,"Talagante",13601,"Talagante",125.23,4,NA
-"327",2019,13,"Metropolitana de Santiago",134,"Maipo",13402,"Buin",217.03,4.5,NA
-"328",2019,13,"Metropolitana de Santiago",134,"Maipo",13401,"San Bernardo",153.85,5.25,NA
-"329",2019,13,"Metropolitana de Santiago",136,"Talagante",13604,"Padre Hurtado",80.64,7.25,NA
-"330",2019,13,"Metropolitana de Santiago",136,"Talagante",13605,"Peñaflor",69.42,6.5,NA
-"331",2019,13,"Metropolitana de Santiago",136,"Talagante",13602,"El Monte",115.97,1.75,NA
-"332",2019,5,"Valparaíso",58,"Marga Marga",5802,"Limache",294.88,5.5,NA
-"333",2019,5,"Valparaíso",51,"Valparaíso",5109,"Viña del Mar",120.56,6.75,NA
-"334",2019,5,"Valparaíso",58,"Marga Marga",5804,"Villa Alemana",96.37,7,NA
-"335",2019,5,"Valparaíso",55,"Quillota",5501,"Quillota",301.24,5.5,NA
-"336",2019,16,"Ñuble",161,"Diguillín",16103,"Chillán Viejo",262.61,3.25,NA
-"337",2019,8,"Biobío",81,"Concepción",8111,"Tomé",494.32,6,NA
-"338",2019,8,"Biobío",81,"Concepción",8107,"Penco",108.38,6,NA
-"339",2019,8,"Biobío",81,"Concepción",8101,"Concepción",220.2,6.5,NA
-"340",2019,8,"Biobío",81,"Concepción",8103,"Chiguayante",71.4,2.25,NA
-"341",2019,8,"Biobío",81,"Concepción",8112,"Hualpén",53.77,5.25,NA
-"342",2019,8,"Biobío",81,"Concepción",8108,"San Pedro de la Paz",112.86,3,NA
-"343",2019,8,"Biobío",81,"Concepción",8105,"Hualqui",535.85,2,NA
-"344",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12103,"Río Verde",9147.57,2.5,NA
-"345",2019,5,"Valparaíso",51,"Valparaíso",5103,"Concón",76.93,6.5,NA
+"id","year","cut_reg","region","cut_prov","province","cut_com","commune","area","egi","egi_std","ta","dai","sae"
+"1",2019,1,"Tarapacá",11,"Iquique",1101,"Iquique",2289.53,4.75,NA,NA,NA,NA
+"2",2019,1,"Tarapacá",11,"Iquique",1107,"Alto Hospicio",571.19,3.5,NA,NA,NA,NA
+"3",2019,1,"Tarapacá",14,"Tamarugal",1401,"Pozo Almonte",13765.8,2.25,NA,NA,NA,NA
+"4",2019,1,"Tarapacá",14,"Tamarugal",1402,"Camiña",2199.83,2,NA,NA,NA,NA
+"5",2019,1,"Tarapacá",14,"Tamarugal",1403,"Colchane",4007.84,1.25,NA,NA,NA,NA
+"6",2019,1,"Tarapacá",14,"Tamarugal",1404,"Huara",10472.5,4.25,NA,NA,NA,NA
+"7",2019,1,"Tarapacá",14,"Tamarugal",1405,"Pica",8982.12,4.25,NA,NA,NA,NA
+"8",2019,2,"Antofagasta",21,"Antofagasta",2101,"Antofagasta",30683.5,5.75,NA,NA,NA,NA
+"9",2019,2,"Antofagasta",21,"Antofagasta",2102,"Mejillones",3576.07,6.5,NA,NA,NA,NA
+"10",2019,2,"Antofagasta",21,"Antofagasta",2103,"Sierra Gorda",12883,3.5,NA,NA,NA,NA
+"11",2019,2,"Antofagasta",21,"Antofagasta",2104,"Taltal",20412.1,7.25,NA,NA,NA,NA
+"12",2019,2,"Antofagasta",22,"El Loa",2201,"Calama",15533.2,5.25,NA,NA,NA,NA
+"13",2019,2,"Antofagasta",22,"El Loa",2202,"Ollagüe",2925.54,2.25,NA,NA,NA,NA
+"14",2019,2,"Antofagasta",22,"El Loa",2203,"San Pedro de Atacama",23602.2,3,NA,NA,NA,NA
+"15",2019,2,"Antofagasta",23,"Tocopilla",2301,"Tocopilla",4120.83,4.25,NA,NA,NA,NA
+"16",2019,2,"Antofagasta",23,"Tocopilla",2302,"María Elena",12330.1,3,NA,NA,NA,NA
+"17",2019,3,"Atacama",31,"Copiapó",3101,"Copiapó",17782.9,3,NA,NA,NA,NA
+"18",2019,3,"Atacama",31,"Copiapó",3102,"Caldera",3680.47,5,NA,NA,NA,NA
+"19",2019,3,"Atacama",31,"Copiapó",3103,"Tierra Amarilla",11251.1,2.75,NA,NA,NA,NA
+"20",2019,3,"Atacama",32,"Chañaral",3201,"Chañaral",5758.87,3.25,NA,NA,NA,NA
+"21",2019,3,"Atacama",32,"Chañaral",3202,"Diego de Almagro",18969.2,3,NA,NA,NA,NA
+"22",2019,3,"Atacama",33,"Huasco",3301,"Vallenar",7226.86,4.5,NA,NA,NA,NA
+"23",2019,3,"Atacama",33,"Huasco",3302,"Alto del Carmen",6155.88,2,NA,NA,NA,NA
+"24",2019,3,"Atacama",33,"Huasco",3303,"Freirina",3222.55,4,NA,NA,NA,NA
+"25",2019,3,"Atacama",33,"Huasco",3304,"Huasco",1602.25,3.25,NA,NA,NA,NA
+"26",2019,4,"Coquimbo",41,"Elqui",4101,"La Serena",1901.22,5.5,NA,NA,NA,NA
+"27",2019,4,"Coquimbo",41,"Elqui",4102,"Coquimbo",1431.77,6,NA,NA,NA,NA
+"28",2019,4,"Coquimbo",41,"Elqui",4103,"Andacollo",514.2,3,NA,NA,NA,NA
+"29",2019,4,"Coquimbo",41,"Elqui",4104,"La Higuera",4165.74,2,NA,NA,NA,NA
+"30",2019,4,"Coquimbo",41,"Elqui",4105,"Paiguano",1513.94,3.5,NA,NA,NA,NA
+"31",2019,4,"Coquimbo",41,"Elqui",4106,"Vicuña",7579.04,4.5,NA,NA,NA,NA
+"32",2019,4,"Coquimbo",42,"Choapa",4201,"Illapel",2629.06,2.75,NA,NA,NA,NA
+"33",2019,4,"Coquimbo",42,"Choapa",4202,"Canela",2196.81,3,NA,NA,NA,NA
+"34",2019,4,"Coquimbo",42,"Choapa",4203,"Los Vilos",1859.5,4.5,NA,NA,NA,NA
+"35",2019,4,"Coquimbo",42,"Choapa",4204,"Salamanca",3445.76,NA,NA,NA,NA,NA
+"36",2019,4,"Coquimbo",43,"Limarí",4301,"Ovalle",3546.21,6,NA,NA,NA,NA
+"37",2019,4,"Coquimbo",43,"Limarí",4302,"Combarbalá",2296.04,4.75,NA,NA,NA,NA
+"38",2019,4,"Coquimbo",43,"Limarí",4303,"Monte Patria",4211.35,6,NA,NA,NA,NA
+"39",2019,4,"Coquimbo",43,"Limarí",4304,"Punitaqui",1092.42,4.25,NA,NA,NA,NA
+"40",2019,4,"Coquimbo",43,"Limarí",4305,"Río Hurtado",2204.5,5,NA,NA,NA,NA
+"41",2019,5,"Valparaíso",51,"Valparaíso",5101,"Valparaíso",310.87,6.25,NA,NA,NA,NA
+"42",2019,5,"Valparaíso",51,"Valparaíso",5102,"Casablanca",954.63,2,NA,NA,NA,NA
+"43",2019,5,"Valparaíso",51,"Valparaíso",5104,"Juan Fernández",110.55,2.5,NA,NA,NA,NA
+"44",2019,5,"Valparaíso",51,"Valparaíso",5105,"Puchuncaví",299.68,5.5,NA,NA,NA,NA
+"45",2019,5,"Valparaíso",51,"Valparaíso",5107,"Quintero",146.06,5,NA,NA,NA,NA
+"46",2019,5,"Valparaíso",52,"Isla de Pascua",5201,"Isla de Pascua",163.83,2,NA,NA,NA,NA
+"47",2019,5,"Valparaíso",53,"Los Andes",5301,"Los Andes",1233.75,6.5,NA,NA,NA,NA
+"48",2019,5,"Valparaíso",53,"Los Andes",5302,"Calle Larga",321.23,6,NA,NA,NA,NA
+"49",2019,5,"Valparaíso",53,"Los Andes",5303,"Rinconada",122.82,4.5,NA,NA,NA,NA
+"50",2019,5,"Valparaíso",53,"Los Andes",5304,"San Esteban",1374.51,6.75,NA,NA,NA,NA
+"51",2019,5,"Valparaíso",54,"Petorca",5401,"La Ligua",1163.02,4.5,NA,NA,NA,NA
+"52",2019,5,"Valparaíso",54,"Petorca",5402,"Cabildo",1455.15,5,NA,NA,NA,NA
+"53",2019,5,"Valparaíso",54,"Petorca",5403,"Papudo",167.12,5.75,NA,NA,NA,NA
+"54",2019,5,"Valparaíso",54,"Petorca",5404,"Petorca",1515.74,5,NA,NA,NA,NA
+"55",2019,5,"Valparaíso",54,"Petorca",5405,"Zapallar",288.27,4,NA,NA,NA,NA
+"56",2019,5,"Valparaíso",55,"Quillota",5502,"Calera",59.97,5,NA,NA,NA,NA
+"57",2019,5,"Valparaíso",55,"Quillota",5503,"Hijuelas",268.15,4,NA,NA,NA,NA
+"58",2019,5,"Valparaíso",55,"Quillota",5504,"La Cruz",77.86,4.25,NA,NA,NA,NA
+"59",2019,5,"Valparaíso",55,"Quillota",5506,"Nogales",405.49,4,NA,NA,NA,NA
+"60",2019,5,"Valparaíso",56,"San Antonio",5601,"San Antonio",400.04,7.75,NA,NA,NA,NA
+"61",2019,5,"Valparaíso",56,"San Antonio",5602,"Algarrobo",176.3,7.5,NA,NA,NA,NA
+"62",2019,5,"Valparaíso",56,"San Antonio",5603,"Cartagena",243.86,2.25,NA,NA,NA,NA
+"63",2019,5,"Valparaíso",56,"San Antonio",5604,"El Quisco",51.64,9,NA,NA,NA,NA
+"64",2019,5,"Valparaíso",56,"San Antonio",5605,"El Tabo",99.58,5.5,NA,NA,NA,NA
+"65",2019,5,"Valparaíso",56,"San Antonio",5606,"Santo Domingo",536.92,8,NA,NA,NA,NA
+"66",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5701,"San Felipe",186.82,7.5,NA,NA,NA,NA
+"67",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5702,"Catemu",361.85,6.5,NA,NA,NA,NA
+"68",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5703,"Llaillay",348.83,2.5,NA,NA,NA,NA
+"69",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5704,"Panquehue",121.26,6,NA,NA,NA,NA
+"70",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5705,"Putaendo",1451.23,2.5,NA,NA,NA,NA
+"71",2019,5,"Valparaíso",57,"San Felipe de Aconcagua",5706,"Santa María",165.71,4,NA,NA,NA,NA
+"72",2019,5,"Valparaíso",58,"Marga Marga",5801,"Quilpué",536.48,6.25,NA,NA,NA,NA
+"73",2019,5,"Valparaíso",58,"Marga Marga",5803,"Olmué",231.32,7.25,NA,NA,NA,NA
+"74",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6101,"Rancagua",260.94,5.25,NA,NA,NA,NA
+"75",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6102,"Codegua",284.17,4.25,NA,NA,NA,NA
+"76",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6103,"Coinco",97.34,4.75,NA,NA,NA,NA
+"77",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6104,"Coltauco",222.02,4.75,NA,NA,NA,NA
+"78",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6105,"Doñihue",80.47,4.5,NA,NA,NA,NA
+"79",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6106,"Graneros",112.45,5.5,NA,NA,NA,NA
+"80",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6107,"Las Cabras",751.28,5.75,NA,NA,NA,NA
+"81",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6108,"Machalí",2593.18,6.5,NA,NA,NA,NA
+"82",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6109,"Malloa",220.65,NA,NA,NA,NA,NA
+"83",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6110,"Mostazal",525.72,5.25,NA,NA,NA,NA
+"84",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6111,"Olivar",44.22,4.5,NA,NA,NA,NA
+"85",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6112,"Peumo",155.15,4.75,NA,NA,NA,NA
+"86",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6113,"Pichidegua",319.47,1,NA,NA,NA,NA
+"87",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6114,"Quinta de Tilcoco",86.75,3.25,NA,NA,NA,NA
+"88",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6115,"Rengo",585.04,4.25,NA,NA,NA,NA
+"89",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6116,"Requínoa",677.18,5.75,NA,NA,NA,NA
+"90",2019,6,"Libertador General Bernardo O'Higgins",61,"Cachapoal",6117,"San Vicente",484.76,3.25,NA,NA,NA,NA
+"91",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6201,"Pichilemu",715.89,6.25,NA,NA,NA,NA
+"92",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6202,"La Estrella",431.44,3,NA,NA,NA,NA
+"93",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6203,"Litueche",613.64,6,NA,NA,NA,NA
+"94",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6204,"Marchihue",657.65,6.5,NA,NA,NA,NA
+"95",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6205,"Navidad",301.4,5,NA,NA,NA,NA
+"96",2019,6,"Libertador General Bernardo O'Higgins",62,"Cardenal Caro",6206,"Paredones",572.51,6.75,NA,NA,NA,NA
+"97",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6301,"San Fernando",2321.18,5,NA,NA,NA,NA
+"98",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6302,"Chépica",477.33,1.75,NA,NA,NA,NA
+"99",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6303,"Chimbarongo",509.03,6.25,NA,NA,NA,NA
+"100",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6304,"Lolol",596.92,5.5,NA,NA,NA,NA
+"101",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6305,"Nancagua",151.21,4.5,NA,NA,NA,NA
+"102",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6306,"Palmilla",235.79,5.25,NA,NA,NA,NA
+"103",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6307,"Peralillo",283.03,4.5,NA,NA,NA,NA
+"104",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6308,"Placilla",144.4,4.75,NA,NA,NA,NA
+"105",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6309,"Pumanque",441.31,4.5,NA,NA,NA,NA
+"106",2019,6,"Libertador General Bernardo O'Higgins",63,"Colchagua",6310,"Santa Cruz",393.53,1.75,NA,NA,NA,NA
+"107",2019,7,"Maule",71,"Talca",7101,"Talca",232.05,5,NA,NA,NA,NA
+"108",2019,7,"Maule",71,"Talca",7102,"Constitución",1339.62,1.75,NA,NA,NA,NA
+"109",2019,7,"Maule",71,"Talca",7103,"Curepto",1070.81,2.75,NA,NA,NA,NA
+"110",2019,7,"Maule",71,"Talca",7104,"Empedrado",565.5,4.75,NA,NA,NA,NA
+"111",2019,7,"Maule",71,"Talca",7105,"Maule",243.05,6.75,NA,NA,NA,NA
+"112",2019,7,"Maule",71,"Talca",7106,"Pelarco",330.93,6.5,NA,NA,NA,NA
+"113",2019,7,"Maule",71,"Talca",7107,"Pencahue",956.23,4,NA,NA,NA,NA
+"114",2019,7,"Maule",71,"Talca",7108,"Río Claro",434.71,5.5,NA,NA,NA,NA
+"115",2019,7,"Maule",71,"Talca",7109,"San Clemente",4500.58,4.5,NA,NA,NA,NA
+"116",2019,7,"Maule",71,"Talca",7110,"San Rafael",261.97,3.5,NA,NA,NA,NA
+"117",2019,7,"Maule",72,"Cauquenes",7201,"Cauquenes",2126.16,NA,NA,NA,NA,NA
+"118",2019,7,"Maule",72,"Cauquenes",7202,"Chanco",528.01,4,NA,NA,NA,NA
+"119",2019,7,"Maule",72,"Cauquenes",7203,"Pelluhue",369.56,6,NA,NA,NA,NA
+"120",2019,7,"Maule",73,"Curicó",7301,"Curicó",1334.33,5.5,NA,NA,NA,NA
+"121",2019,7,"Maule",73,"Curicó",7302,"Hualañé",629.36,4.75,NA,NA,NA,NA
+"122",2019,7,"Maule",73,"Curicó",7303,"Licantén",273.01,5.75,NA,NA,NA,NA
+"123",2019,7,"Maule",73,"Curicó",7304,"Molina",1516.82,7.5,NA,NA,NA,NA
+"124",2019,7,"Maule",73,"Curicó",7305,"Rauco",306.73,5,NA,NA,NA,NA
+"125",2019,7,"Maule",73,"Curicó",7306,"Romeral",1602.87,6,NA,NA,NA,NA
+"126",2019,7,"Maule",73,"Curicó",7307,"Sagrada Familia",554.88,4,NA,NA,NA,NA
+"127",2019,7,"Maule",73,"Curicó",7308,"Teno",618.52,7,NA,NA,NA,NA
+"128",2019,7,"Maule",73,"Curicó",7309,"Vichuquén",452,3.75,NA,NA,NA,NA
+"129",2019,7,"Maule",74,"Linares",7401,"Linares",1466.62,5.25,NA,NA,NA,NA
+"130",2019,7,"Maule",74,"Linares",7402,"Colbún",2926.88,4,NA,NA,NA,NA
+"131",2019,7,"Maule",74,"Linares",7403,"Longaví",1453.37,5.25,NA,NA,NA,NA
+"132",2019,7,"Maule",74,"Linares",7404,"Parral",1638.81,5.5,NA,NA,NA,NA
+"133",2019,7,"Maule",74,"Linares",7405,"Retiro",827.42,1.75,NA,NA,NA,NA
+"134",2019,7,"Maule",74,"Linares",7406,"San Javier",1312.57,4.75,NA,NA,NA,NA
+"135",2019,7,"Maule",74,"Linares",7407,"Villa Alegre",188.67,1.75,NA,NA,NA,NA
+"136",2019,7,"Maule",74,"Linares",7408,"Yerbas Buenas",259.03,3,NA,NA,NA,NA
+"137",2019,8,"Biobío",81,"Concepción",8102,"Coronel",281.27,3.25,NA,NA,NA,NA
+"138",2019,8,"Biobío",81,"Concepción",8104,"Florida",605.89,2,NA,NA,NA,NA
+"139",2019,8,"Biobío",81,"Concepción",8106,"Lota",114.69,2,NA,NA,NA,NA
+"140",2019,8,"Biobío",81,"Concepción",8109,"Santa Juana",777.43,4,NA,NA,NA,NA
+"141",2019,8,"Biobío",81,"Concepción",8110,"Talcahuano",92.55,6.25,NA,NA,NA,NA
+"142",2019,8,"Biobío",82,"Arauco",8201,"Lebu",564.34,2,NA,NA,NA,NA
+"143",2019,8,"Biobío",82,"Arauco",8202,"Arauco",959.62,5.5,NA,NA,NA,NA
+"144",2019,8,"Biobío",82,"Arauco",8203,"Cañete",1088.57,5.25,NA,NA,NA,NA
+"145",2019,8,"Biobío",82,"Arauco",8204,"Contulmo",638.95,4.25,NA,NA,NA,NA
+"146",2019,8,"Biobío",82,"Arauco",8205,"Curanilahue",1002.76,4.5,NA,NA,NA,NA
+"147",2019,8,"Biobío",82,"Arauco",8206,"Los Alamos",600.38,1.75,NA,NA,NA,NA
+"148",2019,8,"Biobío",82,"Arauco",8207,"Tirúa",626.54,NA,NA,NA,NA,NA
+"149",2019,8,"Biobío",83,"Biobío",8301,"Los Angeles",1749.02,6,NA,NA,NA,NA
+"150",2019,8,"Biobío",83,"Biobío",8302,"Antuco",1957.43,3,NA,NA,NA,NA
+"151",2019,8,"Biobío",83,"Biobío",8303,"Cabrero",657.03,4.75,NA,NA,NA,NA
+"152",2019,8,"Biobío",83,"Biobío",8304,"Laja",345.18,4.5,NA,NA,NA,NA
+"153",2019,8,"Biobío",83,"Biobío",8305,"Mulchén",1922.24,3.75,NA,NA,NA,NA
+"154",2019,8,"Biobío",83,"Biobío",8306,"Nacimiento",904.52,1.5,NA,NA,NA,NA
+"155",2019,8,"Biobío",83,"Biobío",8307,"Negrete",155.33,3.75,NA,NA,NA,NA
+"156",2019,8,"Biobío",83,"Biobío",8308,"Quilaco",1124.64,1.75,NA,NA,NA,NA
+"157",2019,8,"Biobío",83,"Biobío",8309,"Quilleco",1118.68,5.75,NA,NA,NA,NA
+"158",2019,8,"Biobío",83,"Biobío",8310,"San Rosendo",94.45,3.75,NA,NA,NA,NA
+"159",2019,8,"Biobío",83,"Biobío",8311,"Santa Bárbara",1251.76,5,NA,NA,NA,NA
+"160",2019,8,"Biobío",83,"Biobío",8312,"Tucapel",914.28,4.75,NA,NA,NA,NA
+"161",2019,8,"Biobío",83,"Biobío",8313,"Yumbel",727.1,6.25,NA,NA,NA,NA
+"162",2019,8,"Biobío",83,"Biobío",8314,"Alto Biobío",2124.77,4,NA,NA,NA,NA
+"163",2019,9,"La Araucanía",91,"Cautín",9101,"Temuco",466.89,7.5,NA,NA,NA,NA
+"164",2019,9,"La Araucanía",91,"Cautín",9102,"Carahue",1336.81,4.5,NA,NA,NA,NA
+"165",2019,9,"La Araucanía",91,"Cautín",9103,"Cunco",1890.34,NA,NA,NA,NA,NA
+"166",2019,9,"La Araucanía",91,"Cautín",9104,"Curarrehue",1167.15,2.25,NA,NA,NA,NA
+"167",2019,9,"La Araucanía",91,"Cautín",9105,"Freire",870.08,4.75,NA,NA,NA,NA
+"168",2019,9,"La Araucanía",91,"Cautín",9106,"Galvarino",567.86,3.75,NA,NA,NA,NA
+"169",2019,9,"La Araucanía",91,"Cautín",9107,"Gorbea",690.43,4,NA,NA,NA,NA
+"170",2019,9,"La Araucanía",91,"Cautín",9108,"Lautaro",906.29,3.75,NA,NA,NA,NA
+"171",2019,9,"La Araucanía",91,"Cautín",9109,"Loncoche",971.27,4.5,NA,NA,NA,NA
+"172",2019,9,"La Araucanía",91,"Cautín",9110,"Melipeuco",1107.69,2,NA,NA,NA,NA
+"173",2019,9,"La Araucanía",91,"Cautín",9111,"Nueva Imperial",730.73,2.25,NA,NA,NA,NA
+"174",2019,9,"La Araucanía",91,"Cautín",9112,"Padre Las Casas",463.83,3,NA,NA,NA,NA
+"175",2019,9,"La Araucanía",91,"Cautín",9113,"Perquenco",331.03,5.25,NA,NA,NA,NA
+"176",2019,9,"La Araucanía",91,"Cautín",9114,"Pitrufquén",583.25,6,NA,NA,NA,NA
+"177",2019,9,"La Araucanía",91,"Cautín",9115,"Pucón",1248.06,5,NA,NA,NA,NA
+"178",2019,9,"La Araucanía",91,"Cautín",9116,"Saavedra",398.35,6.75,NA,NA,NA,NA
+"179",2019,9,"La Araucanía",91,"Cautín",9117,"Teodoro Schmidt",656.17,3.75,NA,NA,NA,NA
+"180",2019,9,"La Araucanía",91,"Cautín",9118,"Toltén",851.8,4.75,NA,NA,NA,NA
+"181",2019,9,"La Araucanía",91,"Cautín",9119,"Vilcún",1416.48,6,NA,NA,NA,NA
+"182",2019,9,"La Araucanía",91,"Cautín",9120,"Villarrica",1292.66,6.5,NA,NA,NA,NA
+"183",2019,9,"La Araucanía",91,"Cautín",9121,"Cholchol",427.14,2.75,NA,NA,NA,NA
+"184",2019,9,"La Araucanía",92,"Malleco",9201,"Angol",1197.32,5.25,NA,NA,NA,NA
+"185",2019,9,"La Araucanía",92,"Malleco",9202,"Collipulli",1306.73,5,NA,NA,NA,NA
+"186",2019,9,"La Araucanía",92,"Malleco",9203,"Curacautín",1658.66,3.75,NA,NA,NA,NA
+"187",2019,9,"La Araucanía",92,"Malleco",9204,"Ercilla",498.91,2.5,NA,NA,NA,NA
+"188",2019,9,"La Araucanía",92,"Malleco",9205,"Lonquimay",3928.81,3.5,NA,NA,NA,NA
+"189",2019,9,"La Araucanía",92,"Malleco",9206,"Los Sauces",848.07,4.25,NA,NA,NA,NA
+"190",2019,9,"La Araucanía",92,"Malleco",9207,"Lumaco",1109.98,2.5,NA,NA,NA,NA
+"191",2019,9,"La Araucanía",92,"Malleco",9208,"Purén",463.96,1.75,NA,NA,NA,NA
+"192",2019,9,"La Araucanía",92,"Malleco",9209,"Renaico",265.49,NA,NA,NA,NA,NA
+"193",2019,9,"La Araucanía",92,"Malleco",9210,"Traiguén",897.07,3.75,NA,NA,NA,NA
+"194",2019,9,"La Araucanía",92,"Malleco",9211,"Victoria",1262.59,3.5,NA,NA,NA,NA
+"195",2019,10,"Los Lagos",101,"Llanquihue",10101,"Puerto Montt",1670.35,7,NA,NA,NA,NA
+"196",2019,10,"Los Lagos",101,"Llanquihue",10102,"Calbuco",587.38,4.75,NA,NA,NA,NA
+"197",2019,10,"Los Lagos",101,"Llanquihue",10103,"Cochamó",3981.1,5.25,NA,NA,NA,NA
+"198",2019,10,"Los Lagos",101,"Llanquihue",10104,"Fresia",1275.62,3,NA,NA,NA,NA
+"199",2019,10,"Los Lagos",101,"Llanquihue",10105,"Frutillar",828.25,4,NA,NA,NA,NA
+"200",2019,10,"Los Lagos",101,"Llanquihue",10106,"Los Muermos",1229.62,6,NA,NA,NA,NA
+"201",2019,10,"Los Lagos",101,"Llanquihue",10107,"Llanquihue",433.02,4.5,NA,NA,NA,NA
+"202",2019,10,"Los Lagos",101,"Llanquihue",10108,"Maullín",822.95,1.5,NA,NA,NA,NA
+"203",2019,10,"Los Lagos",101,"Llanquihue",10109,"Puerto Varas",4028.8,5,NA,NA,NA,NA
+"204",2019,10,"Los Lagos",102,"Chiloé",10201,"Castro",471.38,5.5,NA,NA,NA,NA
+"205",2019,10,"Los Lagos",102,"Chiloé",10202,"Ancud",1754.07,4.5,NA,NA,NA,NA
+"206",2019,10,"Los Lagos",102,"Chiloé",10203,"Chonchi",1361.08,4.5,NA,NA,NA,NA
+"207",2019,10,"Los Lagos",102,"Chiloé",10204,"Curaco de Vélez",79.85,3.75,NA,NA,NA,NA
+"208",2019,10,"Los Lagos",102,"Chiloé",10205,"Dalcahue",1229.21,3.75,NA,NA,NA,NA
+"209",2019,10,"Los Lagos",102,"Chiloé",10206,"Puqueldón",96.58,3,NA,NA,NA,NA
+"210",2019,10,"Los Lagos",102,"Chiloé",10207,"Queilén",330.88,5.75,NA,NA,NA,NA
+"211",2019,10,"Los Lagos",102,"Chiloé",10208,"Quellón",3360.3,2,NA,NA,NA,NA
+"212",2019,10,"Los Lagos",102,"Chiloé",10209,"Quemchi",438.3,2,NA,NA,NA,NA
+"213",2019,10,"Los Lagos",102,"Chiloé",10210,"Quinchao",158.73,2,NA,NA,NA,NA
+"214",2019,10,"Los Lagos",103,"Osorno",10301,"Osorno",954.57,4.75,NA,NA,NA,NA
+"215",2019,10,"Los Lagos",103,"Osorno",10302,"Puerto Octay",1793.82,5,NA,NA,NA,NA
+"216",2019,10,"Los Lagos",103,"Osorno",10303,"Purranque",1451.58,5,NA,NA,NA,NA
+"217",2019,10,"Los Lagos",103,"Osorno",10304,"Puyehue",1635.28,2.75,NA,NA,NA,NA
+"218",2019,10,"Los Lagos",103,"Osorno",10305,"Río Negro",1281.02,2.25,NA,NA,NA,NA
+"219",2019,10,"Los Lagos",103,"Osorno",10306,"San Juan de la Costa",1506.02,2,NA,NA,NA,NA
+"220",2019,10,"Los Lagos",103,"Osorno",10307,"San Pablo",629.94,2.25,NA,NA,NA,NA
+"221",2019,10,"Los Lagos",104,"Palena",10401,"Chaitén",8256.01,2.25,NA,NA,NA,NA
+"222",2019,10,"Los Lagos",104,"Palena",10402,"Futaleufú",1236.22,2.75,NA,NA,NA,NA
+"223",2019,10,"Los Lagos",104,"Palena",10403,"Hualaihué",2834.53,5.75,NA,NA,NA,NA
+"224",2019,10,"Los Lagos",104,"Palena",10404,"Palena",2656.01,3,NA,NA,NA,NA
+"225",2019,11,"Aysén del General Carlos Ibáñez del Campo",111,"Coihaique",11101,"Coihaique",7280.46,6.25,NA,NA,NA,NA
+"226",2019,11,"Aysén del General Carlos Ibáñez del Campo",111,"Coihaique",11102,"Lago Verde",5440.42,5,NA,NA,NA,NA
+"227",2019,11,"Aysén del General Carlos Ibáñez del Campo",112,"Aisén",11201,"Aisén",29879.3,5.75,NA,NA,NA,NA
+"228",2019,11,"Aysén del General Carlos Ibáñez del Campo",112,"Aisén",11202,"Cisnes",15418.3,4.5,NA,NA,NA,NA
+"229",2019,11,"Aysén del General Carlos Ibáñez del Campo",112,"Aisén",11203,"Guaitecas",631.38,4.5,NA,NA,NA,NA
+"230",2019,11,"Aysén del General Carlos Ibáñez del Campo",113,"Capitán Prat",11301,"Cochrane",8629.21,2.75,NA,NA,NA,NA
+"231",2019,11,"Aysén del General Carlos Ibáñez del Campo",113,"Capitán Prat",11302,"O'Higgins",7781.76,2.75,NA,NA,NA,NA
+"232",2019,11,"Aysén del General Carlos Ibáñez del Campo",113,"Capitán Prat",11303,"Tortel",19977.3,2.75,NA,NA,NA,NA
+"233",2019,11,"Aysén del General Carlos Ibáñez del Campo",114,"General Carrera",11401,"Chile Chico",5739.01,8,NA,NA,NA,NA
+"234",2019,11,"Aysén del General Carlos Ibáñez del Campo",114,"General Carrera",11402,"Río Ibáñez",6019.41,1.75,NA,NA,NA,NA
+"235",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12101,"Punta Arenas",17771.4,1.25,NA,NA,NA,NA
+"236",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12102,"Laguna Blanca",3567.32,5,NA,NA,NA,NA
+"237",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12104,"San Gregorio",6706.74,1.75,NA,NA,NA,NA
+"238",2019,12,"Magallanes y de la Antártica Chilena",122,"Antártica Chilena",12201,"Cabo de Hornos",15720.3,6,NA,NA,NA,NA
+"239",2019,12,"Magallanes y de la Antártica Chilena",123,"Tierra del Fuego",12301,"Porvenir",7457.05,5,NA,NA,NA,NA
+"240",2019,12,"Magallanes y de la Antártica Chilena",123,"Tierra del Fuego",12302,"Primavera",3946.46,1.75,NA,NA,NA,NA
+"241",2019,12,"Magallanes y de la Antártica Chilena",123,"Tierra del Fuego",12303,"Timaukel",11011.8,2.75,NA,NA,NA,NA
+"242",2019,12,"Magallanes y de la Antártica Chilena",124,"Última Esperanza",12401,"Natales",48938.2,6.5,NA,NA,NA,NA
+"243",2019,12,"Magallanes y de la Antártica Chilena",124,"Última Esperanza",12402,"Torres del Paine",6215.16,5,NA,NA,NA,NA
+"244",2019,13,"Metropolitana de Santiago",131,"Santiago",13115,"Lo Barnechea",1023.61,7.25,NA,NA,NA,NA
+"245",2019,13,"Metropolitana de Santiago",132,"Cordillera",13202,"Pirque",444.71,5,NA,NA,NA,NA
+"246",2019,13,"Metropolitana de Santiago",132,"Cordillera",13203,"San José de Maipo",4982.37,6,NA,NA,NA,NA
+"247",2019,13,"Metropolitana de Santiago",134,"Maipo",13404,"Paine",677.52,4.25,NA,NA,NA,NA
+"248",2019,13,"Metropolitana de Santiago",135,"Melipilla",13501,"Melipilla",1352.65,6.25,NA,NA,NA,NA
+"249",2019,13,"Metropolitana de Santiago",135,"Melipilla",13502,"Alhué",844.43,4.5,NA,NA,NA,NA
+"250",2019,13,"Metropolitana de Santiago",135,"Melipilla",13503,"Curacaví",694.1,6.25,NA,NA,NA,NA
+"251",2019,13,"Metropolitana de Santiago",135,"Melipilla",13504,"María Pinto",394.3,7.25,NA,NA,NA,NA
+"252",2019,13,"Metropolitana de Santiago",135,"Melipilla",13505,"San Pedro",793.11,3.75,NA,NA,NA,NA
+"253",2019,13,"Metropolitana de Santiago",136,"Talagante",13603,"Isla de Maipo",189.62,4.25,NA,NA,NA,NA
+"254",2019,14,"Los Ríos",141,"Valdivia",14101,"Valdivia",1018.32,6,NA,NA,NA,NA
+"255",2019,14,"Los Ríos",141,"Valdivia",14102,"Corral",729.42,5.75,NA,NA,NA,NA
+"256",2019,14,"Los Ríos",141,"Valdivia",14103,"Lanco",533.04,6.25,NA,NA,NA,NA
+"257",2019,14,"Los Ríos",141,"Valdivia",14104,"Los Lagos",1788.82,6.75,NA,NA,NA,NA
+"258",2019,14,"Los Ríos",141,"Valdivia",14105,"Máfil",579.15,6,NA,NA,NA,NA
+"259",2019,14,"Los Ríos",141,"Valdivia",14106,"Mariquina",1319.22,4.75,NA,NA,NA,NA
+"260",2019,14,"Los Ríos",141,"Valdivia",14107,"Paillaco",901.57,4,NA,NA,NA,NA
+"261",2019,14,"Los Ríos",141,"Valdivia",14108,"Panguipulli",3297.47,6.5,NA,NA,NA,NA
+"262",2019,14,"Los Ríos",142,"Ranco",14201,"La Unión",2131.24,2.75,NA,NA,NA,NA
+"263",2019,14,"Los Ríos",142,"Ranco",14202,"Futrono",2090.51,3.5,NA,NA,NA,NA
+"264",2019,14,"Los Ríos",142,"Ranco",14203,"Lago Ranco",1763.14,5.75,NA,NA,NA,NA
+"265",2019,14,"Los Ríos",142,"Ranco",14204,"Río Bueno",2172.28,3.75,NA,NA,NA,NA
+"266",2019,15,"Arica y Parinacota",151,"Arica",15101,"Arica",4799.66,5.5,NA,NA,NA,NA
+"267",2019,15,"Arica y Parinacota",151,"Arica",15102,"Camarones",3922.22,3.75,NA,NA,NA,NA
+"268",2019,15,"Arica y Parinacota",152,"Parinacota",15201,"Putre",5885.18,2.75,NA,NA,NA,NA
+"269",2019,15,"Arica y Parinacota",152,"Parinacota",15202,"General Lagos",2257.22,2.5,NA,NA,NA,NA
+"270",2019,16,"Ñuble",161,"Diguillín",16101,"Chillán",477.58,5.75,NA,NA,NA,NA
+"271",2019,16,"Ñuble",161,"Diguillín",16102,"Bulnes",426.4,2.5,NA,NA,NA,NA
+"272",2019,16,"Ñuble",161,"Diguillín",16104,"El Carmen",666.04,3.25,NA,NA,NA,NA
+"273",2019,16,"Ñuble",161,"Diguillín",16105,"Pemuco",563.26,NA,NA,NA,NA,NA
+"274",2019,16,"Ñuble",161,"Diguillín",16106,"Pinto",1102.7,4.75,NA,NA,NA,NA
+"275",2019,16,"Ñuble",161,"Diguillín",16107,"Quillón",406.52,0.75,NA,NA,NA,NA
+"276",2019,16,"Ñuble",161,"Diguillín",16108,"San Ignacio",363.25,3.5,NA,NA,NA,NA
+"277",2019,16,"Ñuble",161,"Diguillín",16109,"Yungay",824.72,4,NA,NA,NA,NA
+"278",2019,16,"Ñuble",162,"Itata",16201,"Quirihue",589.85,4,NA,NA,NA,NA
+"279",2019,16,"Ñuble",162,"Itata",16202,"Cobquecura",569.21,2.75,NA,NA,NA,NA
+"280",2019,16,"Ñuble",162,"Itata",16203,"Coelemu",342.32,6,NA,NA,NA,NA
+"281",2019,16,"Ñuble",162,"Itata",16204,"Ninhue",403.19,2,NA,NA,NA,NA
+"282",2019,16,"Ñuble",162,"Itata",16205,"Portezuelo",289.24,4.5,NA,NA,NA,NA
+"283",2019,16,"Ñuble",162,"Itata",16206,"Ranquil",247.42,1.75,NA,NA,NA,NA
+"284",2019,16,"Ñuble",162,"Itata",16207,"Treguaco",313,0.25,NA,NA,NA,NA
+"285",2019,16,"Ñuble",163,"Punilla",16301,"San Carlos",877.81,5,NA,NA,NA,NA
+"286",2019,16,"Ñuble",163,"Punilla",16302,"Coihueco",1771.65,4,NA,NA,NA,NA
+"287",2019,16,"Ñuble",163,"Punilla",16303,"Ñiquén",492.34,NA,NA,NA,NA,NA
+"288",2019,16,"Ñuble",163,"Punilla",16304,"San Fabián",1541.59,5,NA,NA,NA,NA
+"289",2019,16,"Ñuble",163,"Punilla",16305,"San Nicolás",565.94,3.25,NA,NA,NA,NA
+"290",2019,13,"Metropolitana de Santiago",133,"Chacabuco",13303,"Tiltil",654.65,1.75,NA,NA,NA,NA
+"291",2019,13,"Metropolitana de Santiago",133,"Chacabuco",13301,"Colina",970.86,7.75,NA,NA,NA,NA
+"292",2019,13,"Metropolitana de Santiago",133,"Chacabuco",13302,"Lampa",449.52,6.25,NA,NA,NA,NA
+"293",2019,13,"Metropolitana de Santiago",131,"Santiago",13125,"Quilicura",57.32,6,NA,NA,NA,NA
+"294",2019,13,"Metropolitana de Santiago",131,"Santiago",13124,"Pudahuel",198.57,7.75,NA,NA,NA,NA
+"295",2019,13,"Metropolitana de Santiago",131,"Santiago",13103,"Cerro Navia",11.05,5.75,NA,NA,NA,NA
+"296",2019,13,"Metropolitana de Santiago",131,"Santiago",13128,"Renca",23.68,6.25,NA,NA,NA,NA
+"297",2019,13,"Metropolitana de Santiago",131,"Santiago",13126,"Quinta Normal",11.8,6.75,NA,NA,NA,NA
+"298",2019,13,"Metropolitana de Santiago",131,"Santiago",13107,"Huechuraba",44.98,5.25,NA,NA,NA,NA
+"299",2019,13,"Metropolitana de Santiago",131,"Santiago",13104,"Conchalí",10.94,6,NA,NA,NA,NA
+"300",2019,13,"Metropolitana de Santiago",131,"Santiago",13108,"Independencia",7.35,5.75,NA,NA,NA,NA
+"301",2019,13,"Metropolitana de Santiago",131,"Santiago",13127,"Recoleta",15.61,8.5,NA,NA,NA,NA
+"302",2019,13,"Metropolitana de Santiago",131,"Santiago",13132,"Vitacura",28.59,9,NA,NA,NA,NA
+"303",2019,13,"Metropolitana de Santiago",131,"Santiago",13123,"Providencia",14.44,6.25,NA,NA,NA,NA
+"304",2019,13,"Metropolitana de Santiago",131,"Santiago",13114,"Las Condes",99.06,9,NA,NA,NA,NA
+"305",2019,13,"Metropolitana de Santiago",131,"Santiago",13120,"Ñuñoa",16.89,5.5,NA,NA,NA,NA
+"306",2019,13,"Metropolitana de Santiago",131,"Santiago",13101,"Santiago",23.18,7.5,NA,NA,NA,NA
+"307",2019,13,"Metropolitana de Santiago",131,"Santiago",13117,"Lo Prado",6.54,6.25,NA,NA,NA,NA
+"308",2019,13,"Metropolitana de Santiago",131,"Santiago",13106,"Estación Central",14.37,5.75,NA,NA,NA,NA
+"309",2019,13,"Metropolitana de Santiago",131,"Santiago",13119,"Maipú",136.8,5.25,NA,NA,NA,NA
+"310",2019,13,"Metropolitana de Santiago",131,"Santiago",13121,"Pedro Aguirre Cerda",8.73,6,NA,NA,NA,NA
+"311",2019,13,"Metropolitana de Santiago",131,"Santiago",13102,"Cerrillos",16.82,5.25,NA,NA,NA,NA
+"312",2019,13,"Metropolitana de Santiago",131,"Santiago",13130,"San Miguel",9.63,5.25,NA,NA,NA,NA
+"313",2019,13,"Metropolitana de Santiago",131,"Santiago",13129,"San Joaquín",9.94,3,NA,NA,NA,NA
+"314",2019,13,"Metropolitana de Santiago",131,"Santiago",13118,"Macul",12.81,4.75,NA,NA,NA,NA
+"315",2019,13,"Metropolitana de Santiago",131,"Santiago",13113,"La Reina",23.39,5.25,NA,NA,NA,NA
+"316",2019,13,"Metropolitana de Santiago",131,"Santiago",13122,"Peñalolén",53.89,7.25,NA,NA,NA,NA
+"317",2019,13,"Metropolitana de Santiago",131,"Santiago",13116,"Lo Espejo",8.25,4.75,NA,NA,NA,NA
+"318",2019,13,"Metropolitana de Santiago",131,"Santiago",13109,"La Cisterna",10.01,5.25,NA,NA,NA,NA
+"319",2019,13,"Metropolitana de Santiago",131,"Santiago",13111,"La Granja",10.05,7.25,NA,NA,NA,NA
+"320",2019,13,"Metropolitana de Santiago",131,"Santiago",13131,"San Ramón",6.31,5.5,NA,NA,NA,NA
+"321",2019,13,"Metropolitana de Santiago",131,"Santiago",13110,"La Florida",71.04,5.75,NA,NA,NA,NA
+"322",2019,13,"Metropolitana de Santiago",131,"Santiago",13105,"El Bosque",14.25,7.25,NA,NA,NA,NA
+"323",2019,13,"Metropolitana de Santiago",131,"Santiago",13112,"La Pintana",30.47,6.5,NA,NA,NA,NA
+"324",2019,13,"Metropolitana de Santiago",134,"Maipo",13403,"Calera de Tango",73.22,3.5,NA,NA,NA,NA
+"325",2019,13,"Metropolitana de Santiago",132,"Cordillera",13201,"Puente Alto",88.39,6,NA,NA,NA,NA
+"326",2019,13,"Metropolitana de Santiago",136,"Talagante",13601,"Talagante",125.23,4,NA,NA,NA,NA
+"327",2019,13,"Metropolitana de Santiago",134,"Maipo",13402,"Buin",217.03,4.5,NA,NA,NA,NA
+"328",2019,13,"Metropolitana de Santiago",134,"Maipo",13401,"San Bernardo",153.85,5.25,NA,NA,NA,NA
+"329",2019,13,"Metropolitana de Santiago",136,"Talagante",13604,"Padre Hurtado",80.64,7.25,NA,NA,NA,NA
+"330",2019,13,"Metropolitana de Santiago",136,"Talagante",13605,"Peñaflor",69.42,6.5,NA,NA,NA,NA
+"331",2019,13,"Metropolitana de Santiago",136,"Talagante",13602,"El Monte",115.97,1.75,NA,NA,NA,NA
+"332",2019,5,"Valparaíso",58,"Marga Marga",5802,"Limache",294.88,5.5,NA,NA,NA,NA
+"333",2019,5,"Valparaíso",51,"Valparaíso",5109,"Viña del Mar",120.56,6.75,NA,NA,NA,NA
+"334",2019,5,"Valparaíso",58,"Marga Marga",5804,"Villa Alemana",96.37,7,NA,NA,NA,NA
+"335",2019,5,"Valparaíso",55,"Quillota",5501,"Quillota",301.24,5.5,NA,NA,NA,NA
+"336",2019,16,"Ñuble",161,"Diguillín",16103,"Chillán Viejo",262.61,3.25,NA,NA,NA,NA
+"337",2019,8,"Biobío",81,"Concepción",8111,"Tomé",494.32,6,NA,NA,NA,NA
+"338",2019,8,"Biobío",81,"Concepción",8107,"Penco",108.38,6,NA,NA,NA,NA
+"339",2019,8,"Biobío",81,"Concepción",8101,"Concepción",220.2,6.5,NA,NA,NA,NA
+"340",2019,8,"Biobío",81,"Concepción",8103,"Chiguayante",71.4,2.25,NA,NA,NA,NA
+"341",2019,8,"Biobío",81,"Concepción",8112,"Hualpén",53.77,5.25,NA,NA,NA,NA
+"342",2019,8,"Biobío",81,"Concepción",8108,"San Pedro de la Paz",112.86,3,NA,NA,NA,NA
+"343",2019,8,"Biobío",81,"Concepción",8105,"Hualqui",535.85,2,NA,NA,NA,NA
+"344",2019,12,"Magallanes y de la Antártica Chilena",121,"Magallanes",12103,"Río Verde",9147.57,2.5,NA,NA,NA,NA
+"345",2019,5,"Valparaíso",51,"Valparaíso",5103,"Concón",76.93,6.5,NA,NA,NA,NA
