@@ -57,10 +57,30 @@ names(dai_2016)[3] = "dai"
 egi_2019 <- read.csv("data/raw/EGI/egi_2019.csv", encoding = "UTF-8")
 names(egi_2019)[1] = "region"
 
+## SINIM 2019
+sinim_2019 <- read.csv("data/raw/SINIM/sinim_2019.csv", encoding = "UTF-8")
+names(sinim_2019)[1] = "cut_com"
+
+## SUBTEL 2019
+subtel_2019 <- read.csv("data/raw/SUBTEL/data_SUBTEL_2019.csv", encoding = "UTF-8")
+names(subtel_2019)[1] = "comuna"
+names(subtel_2019)[2] = "cut_com"
+names(subtel_2019)[15] = "internet_con"
+
 ## EGI 2021
 egi_2021 <- read.csv("data/raw/EGI/egi_2021.csv", encoding = "UTF-8")
 names(egi_2021)[1] = "commune"
 egi_2021 <- filter(egi_2021, cut_com != 12202)
+
+## SINIM 2021
+sinim_2021 <- read.csv("data/raw/SINIM/sinim_2021.csv", encoding = "UTF-8")
+names(sinim_2021)[1] = "cut_com"
+
+## SUBTEL 2021
+subtel_2021 <- read.csv("data/raw/SUBTEL/data_SUBTEL_2021.csv", encoding = "UTF-8")
+names(subtel_2021)[1] = "comuna"
+names(subtel_2021)[2] = "cut_com"
+names(subtel_2021)[15] = "internet_con"
 
 ## +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -123,6 +143,12 @@ local_gov_indicators_2016$Nombre.y <- NULL
 ## SAE Data
 local_gov_indicators_2016$sae <- NA
 
+## SINIM Data
+## Pending
+
+## SUBTEL Data
+## Pending
+
 ## Case-Level CSV
 write.csv(local_gov_indicators_2016, "data/tidy/cases/local_gov_indicators_2016.csv", 
           fileEncoding = "UTF-8", row.names =  FALSE)
@@ -175,6 +201,27 @@ local_gov_indicators_2019$dai <- NA
 ## SAE Data
 local_gov_indicators_2019$sae <- NA
 
+## SINIM Data
+local_gov_indicators_2019 <- left_join(local_gov_indicators_2019, sinim_2019, by = "cut_com")
+local_gov_indicators_2019$municipality <- NULL
+local_gov_indicators_2019$iadm40 <- as.numeric(local_gov_indicators_2019$iadm40)
+local_gov_indicators_2019$iadm44 <- as.numeric(local_gov_indicators_2019$iadm44)
+local_gov_indicators_2019$iadm41 <- as.numeric(local_gov_indicators_2019$iadm41)
+local_gov_indicators_2019$iadm25 <- as.numeric(local_gov_indicators_2019$iadm25)
+local_gov_indicators_2019$iadm33 <- as.numeric(local_gov_indicators_2019$iadm33)
+local_gov_indicators_2019$isoc013 <- as.numeric(local_gov_indicators_2019$isoc013)
+local_gov_indicators_2019$mocosoc <- as.factor(local_gov_indicators_2019$mocosoc)
+local_gov_indicators_2019$mcosoc <- as.factor(local_gov_indicators_2019$mcosoc)
+local_gov_indicators_2019$icar007 <- as.numeric(local_gov_indicators_2019$icar007)
+local_gov_indicators_2019$itpcm <- as.numeric(local_gov_indicators_2019$itpcm)
+local_gov_indicators_2019$itpc <- as.numeric(local_gov_indicators_2019$itpc)
+local_gov_indicators_2019$itpr <- as.numeric(local_gov_indicators_2019$itpr)
+local_gov_indicators_2019$itpu <- as.numeric(local_gov_indicators_2019$itpu)
+
+## SUBTEL Data
+local_gov_indicators_2019 <- left_join(local_gov_indicators_2019, subtel_2019[c(2, 15)], by = "cut_com")
+local_gov_indicators_2019$internet_con <- as.numeric(local_gov_indicators_2019$internet_con)
+
 ## Case-Level CSV
 write.csv(local_gov_indicators_2019, "data/tidy/cases/local_gov_indicators_2019.csv", 
           fileEncoding = "UTF-8", row.names =  FALSE)
@@ -221,6 +268,27 @@ local_gov_indicators_2021$dai <- NA
 
 ## SAE Data
 local_gov_indicators_2021$sae <- NA
+
+## SINIM Data
+local_gov_indicators_2021 <- left_join(local_gov_indicators_2021, sinim_2019, by = "cut_com")
+local_gov_indicators_2021$municipality <- NULL
+local_gov_indicators_2021$iadm40 <- as.numeric(local_gov_indicators_2021$iadm40)
+local_gov_indicators_2021$iadm44 <- as.numeric(local_gov_indicators_2021$iadm44)
+local_gov_indicators_2021$iadm41 <- as.numeric(local_gov_indicators_2021$iadm41)
+local_gov_indicators_2021$iadm25 <- as.numeric(local_gov_indicators_2021$iadm25)
+local_gov_indicators_2021$iadm33 <- as.numeric(local_gov_indicators_2021$iadm33)
+local_gov_indicators_2021$isoc013 <- as.numeric(local_gov_indicators_2021$isoc013)
+local_gov_indicators_2021$mocosoc <- as.factor(local_gov_indicators_2021$mocosoc)
+local_gov_indicators_2021$mcosoc <- as.factor(local_gov_indicators_2021$mcosoc)
+local_gov_indicators_2021$icar007 <- as.numeric(local_gov_indicators_2021$icar007)
+local_gov_indicators_2021$itpcm <- as.numeric(local_gov_indicators_2021$itpcm)
+local_gov_indicators_2021$itpc <- as.numeric(local_gov_indicators_2021$itpc)
+local_gov_indicators_2021$itpr <- as.numeric(local_gov_indicators_2021$itpr)
+local_gov_indicators_2021$itpu <- as.numeric(local_gov_indicators_2021$itpu)
+
+## SUBTEL Data
+local_gov_indicators_2021 <- left_join(local_gov_indicators_2021, subtel_2021[c(2, 15)], by = "cut_com")
+local_gov_indicators_2021$internet_con <- as.numeric(local_gov_indicators_2021$internet_con)
 
 ## Case-Level CSV
 write.csv(local_gov_indicators_2021, "data/tidy/cases/local_gov_indicators_2021.csv", 
