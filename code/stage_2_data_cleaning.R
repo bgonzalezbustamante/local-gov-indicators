@@ -270,7 +270,7 @@ local_gov_indicators_2021$dai <- NA
 local_gov_indicators_2021$sae <- NA
 
 ## SINIM Data
-local_gov_indicators_2021 <- left_join(local_gov_indicators_2021, sinim_2019, by = "cut_com")
+local_gov_indicators_2021 <- left_join(local_gov_indicators_2021, sinim_2021, by = "cut_com")
 local_gov_indicators_2021$municipality <- NULL
 local_gov_indicators_2021$iadm40 <- as.numeric(local_gov_indicators_2021$iadm40)
 local_gov_indicators_2021$iadm44 <- as.numeric(local_gov_indicators_2021$iadm44)
