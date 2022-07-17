@@ -8,8 +8,8 @@ authors:
   given-names: "Diego"
   orcid: "https://orcid.org/0000-0003-4531-5922"
 title: "Data Set on Local Government Indicators in Chile"
-version: "0.20.13 -- TBC"
+version: "0.20.14 -- Late Butterfly"
 doi:
-date-released: 2022-07-09
+date-released: 2022-07-17
 url: "https://github.com/bgonzalezbustamante/local-gov-indicators"
 type: data
