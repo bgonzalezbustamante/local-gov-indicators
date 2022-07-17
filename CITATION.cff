@@ -9,7 +9,7 @@ authors:
   orcid: "https://orcid.org/0000-0003-4531-5922"
 title: "Data Set on Local Government Indicators in Chile"
 version: "0.20.14 -- Late Butterfly"
-doi:
+doi: 10.5281/zenodo.6848053
 date-released: 2022-07-17
 url: "https://github.com/bgonzalezbustamante/local-gov-indicators"
 type: data
