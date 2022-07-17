@@ -14,12 +14,16 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
-## [0.20.13] - 2022-08-09
+## [0.20.14] - 2022-07-17
+### Changed
+- Minor corrections.
+
+## [0.20.13] - 2022-07-09
 ### Changed
 - SUBTEL raw data sets.
 - SINIM raw data sets.
 
-## [0.20.12] - 2022-08-08
+## [0.20.12] - 2022-07-08
 ### Changed
 - SUBTEL raw data sets.
 - SAE estimations.
