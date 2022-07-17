@@ -109,7 +109,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly) [Data set]. URL: [https://github.com/bgonzalezbustamante/local-gov-indicators/](https://github.com/bgonzalezbustamante/local-gov-indicators/)
+González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly) [Data set]. DOI: [10.5281/zenodo.6848053](https://doi.org/10.5281/zenodo.6848053)
 
 ## Authors
 
