@@ -5,7 +5,6 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [1.0.0] - TBC
 ### Added
-- Zenodo DOI.
 - Codebook in XeLaTeX.
 - Release of VOR data set.
 - Exploratory data analysis code.
@@ -14,7 +13,14 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
-## [0.20.14] - 2022-07-17
+## [0.21.14] - 2023-01-25
+### Changed
+- Revision of upgrade versioning.
+- Minor corrections.
+
+## [0.21.13] - 2022-07-17
+### Added
+- Zenodo DOI.
 ### Changed
 - Minor corrections.
 
