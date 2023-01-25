@@ -1,7 +1,11 @@
 # local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Coverage](https://img.shields.io/badge/coverage-25%25-yellow.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/tree/main/data/tidy/cases) [![Version](https://img.shields.io/badge/version-v0.21.14-blue.svg)](CHANGELOG.md) [![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](https://www.repostatus.org/badges/latest/suspended.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.6848052-blue)](https://doi.org/10.5281/zenodo.6848052) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE-GPL.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](LICENSE-CC.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LICENSE-LPPL.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Coverage](https://img.shields.io/badge/coverage-20%25-yellow.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/tree/main/data/tidy/cases) [![Version](https://img.shields.io/badge/version-v0.21.14-blue.svg)](CHANGELOG.md) [![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](https://www.repostatus.org/badges/latest/suspended.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.6848052-blue)](https://doi.org/10.5281/zenodo.6848052) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE-GPL.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](LICENSE-CC.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LICENSE-LPPL.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+
+## Overview
+
+This repository contains a data set in progress (20%) on local government indicators in Chile between 2010 and 2021, featuring an e-government indicator (EGI) in 2016[^1], 2019 and 2021 in Comma-Separated Values `CSV` format with Unicode encoding `UTF-8`.
 
 ## Data Pipeline and Coverage
 
@@ -59,7 +63,7 @@ Moreover, the repository is backed up on Hierarchical File Server `HFS` for reco
 
 ### Software
 
-We use `R` version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
+We used `R v4.1.0 -- Camp Pontanezen`.
 
 ## License
 
@@ -107,3 +111,5 @@ Elinor Luco ([ORCID iD 0000-0003-3370-4322](https://orcid.org/0000-0003-3370-432
 ### Latest Revision
 
 [January 25, 2023](CHANGELOG.md).
+
+[^1]: Further details of the 2016 indicator in González-Bustamante, B., Carvajal, A., & González, A. (2020). Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno. *Gestión y Política Pública, XXIX*(1), 97-129. DOI: [10.29265/gypp.v29i1.658](http://dx.doi.org/10.29265/gypp.v29i1.658). See also González-Bustamante, B., Carvajal, A., & González, A. (2019). Local E-Government Index 2016 in Chile. DOI: [10.7910/DVN/CMU36B](https://doi.org/10.7910/DVN/CMU36B).
