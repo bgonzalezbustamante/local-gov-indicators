@@ -15,14 +15,21 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [0.21.14] - 2023-01-25
 ### Changed
+- Badges in SVG on GitHub repository.
 - Revision of upgrade versioning.
 - Minor corrections.
+### Removed
+- FOIA raw data.
+- Scatters EGI indexes.
 
 ## [0.21.13] - 2022-07-17
 ### Added
 - Zenodo DOI.
 ### Changed
 - Minor corrections.
+### Deprecated
+- FOIA raw data.
+- Scatters EGI indexes.
 
 ## [0.20.13] - 2022-07-09
 ### Changed
@@ -60,6 +67,7 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [0.19.8] - 2022-04-12
 ### Added
+- FOIA raw data.
 - Transparency sources backups on OSF.
 ### Changed
 - CPLT data sets.
