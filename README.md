@@ -77,7 +77,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile (Version 0.21.14 -- Old Waterfall) [Data set]. DOI: [10.5281/zenodo.6848053](https://doi.org/10.5281/zenodo.6848053)
+González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile (Version 0.21.14 -- Old Waterfall) [Data set]. DOI: [10.5281/zenodo.6848052](https://doi.org/10.5281/zenodo.6848052)
 
 ## Authors
 
