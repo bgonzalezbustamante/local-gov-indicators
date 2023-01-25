@@ -1,11 +1,7 @@
-# :closed_lock_with_key: local-gov-indicators
+# local-gov-indicators
 **Data Set on Local Government Indicators in Chile**
 
-[![Coverage](https://img.shields.io/badge/coverage-25%25-yellow.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/tree/main/data/tidy/cases) [![Version](https://img.shields.io/badge/version-v0.20.14-blue.svg)](CHANGELOG.md) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE-GPL.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](LICENSE-CC.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LICENSE-LPPL.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-
-## Overview
-
-WIP
+[![Coverage](https://img.shields.io/badge/coverage-25%25-yellow.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/tree/main/data/tidy/cases) [![Version](https://img.shields.io/badge/version-v0.21.14-blue.svg)](CHANGELOG.md) [![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](https://www.repostatus.org/badges/latest/suspended.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/local-gov-indicators.svg)](https://github.com/bgonzalezbustamante/local-gov-indicators/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://img.shields.io/badge/DOI-TBC-blue)](CHANGELOG.md) [![License](https://img.shields.io/badge/license-GNU%20GPLv3-black)](LICENSE-GPL.md) [![License](https://img.shields.io/badge/license-CC%20BY%204.0-black)](LICENSE-CC.md) [![License](https://img.shields.io/badge/license-LPPL%20v1.3c-black)](LICENSE-LPPL.md) [![R](https://img.shields.io/badge/made%20with-R%20v4.1.0-1f425f.svg)](https://cran.r-project.org/) [![Latex](https://img.shields.io/badge/made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
 ## Data Pipeline and Coverage
 
@@ -49,15 +45,9 @@ WIP
 | 2020 | :x: | :x: | :x: | :white_check_mark: |  |  |  |
 | 2021 | :white_check_mark: | :x: | :x: | :x: |  |  |  |
 
-## Metadata and Preservation
+## Preservation
 
-This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo. The structure of the repository is detailed below.
-
-WIP
-
-X directories and XX files.
-
-In addition, this README file in Markdown `MD` format provides specific information to ensure the reusability of the data.
+This data set is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo.
 
 ## Storage and Backup
 
@@ -71,31 +61,9 @@ Moreover, the repository is backed up on Hierarchical File Server `HFS` for reco
 
 We use `R` version 4.1.0 (2021-05-18) -- "Camp Pontanezen".
 
-Required `R` libraries are: WIP.
-
-We recommend that users import the data directly using the code below or, if they wish, run exploratory data analysis code from the root directory using the `R` project `e-gov-index.Rproj`.
-
-### Import Data
-
-#### R Code
-
-WIP
-
-#### Python Code
-
-WIP
-
-### Replication Instructions
-
-WIP
-
-### Codebook
-
-WIP
-
 ## License
 
-The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE-CC.md), and the underlying code used to format and display that content is licensed under a [GNU GPLv3 license](LICENSE-GPL.md). In particular, the codebook has been compiled with XeLaTeX using a code licensed under an [LPPL v1.3c license](LICENSE-LPPL.md).
+The content of this project itself is licensed under a [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE-CC.md), and the underlying code used to format and display that content is licensed under a [GNU GPLv3 license](LICENSE-GPL.md). In particular, the codebook will be compiled with XeLaTeX using a code licensed under an [LPPL v1.3c license](LICENSE-LPPL.md).
 
 The above implies that the data sets may be shared, reused, and adapted as long as appropriate acknowledgement is given. In addition, the code may be shared, reused, and adapted as long as the source is disclosed, the changes are stated, and the same [GNU GPLv3 license](LICENSE-GPL.md) is used.
 
@@ -109,7 +77,7 @@ Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2022). Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly) [Data set]. DOI: [10.5281/zenodo.6848053](https://doi.org/10.5281/zenodo.6848053)
+González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile (Version 0.21.14 -- Old Waterfall) [Data set]. DOI: [10.5281/zenodo.6848053](https://doi.org/10.5281/zenodo.6848053)
 
 ## Authors
 
@@ -138,4 +106,4 @@ Elinor Luco ([ORCID iD 0000-0003-3370-4322](https://orcid.org/0000-0003-3370-432
 
 ### Latest Revision
 
-[July 17, 2022](CHANGELOG.md).
+[January 25, 2023](CHANGELOG.md).
