@@ -13,6 +13,11 @@ All notable changes to "Data Set on Local Government Indicators in Chile" will b
 
 ## [Released]
 
+## [0.21.15] - 2023-03-17
+### Changed
+- Badges in SVG on GitHub repository.
+- Minor corrections.
+
 ## [0.21.14] - 2023-01-25
 ### Changed
 - Badges in SVG on GitHub repository.
