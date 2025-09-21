@@ -79,11 +79,11 @@ Contributions are entirely welcome. You just need to [open an issue](https://git
 
 For more substantial contributions, please fork this repository and make changes. Pull requests are also welcome.
 
-Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered on our contributor roles taxonomy.
+Please read our [code of conduct](CODE_OF_CONDUCT.md) first. Minor contributions will be acknowledged, and significant ones will be considered in our contributor roles taxonomy.
 
 ## Citation
 
-González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky) [Data set, pre-release version]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.5281/zenodo.7568387](https://doi.org/10.5281/zenodo.7568387)
+González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile. Data set, pre-release version 0.21.15 -- Late Sky. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: [10.5281/zenodo.7568387](https://doi.org/10.5281/zenodo.7568387)
 
 ## Authors
 
